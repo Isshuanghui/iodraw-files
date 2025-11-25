@@ -925,6 +925,17 @@
         <mxCell id="x9QQRzQq8An5WeDQnm2d-146" value="未逾期" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="x9QQRzQq8An5WeDQnm2d-145">
           <mxGeometry x="54.48430493273543" width="755.5156950672648" height="8.33333333333333" as="geometry" />
         </mxCell>
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-150" value="" style="edgeStyle=segmentEdgeStyle;endArrow=open;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1.076;exitY=0.762;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="147" y="680" as="sourcePoint" />
+            <mxPoint x="145" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="241" y="680" />
+              <mxPoint x="241" y="710" />
+              <mxPoint x="145" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
