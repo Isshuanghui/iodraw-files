@@ -931,17 +931,6 @@
         <mxCell id="x9QQRzQq8An5WeDQnm2d-155" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="845" y="1300" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-156" value="" style="edgeStyle=segmentEdgeStyle;endArrow=open;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1.076;exitY=0.762;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="137" y="1290" as="sourcePoint" />
-            <mxPoint x="135" y="1320" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="231" y="1290" />
-              <mxPoint x="231" y="1320" />
-              <mxPoint x="135" y="1320" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-157" value="47.咨询图书位置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="1260" width="110" height="30" as="geometry" />
         </mxCell>
