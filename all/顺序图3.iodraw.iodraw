@@ -426,16 +426,6 @@
             <mxPoint x="380" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-60" value="46. 确认还书完成" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="178.36" y="1759" />
-              <mxPoint x="178.36" y="1789" />
-            </Array>
-            <mxPoint x="125.00285714285688" y="1759" as="sourcePoint" />
-            <mxPoint x="125.00285714285688" y="1789" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-61" value="47. 咨询图书位置" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
