@@ -64,13 +64,13 @@
             <mxPoint x="598.49" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-17" value="3. 验证管理员权限" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-17" value="3. 验证管理员权限" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="736.5" y="134.8" />
+              <mxPoint x="736.9" y="140" />
             </Array>
-            <mxPoint x="599.5999999999999" y="134.8" as="sourcePoint" />
-            <mxPoint x="850" y="135" as="targetPoint" />
+            <mxPoint x="599.9999999999999" y="140" as="sourcePoint" />
+            <mxPoint x="850.4" y="140.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-18" value="4. 返回验证结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-4" target="x9QQRzQq8An5WeDQnm2d-3">
@@ -704,7 +704,7 @@
           <mxGeometry x="590" y="130" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-113" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=3.33;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="845" y="130" width="10" height="30" as="geometry" />
+          <mxGeometry x="845" y="140" width="10" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
