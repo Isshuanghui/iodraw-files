@@ -631,13 +631,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-90" value="76. 检查延长条件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
-          <mxGeometry x="-0.5299" relative="1" as="geometry">
+          <mxGeometry x="0.0073" y="10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="488.36" y="1910" />
             </Array>
             <mxPoint x="367.5028571428569" y="1910" as="sourcePoint" />
             <mxPoint x="590.8600000000005" y="1910" as="targetPoint" />
-            <mxPoint x="-1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-91" value="77. 验证延长资格" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
