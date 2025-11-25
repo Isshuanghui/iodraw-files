@@ -739,13 +739,13 @@
             <mxPoint x="375.6428571428569" y="2259.09" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-104" value="90. 告知审批流程和时间" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-104" value="90. 告知审批流程和时间" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="259.36" y="2994" />
+              <mxPoint x="267.5" y="2300" />
             </Array>
-            <mxPoint x="369.36" y="2994" as="sourcePoint" />
-            <mxPoint x="125.0028571428569" y="2994" as="targetPoint" />
+            <mxPoint x="377.5" y="2300" as="sourcePoint" />
+            <mxPoint x="133.14285714285688" y="2300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-110" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
