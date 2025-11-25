@@ -560,10 +560,10 @@
         <mxCell id="x9QQRzQq8An5WeDQnm2d-81" value="67. 获取账号信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="736.4300000000001" y="1828" />
+              <mxPoint x="728.36" y="1739" />
             </Array>
-            <mxPoint x="597.0728571428574" y="1827.999999999999" as="sourcePoint" />
-            <mxPoint x="854.9300000000001" y="1827.999999999999" as="targetPoint" />
+            <mxPoint x="589.0028571428574" y="1738.999999999999" as="sourcePoint" />
+            <mxPoint x="846.86" y="1738.999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-82" value="68. 返回账号数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
