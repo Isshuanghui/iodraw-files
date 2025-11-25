@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Ms2yfDWYv_SXtJzphunb">
-    <mxGraphModel dx="978" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="546" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,13 +46,13 @@
         <mxCell id="x9QQRzQq8An5WeDQnm2d-14" value="[不符合条件]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="x9QQRzQq8An5WeDQnm2d-12">
           <mxGeometry y="359" width="1017" height="4" as="geometry" />
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-15" value="1. 提交借书申请(线下)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;entryX=0.055;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" target="x9QQRzQq8An5WeDQnm2d-111">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-15" value="1. 提交借书申请(线下)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;entryX=0.055;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="264.01" y="120" />
             </Array>
             <mxPoint x="134.99717948717932" y="120" as="sourcePoint" />
-            <mxPoint x="374.51" y="120" as="targetPoint" />
+            <mxPoint x="365.54999999999995" y="120.43999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-16" value="2. 登录管理员系统" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1" target="x9QQRzQq8An5WeDQnm2d-3">
@@ -144,13 +144,13 @@
             <mxPoint x="845.18" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-26" value="12. 返回图书数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;entryX=1.009;entryY=0.41;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="x9QQRzQq8An5WeDQnm2d-112">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-26" value="12. 返回图书数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;entryX=1.009;entryY=0.41;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="610" y="290" />
             </Array>
             <mxPoint x="845" y="290" as="sourcePoint" />
-            <mxPoint x="620" y="292" as="targetPoint" />
+            <mxPoint x="599.0899999999999" y="289.9000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-27" value="13. 显示图书详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" edge="1" parent="1">
@@ -719,12 +719,6 @@
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-110" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="125" y="120" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-111" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="365" y="120" width="10" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-112" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="589" y="130" width="10" height="390" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-113" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=3.33;indent=5;" vertex="1" parent="1">
           <mxGeometry x="845" y="140" width="10" height="220" as="geometry" />
