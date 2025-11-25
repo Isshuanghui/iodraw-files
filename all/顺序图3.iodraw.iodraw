@@ -373,10 +373,10 @@
         <mxCell id="x9QQRzQq8An5WeDQnm2d-53" value="39. 记录支付信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="728.36" y="1385" />
+              <mxPoint x="516.86" y="1040" />
             </Array>
-            <mxPoint x="589.0028571428574" y="1385" as="sourcePoint" />
-            <mxPoint x="846.86" y="1385" as="targetPoint" />
+            <mxPoint x="377.50285714285735" y="1040" as="sourcePoint" />
+            <mxPoint x="635.36" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-54" value="40. 返回记录结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
