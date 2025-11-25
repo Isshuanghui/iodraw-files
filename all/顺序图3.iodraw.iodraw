@@ -363,12 +363,12 @@
         <mxCell id="x9QQRzQq8An5WeDQnm2d-52" value="38. 确认费用支付" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1027.36" y="1330" />
-              <mxPoint x="777.36" y="1330" />
-              <mxPoint x="931.36" y="1333" />
+              <mxPoint x="573.3599999999999" y="1020" />
+              <mxPoint x="323.36" y="1020" />
+              <mxPoint x="477.36" y="1023" />
             </Array>
-            <mxPoint x="1246.86" y="1330" as="sourcePoint" />
-            <mxPoint x="589.0028571428574" y="1330" as="targetPoint" />
+            <mxPoint x="360" y="1020" as="sourcePoint" />
+            <mxPoint x="135.00285714285735" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-53" value="39. 记录支付信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
