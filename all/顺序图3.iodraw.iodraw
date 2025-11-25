@@ -530,7 +530,7 @@
             <mxPoint x="599.0028571428574" y="1630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-77" value="63. 确认问题记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;entryX=1.377;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.015;exitY=0.749;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-169" target="x9QQRzQq8An5WeDQnm2d-168">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-77" value="63. 确认问题记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;entryX=1.377;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.015;exitY=0.749;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-169" target="x9QQRzQq8An5WeDQnm2d-168">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="401.36" y="1660" />
