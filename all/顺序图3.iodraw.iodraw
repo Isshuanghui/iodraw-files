@@ -90,11 +90,13 @@
             <mxPoint x="375.33333333333326" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-20" value="6. 扫描读者证件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-2" target="x9QQRzQq8An5WeDQnm2d-3">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-20" value="6. 扫描读者证件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="491" y="456" />
+              <mxPoint x="486.13" y="200" />
             </Array>
+            <mxPoint x="365.005" y="200" as="sourcePoint" />
+            <mxPoint x="588.6299999999998" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-21" value="7. 查询读者信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-3" target="x9QQRzQq8An5WeDQnm2d-4">
@@ -701,10 +703,10 @@
           <mxGeometry x="125" y="120" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-111" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="365" y="120" width="10" height="80" as="geometry" />
+          <mxGeometry x="365" y="120" width="10" height="140" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-112" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="589" y="130" width="10" height="40" as="geometry" />
+          <mxGeometry x="589" y="130" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-113" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=3.33;indent=5;" vertex="1" parent="1">
           <mxGeometry x="845" y="140" width="10" height="50" as="geometry" />
