@@ -497,10 +497,10 @@
         <mxCell id="x9QQRzQq8An5WeDQnm2d-73" value="59. 报告图书损坏" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="281.36" y="1588.5700000000002" />
+              <mxPoint x="256.36" y="1570.0000000000002" />
             </Array>
-            <mxPoint x="150.0028571428569" y="1588.570000000001" as="sourcePoint" />
-            <mxPoint x="394.36" y="1588.570000000001" as="targetPoint" />
+            <mxPoint x="125.0028571428569" y="1570.0000000000011" as="sourcePoint" />
+            <mxPoint x="369.36" y="1570.0000000000011" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-74" value="60. 记录图书问题" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
@@ -953,7 +953,7 @@
           <mxGeometry x="125" y="1570" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-168" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="367.5" y="1590" width="10" height="90" as="geometry" />
+          <mxGeometry x="367.5" y="1570" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-169" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="589" y="1590" width="10" height="90" as="geometry" />
