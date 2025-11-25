@@ -694,13 +694,13 @@
             <mxPoint x="380" y="2010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-99" value="85. 申请特殊权限" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-99" value="85. 申请特殊权限" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="256.36" y="2718" />
+              <mxPoint x="256.36" y="2178.95" />
             </Array>
-            <mxPoint x="125.0028571428569" y="2718" as="sourcePoint" />
-            <mxPoint x="369.36" y="2718" as="targetPoint" />
+            <mxPoint x="125.0028571428569" y="2178.95" as="sourcePoint" />
+            <mxPoint x="369.36" y="2178.95" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-100" value="86. 提交权限申请" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
