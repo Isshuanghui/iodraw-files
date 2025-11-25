@@ -144,11 +144,13 @@
             <mxPoint x="845.18" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-26" value="12. 返回图书数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-4" target="x9QQRzQq8An5WeDQnm2d-3">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-26" value="12. 返回图书数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="734" y="784" />
+              <mxPoint x="730.17" y="300" />
             </Array>
+            <mxPoint x="845.67" y="300" as="sourcePoint" />
+            <mxPoint x="589.003333333333" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-27" value="13. 显示图书详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-3" target="x9QQRzQq8An5WeDQnm2d-2">
