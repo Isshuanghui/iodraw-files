@@ -721,12 +721,12 @@
             <mxPoint x="845" y="2209.999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-102" value="88. 返回记录结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-102" value="88. 返回记录结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;exitX=0.5;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-192">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="841.36" y="2240" />
             </Array>
-            <mxPoint x="841" y="2248" as="sourcePoint" />
+            <mxPoint x="840" y="2240" as="sourcePoint" />
             <mxPoint x="599.0028571428574" y="2240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
