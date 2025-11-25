@@ -1,0 +1,77 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="9tOLLllaDRQYBx6SRupB">
+    <mxGraphModel dx="1173" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9_0CCm-2dc_r2MUIA13j-1" value="读者" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="150" height="646" as="geometry" />
+        </mxCell>
+        <mxCell id="9_0CCm-2dc_r2MUIA13j-2" value="图书馆管理系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="244" y="20" width="150" height="646" as="geometry" />
+        </mxCell>
+        <mxCell id="9_0CCm-2dc_r2MUIA13j-3" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="444" y="20" width="150" height="646" as="geometry" />
+        </mxCell>
+        <mxCell id="9_0CCm-2dc_r2MUIA13j-4" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="84" y="259" width="446" height="312" as="geometry" />
+        </mxCell>
+        <mxCell id="9_0CCm-2dc_r2MUIA13j-5" value="[验证成功]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="9_0CCm-2dc_r2MUIA13j-4">
+          <mxGeometry x="30" width="416" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9_0CCm-2dc_r2MUIA13j-6" value="[验证失败]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="9_0CCm-2dc_r2MUIA13j-4">
+          <mxGeometry y="217" width="446" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="9_0CCm-2dc_r2MUIA13j-7" value="11. 输入账号密码登录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="9_0CCm-2dc_r2MUIA13j-1" target="9_0CCm-2dc_r2MUIA13j-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="216" y="131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_0CCm-2dc_r2MUIA13j-8" value="12. 验证登录凭证" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="9_0CCm-2dc_r2MUIA13j-2" target="9_0CCm-2dc_r2MUIA13j-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="428" y="187" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_0CCm-2dc_r2MUIA13j-9" value="13. 返回验证结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="9_0CCm-2dc_r2MUIA13j-3" target="9_0CCm-2dc_r2MUIA13j-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="431" y="239" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_0CCm-2dc_r2MUIA13j-10" value="14. 记录登录日志" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="9_0CCm-2dc_r2MUIA13j-2" target="9_0CCm-2dc_r2MUIA13j-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="428" y="343" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_0CCm-2dc_r2MUIA13j-11" value="15. 返回记录结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="9_0CCm-2dc_r2MUIA13j-3" target="9_0CCm-2dc_r2MUIA13j-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="431" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_0CCm-2dc_r2MUIA13j-12" value="16. 显示个人主页" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="9_0CCm-2dc_r2MUIA13j-2" target="9_0CCm-2dc_r2MUIA13j-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="219" y="451" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9_0CCm-2dc_r2MUIA13j-13" value="17. 显示错误信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="9_0CCm-2dc_r2MUIA13j-2" target="9_0CCm-2dc_r2MUIA13j-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="219" y="551" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
