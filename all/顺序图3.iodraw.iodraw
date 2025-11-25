@@ -235,11 +235,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-36" value="22. 交付图书并告知还书日期" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-1" target="x9QQRzQq8An5WeDQnm2d-1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0741" y="79" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="181" y="1380" />
               <mxPoint x="181" y="1410" />
             </Array>
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-37" value="23. 显示不可借原因" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-3" target="x9QQRzQq8An5WeDQnm2d-1">
