@@ -584,7 +584,7 @@
             <mxPoint x="377.5028571428569" y="1774.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-84" value="70. 执行账号修复" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-84" value="70. 执行账号修复" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="488.36" y="1790" />
@@ -596,10 +596,10 @@
         <mxCell id="x9QQRzQq8An5WeDQnm2d-85" value="71. 更新账号状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="736.4300000000001" y="2052" />
+              <mxPoint x="726.5000000000001" y="1800" />
             </Array>
-            <mxPoint x="597.0728571428574" y="2052" as="sourcePoint" />
-            <mxPoint x="854.9300000000001" y="2052" as="targetPoint" />
+            <mxPoint x="587.1428571428575" y="1800" as="sourcePoint" />
+            <mxPoint x="845.0000000000001" y="1800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-86" value="72. 返回更新结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
