@@ -996,6 +996,16 @@
         <mxCell id="x9QQRzQq8An5WeDQnm2d-186" value="          [不符合条件]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="x9QQRzQq8An5WeDQnm2d-184">
           <mxGeometry y="139.10256410256412" width="869.9999999999998" height="2.564102564102564" as="geometry" />
         </mxCell>
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-187" value="" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;entryX=1.092;entryY=0.893;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="0.1023" y="-10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="2030" />
+            </Array>
+            <mxPoint x="377.50000000000045" y="2030.2" as="sourcePoint" />
+            <mxPoint x="146" y="2030" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
