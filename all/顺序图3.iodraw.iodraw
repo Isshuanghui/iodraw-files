@@ -988,7 +988,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-184" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="20" y="1270" width="540" height="90" as="geometry" />
+          <mxGeometry x="90" y="1930" width="540" height="90" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-185" value="[验证成功]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="x9QQRzQq8An5WeDQnm2d-184">
           <mxGeometry x="36.32286995515695" width="503.6771300448432" height="5.769230769230767" as="geometry" />
