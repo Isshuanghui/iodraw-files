@@ -216,13 +216,12 @@
             <mxPoint x="845.8199999999996" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-34" value="20. 返回记录结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" target="x9QQRzQq8An5WeDQnm2d-3">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-34" value="20. 返回记录结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-5" target="x9QQRzQq8An5WeDQnm2d-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="850" y="500" />
+              <mxPoint x="930" y="500" />
               <mxPoint x="834" y="1268" />
             </Array>
-            <mxPoint x="840" y="500" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-35" value="21. 显示借书成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-3" target="x9QQRzQq8An5WeDQnm2d-1">
