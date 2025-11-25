@@ -762,6 +762,17 @@
             <mxPoint x="-792" y="-830" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-125" value="22. 交付图书并告知还书日期" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.2273" y="831" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="191" y="1390" />
+              <mxPoint x="191" y="1420" />
+            </Array>
+            <mxPoint x="140" y="1390" as="sourcePoint" />
+            <mxPoint x="140" y="1420" as="targetPoint" />
+            <mxPoint x="-792" y="-830" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
