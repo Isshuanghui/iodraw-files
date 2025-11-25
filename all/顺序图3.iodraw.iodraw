@@ -661,10 +661,10 @@
         <mxCell id="x9QQRzQq8An5WeDQnm2d-93" value="79. 批准延长申请" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="488.36" y="2238" />
+              <mxPoint x="485.86" y="1949.55" />
             </Array>
-            <mxPoint x="367.5028571428569" y="2238" as="sourcePoint" />
-            <mxPoint x="590.8600000000005" y="2238" as="targetPoint" />
+            <mxPoint x="365.0028571428569" y="1949.55" as="sourcePoint" />
+            <mxPoint x="588.3600000000005" y="1949.55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-94" value="80. 更新还书日期" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
