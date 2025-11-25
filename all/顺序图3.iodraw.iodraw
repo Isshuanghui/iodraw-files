@@ -144,7 +144,7 @@
             <mxPoint x="845.18" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-26" value="12. 返回图书数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;entryX=1.103;entryY=0.937;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" target="x9QQRzQq8An5WeDQnm2d-112">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-26" value="12. 返回图书数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;entryX=0.667;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" target="x9QQRzQq8An5WeDQnm2d-112">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="729.5" y="290" />
@@ -153,7 +153,7 @@
             <mxPoint x="588.333333333333" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-27" value="13. 显示图书详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-27" value="13. 显示图书详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="499.5" y="300" />
@@ -720,7 +720,7 @@
           <mxGeometry x="365" y="120" width="10" height="240" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-112" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="589" y="130" width="10" height="170" as="geometry" />
+          <mxGeometry x="589" y="130" width="10" height="390" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-113" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=3.33;indent=5;" vertex="1" parent="1">
           <mxGeometry x="845" y="140" width="10" height="170" as="geometry" />
