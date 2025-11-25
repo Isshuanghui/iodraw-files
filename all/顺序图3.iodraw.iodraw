@@ -55,13 +55,13 @@
             <mxPoint x="374.51" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-16" value="2. 登录管理员系统" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;entryX=-0.081;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" target="x9QQRzQq8An5WeDQnm2d-112">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-16" value="2. 登录管理员系统" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;entryX=0;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="x9QQRzQq8An5WeDQnm2d-112">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="495.99" y="130" />
             </Array>
             <mxPoint x="375.00219512195133" y="130" as="sourcePoint" />
-            <mxPoint x="598.49" y="130" as="targetPoint" />
+            <mxPoint x="580" y="129" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-17" value="3. 验证管理员权限" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;entryX=-0.102;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="x9QQRzQq8An5WeDQnm2d-113">
@@ -702,7 +702,7 @@
           <mxGeometry x="365" y="120" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-112" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="590" y="130" width="10" height="60" as="geometry" />
+          <mxGeometry x="589" y="130" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-113" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=3.33;indent=5;" vertex="1" parent="1">
           <mxGeometry x="845" y="140" width="10" height="50" as="geometry" />
