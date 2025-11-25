@@ -1007,8 +1007,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-188" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="225" y="2268" width="50" height="30" as="geometry" />
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-188" value="83.通知新的还书日期" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2268" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
