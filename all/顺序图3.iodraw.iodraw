@@ -694,16 +694,6 @@
             <mxPoint x="380" y="2010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-97" value="83. 通知新的还书日期" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="178.36" y="2458" />
-              <mxPoint x="178.36" y="2488" />
-            </Array>
-            <mxPoint x="125.0028571428569" y="2458" as="sourcePoint" />
-            <mxPoint x="125.0028571428569" y="2488" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-98" value="84. 解释拒绝原因" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
