@@ -46,7 +46,7 @@
         <mxCell id="x9QQRzQq8An5WeDQnm2d-14" value="[不符合条件]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="x9QQRzQq8An5WeDQnm2d-12">
           <mxGeometry y="359" width="1017" height="4" as="geometry" />
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-15" value="1. 提交借书申请(线下)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-15" value="1. 提交借书申请(线下)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;entryX=0.055;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" target="x9QQRzQq8An5WeDQnm2d-111">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="264.01" y="120" />
