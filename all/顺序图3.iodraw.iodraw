@@ -472,9 +472,7 @@
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-68" value="54. 查询推荐书目" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="365" y="1430" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="376.64" y="1430" as="sourcePoint" />
             <mxPoint x="587.5000000000005" y="1430" as="targetPoint" />
           </mxGeometry>
