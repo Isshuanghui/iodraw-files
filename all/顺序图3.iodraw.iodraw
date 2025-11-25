@@ -417,13 +417,13 @@
             <mxPoint x="599.0028571428574" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-59" value="45. 显示还书成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-59" value="45. 显示还书成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="385.93" y="1150" />
+              <mxPoint x="379.5" y="1150" />
             </Array>
-            <mxPoint x="605.4300000000005" y="1150" as="sourcePoint" />
-            <mxPoint x="139.5728571428569" y="1150" as="targetPoint" />
+            <mxPoint x="599.0000000000006" y="1150" as="sourcePoint" />
+            <mxPoint x="133.14285714285688" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-60" value="46. 确认还书完成" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1">
@@ -893,7 +893,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-131" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="125" y="740" width="10" height="390" as="geometry" />
+          <mxGeometry x="125" y="740" width="10" height="420" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-132" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="367.5" y="740" width="10" height="50" as="geometry" />
