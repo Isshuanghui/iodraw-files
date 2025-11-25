@@ -171,7 +171,7 @@
             <mxPoint x="589.33" y="324.33000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-29" value="15. 检查借书条件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-29" value="15. 检查借书条件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1" target="x9QQRzQq8An5WeDQnm2d-113">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="736.83" y="340" />
@@ -727,7 +727,7 @@
           <mxGeometry x="589" y="130" width="10" height="390" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-113" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=3.33;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="845" y="140" width="10" height="170" as="geometry" />
+          <mxGeometry x="845" y="140" width="10" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
