@@ -959,8 +959,8 @@
             <mxPoint x="367.50000000000045" y="1420.09" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-165" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="205" y="1388" width="50" height="30" as="geometry" />
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-165" value="53.咨询图书推荐" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1400" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
