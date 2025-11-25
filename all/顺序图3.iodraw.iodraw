@@ -987,6 +987,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-183" value="[验证成功]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="56.32286995515695" y="1270" width="503.6771300448432" height="5.769230769230767" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
