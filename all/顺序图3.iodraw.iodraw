@@ -539,7 +539,7 @@
             <mxPoint x="380" y="1660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-79" value="65. 申请账号问题解决" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-79" value="65. 申请账号问题解决" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;entryX=-0.114;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="x9QQRzQq8An5WeDQnm2d-173">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="264.43" y="1720" />
@@ -551,10 +551,10 @@
         <mxCell id="x9QQRzQq8An5WeDQnm2d-80" value="66. 查询账号状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="496.43" y="1776" />
+              <mxPoint x="488.36" y="1730" />
             </Array>
-            <mxPoint x="375.5728571428569" y="1776" as="sourcePoint" />
-            <mxPoint x="598.9300000000005" y="1776" as="targetPoint" />
+            <mxPoint x="367.5028571428569" y="1730" as="sourcePoint" />
+            <mxPoint x="590.8600000000005" y="1730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-81" value="67. 获取账号信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
