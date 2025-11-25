@@ -943,14 +943,17 @@
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-156" value="" style="edgeStyle=segmentEdgeStyle;endArrow=open;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1.076;exitY=0.762;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="147" y="1170" as="sourcePoint" />
-            <mxPoint x="145" y="1200" as="targetPoint" />
+            <mxPoint x="137" y="1290" as="sourcePoint" />
+            <mxPoint x="135" y="1320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="241" y="1170" />
-              <mxPoint x="241" y="1200" />
-              <mxPoint x="145" y="1200" />
+              <mxPoint x="231" y="1290" />
+              <mxPoint x="231" y="1320" />
+              <mxPoint x="135" y="1320" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-157" value="46.确认还书完成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1149" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
