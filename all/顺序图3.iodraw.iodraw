@@ -494,7 +494,7 @@
             <mxPoint x="375.00000000000006" y="1489.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-73" value="59. 报告图书损坏" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-73" value="59. 报告图书损坏" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="256.36" y="1570.0000000000002" />
@@ -506,10 +506,10 @@
         <mxCell id="x9QQRzQq8An5WeDQnm2d-74" value="60. 记录图书问题" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="488.36" y="2411" />
+              <mxPoint x="486.5" y="1590" />
             </Array>
-            <mxPoint x="367.5028571428569" y="2411" as="sourcePoint" />
-            <mxPoint x="590.8600000000005" y="2411" as="targetPoint" />
+            <mxPoint x="365.6428571428569" y="1590" as="sourcePoint" />
+            <mxPoint x="589.0000000000005" y="1590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-75" value="61. 更新图书状态为维修中" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
