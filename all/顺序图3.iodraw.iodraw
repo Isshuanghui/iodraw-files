@@ -620,7 +620,7 @@
             <mxPoint x="377.50446808510645" y="1830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-89" value="75. 申请延长借阅期限" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-89" value="75. 申请延长借阅期限" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry x="-0.0436" y="10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="264.5" y="1890" />
