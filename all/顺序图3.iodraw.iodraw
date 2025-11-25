@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Ms2yfDWYv_SXtJzphunb">
-    <mxGraphModel dx="733" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="489" dy="320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,13 +55,13 @@
             <mxPoint x="374.51" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-16" value="2. 登录管理员系统" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;entryX=0;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="x9QQRzQq8An5WeDQnm2d-112">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-16" value="2. 登录管理员系统" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="495.99" y="130" />
             </Array>
             <mxPoint x="375.00219512195133" y="130" as="sourcePoint" />
-            <mxPoint x="580" y="129" as="targetPoint" />
+            <mxPoint x="570" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-17" value="3. 验证管理员权限" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;entryX=-0.102;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="x9QQRzQq8An5WeDQnm2d-113">
