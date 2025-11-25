@@ -621,13 +621,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-89" value="75. 申请延长借阅期限" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
-          <mxGeometry x="0.0231" y="20" relative="1" as="geometry">
+          <mxGeometry x="-0.0436" y="10" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="256.36" y="1970" />
+              <mxPoint x="264.5" y="1890" />
             </Array>
-            <mxPoint x="125.0028571428569" y="1969.999999999999" as="sourcePoint" />
-            <mxPoint x="369.36" y="1969.999999999999" as="targetPoint" />
-            <mxPoint x="-2" as="offset" />
+            <mxPoint x="133.14285714285688" y="1889.999999999999" as="sourcePoint" />
+            <mxPoint x="377.5" y="1889.999999999999" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-90" value="76. 检查延长条件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
@@ -976,7 +976,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-178" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="135" y="1730" width="10" height="120" as="geometry" />
+          <mxGeometry x="125" y="1890" width="10" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
