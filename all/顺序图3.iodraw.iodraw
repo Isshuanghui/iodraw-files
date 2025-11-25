@@ -695,13 +695,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-98" value="84. 解释拒绝原因" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.2051" y="-420" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="200" y="2520" />
               <mxPoint x="178.36" y="2622" />
             </Array>
             <mxPoint x="125.0028571428569" y="2592" as="sourcePoint" />
             <mxPoint x="125.0028571428569" y="2622" as="targetPoint" />
+            <mxPoint x="431" y="-333" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-99" value="85. 申请特殊权限" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
@@ -1005,6 +1006,9 @@
             <mxPoint x="136" y="2110" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-188" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="2268" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
