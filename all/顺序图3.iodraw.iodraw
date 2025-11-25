@@ -273,10 +273,10 @@
         <mxCell id="x9QQRzQq8An5WeDQnm2d-42" value="28. 返回借阅信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="740.72" y="890" />
+              <mxPoint x="740.72" y="779.47" />
             </Array>
-            <mxPoint x="856.2200000000005" y="890" as="sourcePoint" />
-            <mxPoint x="598.9977777777774" y="890" as="targetPoint" />
+            <mxPoint x="856.2200000000005" y="779.47" as="sourcePoint" />
+            <mxPoint x="598.9977777777774" y="779.47" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-43" value="29. 显示借阅详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
