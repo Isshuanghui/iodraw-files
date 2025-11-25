@@ -780,8 +780,8 @@
         <mxCell id="x9QQRzQq8An5WeDQnm2d-134" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="845" y="840" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-135" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="255" y="548" width="50" height="30" as="geometry" />
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-135" value="22，&lt;span style=&quot;color: rgb(15, 17, 21); font-family: var(--ds-font-family-code); text-align: start; text-wrap-mode: wrap; background-color: initial;&quot;&gt;交付图书并告知还书日期&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="548" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
