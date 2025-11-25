@@ -46,11 +46,13 @@
         <mxCell id="x9QQRzQq8An5WeDQnm2d-14" value="[不符合条件]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="x9QQRzQq8An5WeDQnm2d-12">
           <mxGeometry y="359" width="1017" height="4" as="geometry" />
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-15" value="1. 提交借书申请(线下)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-1" target="x9QQRzQq8An5WeDQnm2d-2">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-15" value="1. 提交借书申请(线下)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="259" y="180" />
+              <mxPoint x="264.01" y="120" />
             </Array>
+            <mxPoint x="134.99717948717932" y="120" as="sourcePoint" />
+            <mxPoint x="374.51" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-16" value="2. 登录管理员系统" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-2" target="x9QQRzQq8An5WeDQnm2d-3">
