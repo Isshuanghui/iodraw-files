@@ -423,7 +423,7 @@
               <mxPoint x="379.5" y="1150" />
             </Array>
             <mxPoint x="599.0000000000006" y="1150" as="sourcePoint" />
-            <mxPoint x="133.14285714285688" y="1150" as="targetPoint" />
+            <mxPoint x="380" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-60" value="46. 确认还书完成" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1">
@@ -911,7 +911,7 @@
           <mxGeometry x="150" y="650" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-140" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="367.5" y="840" width="10" height="240" as="geometry" />
+          <mxGeometry x="367.5" y="840" width="10" height="320" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-141" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="589" y="850" width="10" height="360" as="geometry" />
