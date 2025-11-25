@@ -235,7 +235,7 @@
             <mxPoint x="134.99777777777783" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-37" value="23. 显示不可借原因" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-37" value="23. 显示不可借原因" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;entryX=1.248;entryY=0.899;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" target="x9QQRzQq8An5WeDQnm2d-110">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="363.83" y="650" />
