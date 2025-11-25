@@ -342,13 +342,13 @@
             <mxPoint x="377.49777777777786" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-50" value="36. 告知逾期费用" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-50" value="36. 告知逾期费用" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="268.72" y="1382" />
+              <mxPoint x="268.72" y="970" />
             </Array>
-            <mxPoint x="378.7200000000005" y="1382" as="sourcePoint" />
-            <mxPoint x="134.99777777777783" y="1382" as="targetPoint" />
+            <mxPoint x="378.7200000000005" y="970" as="sourcePoint" />
+            <mxPoint x="134.99777777777783" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-51" value="37. 支付逾期费用" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
