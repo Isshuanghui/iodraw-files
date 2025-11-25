@@ -207,11 +207,13 @@
             <mxPoint x="599.0015384615385" y="436.73" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-33" value="19. 记录借阅日志" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-3" target="x9QQRzQq8An5WeDQnm2d-4">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-33" value="19. 记录借阅日志" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="731" y="1216" />
+              <mxPoint x="727.32" y="470" />
             </Array>
+            <mxPoint x="589.0018181818185" y="470" as="sourcePoint" />
+            <mxPoint x="845.8199999999996" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-34" value="20. 返回记录结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-5" target="x9QQRzQq8An5WeDQnm2d-3">
