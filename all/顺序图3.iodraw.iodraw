@@ -988,13 +988,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-184" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="90" y="1930" width="540" height="90" as="geometry" />
+          <mxGeometry x="90" y="1930" width="770" height="200" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-185" value="[验证成功]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="x9QQRzQq8An5WeDQnm2d-184">
-          <mxGeometry x="36.32286995515695" width="503.6771300448432" height="5.769230769230767" as="geometry" />
+          <mxGeometry x="51.79372197309417" width="718.2062780269059" height="12.820512820512818" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-186" value="          [验证失败]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="x9QQRzQq8An5WeDQnm2d-184">
-          <mxGeometry y="62.59615384615385" width="540" height="1.1538461538461537" as="geometry" />
+          <mxGeometry y="139.10256410256412" width="769.9999999999999" height="2.564102564102564" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
