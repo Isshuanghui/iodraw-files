@@ -81,11 +81,13 @@
             <mxPoint x="599.4117647058822" y="164.7099999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-19" value="5. 显示管理界面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-3" target="x9QQRzQq8An5WeDQnm2d-2">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-19" value="5. 显示管理界面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="494" y="400" />
+              <mxPoint x="499.5" y="170" />
             </Array>
+            <mxPoint x="599" y="170" as="sourcePoint" />
+            <mxPoint x="375.33333333333326" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-20" value="6. 扫描读者证件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-2" target="x9QQRzQq8An5WeDQnm2d-3">
