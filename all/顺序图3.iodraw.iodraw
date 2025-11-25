@@ -611,13 +611,13 @@
             <mxPoint x="599.0028571428574" y="1820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-87" value="73. 显示修复结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;exitX=-0.119;exitY=0.827;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-174" target="x9QQRzQq8An5WeDQnm2d-2">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-87" value="73. 显示修复结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;exitX=-0.119;exitY=0.827;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="1820" />
+              <mxPoint x="494.93" y="1830" />
             </Array>
-            <mxPoint x="598.9300000000005" y="2156" as="sourcePoint" />
-            <mxPoint x="390" y="2156" as="targetPoint" />
+            <mxPoint x="592.7400000000002" y="1830.9699999999998" as="sourcePoint" />
+            <mxPoint x="377.50446808510645" y="1830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-88" value="74. 告知处理结果" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1">
