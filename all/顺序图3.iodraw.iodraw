@@ -772,7 +772,10 @@
           <mxGeometry x="125" y="830" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-132" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="385" y="340" width="10" height="60" as="geometry" />
+          <mxGeometry x="355" y="830" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-133" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="589" y="860" width="10" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
