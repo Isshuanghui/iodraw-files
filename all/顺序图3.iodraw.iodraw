@@ -495,13 +495,13 @@
             <mxPoint x="610" y="1474" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-71" value="57. 显示推荐书目" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" target="x9QQRzQq8An5WeDQnm2d-2">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-71" value="57. 显示推荐书目" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="371.36" y="2168" />
+              <mxPoint x="374.16" y="1489.2" />
             </Array>
-            <mxPoint x="590.8600000000005" y="2168" as="sourcePoint" />
-            <mxPoint x="125.00285714285688" y="2168" as="targetPoint" />
+            <mxPoint x="593.6600000000004" y="1489.2" as="sourcePoint" />
+            <mxPoint x="375.00000000000006" y="1489.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-72" value="58. 提供专业推荐" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1">
