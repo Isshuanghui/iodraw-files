@@ -394,13 +394,13 @@
             <mxPoint x="845" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-56" value="42. 返回更新结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-56" value="42. 返回更新结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="841.36" y="1080" />
+              <mxPoint x="841.36" y="1091" />
             </Array>
-            <mxPoint x="860" y="1079" as="sourcePoint" />
-            <mxPoint x="599.0028571428574" y="1080" as="targetPoint" />
+            <mxPoint x="860" y="1090" as="sourcePoint" />
+            <mxPoint x="599.0028571428574" y="1091" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-57" value="43. 更新借阅记录为已归还" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
