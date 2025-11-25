@@ -685,13 +685,13 @@
             <mxPoint x="599.0028571428574" y="1990.000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-96" value="82. 显示延长成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-96" value="82. 显示延长成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;entryX=0.894;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="x9QQRzQq8An5WeDQnm2d-179">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="371.36" y="2402" />
+              <mxPoint x="379.5" y="2010" />
             </Array>
-            <mxPoint x="590.8600000000005" y="2402" as="sourcePoint" />
-            <mxPoint x="125.0028571428569" y="2402" as="targetPoint" />
+            <mxPoint x="599.0000000000005" y="2010" as="sourcePoint" />
+            <mxPoint x="133.14285714285688" y="2010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-97" value="83. 通知新的还书日期" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1">
