@@ -477,7 +477,7 @@
             <mxPoint x="587.5000000000005" y="1430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-69" value="55. 获取推荐算法结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-69" value="55. 获取推荐算法结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;exitX=0.93;exitY=0.269;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-162">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="726.5" y="1440" />
