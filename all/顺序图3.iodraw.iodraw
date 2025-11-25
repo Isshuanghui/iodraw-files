@@ -388,10 +388,10 @@
         <mxCell id="x9QQRzQq8An5WeDQnm2d-55" value="41. 更新图书状态为可借" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="726.5" y="1060" />
+              <mxPoint x="726.5" y="1070" />
             </Array>
-            <mxPoint x="587.1428571428573" y="1060" as="sourcePoint" />
-            <mxPoint x="845" y="1060" as="targetPoint" />
+            <mxPoint x="587.1428571428573" y="1070" as="sourcePoint" />
+            <mxPoint x="845" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-56" value="42. 返回更新结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
@@ -399,7 +399,7 @@
             <Array as="points">
               <mxPoint x="831.36" y="1551" />
             </Array>
-            <mxPoint x="1046.86" y="1551" as="sourcePoint" />
+            <mxPoint x="850" y="1550" as="sourcePoint" />
             <mxPoint x="589.0028571428574" y="1551" as="targetPoint" />
           </mxGeometry>
         </mxCell>
