@@ -703,13 +703,13 @@
             <mxPoint x="369.36" y="2178.95" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-100" value="86. 提交权限申请" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-100" value="86. 提交权限申请" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="488.36" y="2774" />
+              <mxPoint x="486.5" y="2200" />
             </Array>
-            <mxPoint x="367.5028571428569" y="2774" as="sourcePoint" />
-            <mxPoint x="590.8600000000005" y="2774" as="targetPoint" />
+            <mxPoint x="365.6428571428569" y="2200" as="sourcePoint" />
+            <mxPoint x="589.0000000000005" y="2200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-101" value="87. 记录权限申请" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
