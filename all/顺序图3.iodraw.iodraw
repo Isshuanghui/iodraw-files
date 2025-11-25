@@ -117,11 +117,13 @@
             <mxPoint x="589.0003448275861" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9QQRzQq8An5WeDQnm2d-23" value="9. 显示读者详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-3" target="x9QQRzQq8An5WeDQnm2d-2">
+        <mxCell id="x9QQRzQq8An5WeDQnm2d-23" value="9. 显示读者详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="494" y="620" />
+              <mxPoint x="499.19" y="220" />
             </Array>
+            <mxPoint x="598.69" y="220" as="sourcePoint" />
+            <mxPoint x="375.00034482758605" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-24" value="10. 扫描图书条码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="x9QQRzQq8An5WeDQnm2d-2" target="x9QQRzQq8An5WeDQnm2d-3">
