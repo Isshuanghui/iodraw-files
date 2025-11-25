@@ -32,10 +32,10 @@
           <mxGeometry y="239.99913738019166" width="839.9999999999999" height="2.108626198083067" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-10" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="70" y="890" width="1142" height="484" as="geometry" />
+          <mxGeometry x="70" y="890" width="810" height="484" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-11" value="[有逾期]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="x9QQRzQq8An5WeDQnm2d-10">
-          <mxGeometry x="30" width="1112" height="20" as="geometry" />
+          <mxGeometry x="21.2784588441331" width="788.7215411558669" height="20" as="geometry" />
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-12" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
           <mxGeometry x="44" y="5064" width="1017" height="518" as="geometry" />
