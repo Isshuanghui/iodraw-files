@@ -631,7 +631,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x9QQRzQq8An5WeDQnm2d-90" value="76. 检查延长条件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1">
-          <mxGeometry x="0.0073" y="10" relative="1" as="geometry">
+          <mxGeometry x="0.0073" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="488.36" y="1900" />
             </Array>
