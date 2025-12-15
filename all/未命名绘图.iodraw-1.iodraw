@@ -248,7 +248,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-81" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="780" y="-940" width="60" height="60" as="geometry" />
+          <mxGeometry x="670" y="-950" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKgs5uYwEhJx191EnMcg-82" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-950" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKgs5uYwEhJx191EnMcg-83" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-920" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
