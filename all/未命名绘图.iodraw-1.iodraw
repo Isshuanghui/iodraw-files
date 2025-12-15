@@ -74,7 +74,7 @@
           <mxGeometry x="120" y="-920" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-19" value="需求编写" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="-920" width="20" height="110" as="geometry" />
+          <mxGeometry x="150" y="-920" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-20" value="架构设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="-920" width="20" height="140" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry x="80" y="-920" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-36" value="需求评审" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="-920" width="20" height="110" as="geometry" />
+          <mxGeometry x="180" y="-920" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-37" value="数据库设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="-920" width="20" height="140" as="geometry" />
