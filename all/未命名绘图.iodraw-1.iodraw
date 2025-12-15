@@ -228,9 +228,12 @@
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-77" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="950" y="-870" as="sourcePoint" />
-            <mxPoint x="950" y="-900" as="targetPoint" />
+            <mxPoint x="1059.91" y="-890" as="sourcePoint" />
+            <mxPoint x="1059.91" y="-920" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EKgs5uYwEhJx191EnMcg-78" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="880" y="-940" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
