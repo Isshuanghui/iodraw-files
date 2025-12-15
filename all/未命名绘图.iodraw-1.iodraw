@@ -133,6 +133,9 @@
         <mxCell id="EKgs5uYwEhJx191EnMcg-40" value="交互功能开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="395" y="-890" width="20" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="EKgs5uYwEhJx191EnMcg-41" value="渲染功能开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-880" width="20" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
