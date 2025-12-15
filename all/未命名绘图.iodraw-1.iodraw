@@ -128,7 +128,10 @@
           <mxGeometry x="300" y="-890" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-39" value="校园三维建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="-920" width="20" height="140" as="geometry" />
+          <mxGeometry x="365" y="-890" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EKgs5uYwEhJx191EnMcg-40" value="校园三维建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="-880" width="20" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
