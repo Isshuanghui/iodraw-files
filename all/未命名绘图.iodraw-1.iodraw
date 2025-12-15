@@ -20,10 +20,10 @@
           <mxGeometry x="385" y="-1060" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-8" value="系统测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="837" y="-1036" width="30" height="110" as="geometry" />
+          <mxGeometry x="1280" y="-1048" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-9" value="部署上线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="927" y="-1048" width="30" height="110" as="geometry" />
+          <mxGeometry x="1370" y="-1060" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.516;entryY=0.586;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -45,10 +45,10 @@
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.516;entryY=0.586;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="851.8" y="-1036" as="sourcePoint" />
-            <mxPoint x="851.8" y="-1060" as="targetPoint" />
+            <mxPoint x="1294.8" y="-1048" as="sourcePoint" />
+            <mxPoint x="1294.8" y="-1072" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="851.8" y="-1056" />
+              <mxPoint x="1294.8" y="-1068" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -74,16 +74,16 @@
           <mxGeometry x="340" y="-890" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-24" value="功能测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="-896" width="20" height="110" as="geometry" />
+          <mxGeometry x="1270" y="-908" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-25" value="集成测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="867" y="-896" width="20" height="110" as="geometry" />
+          <mxGeometry x="1310" y="-908" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-26" value="系统部署" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="917" y="-908" width="20" height="110" as="geometry" />
+          <mxGeometry x="1360" y="-920" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-27" value="正式上线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="957" y="-908" width="20" height="110" as="geometry" />
+          <mxGeometry x="1400" y="-920" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-28" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="30" y="-950" width="60" height="30" as="geometry" />
@@ -98,10 +98,10 @@
           <mxGeometry x="380" y="-950" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-32" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="832" y="-926" width="40" height="30" as="geometry" />
+          <mxGeometry x="1275" y="-938" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="927" y="-938" width="40" height="30" as="geometry" />
+          <mxGeometry x="1370" y="-950" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-35" value="项目复盘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="-890" width="20" height="140" as="geometry" />
@@ -132,6 +132,9 @@
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-44" value="用户移动界面开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="-1060" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EKgs5uYwEhJx191EnMcg-45" value="系统开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="-1060" width="30" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
