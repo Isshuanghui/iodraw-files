@@ -80,7 +80,7 @@
           <mxGeometry x="210" y="-920" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-21" value="接口设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="-920" width="20" height="110" as="geometry" />
+          <mxGeometry x="270" y="-920" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-22" value="模块开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="-920" width="20" height="110" as="geometry" />
@@ -126,6 +126,9 @@
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-37" value="数据库设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="-920" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EKgs5uYwEhJx191EnMcg-38" value="接口设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="-800" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
