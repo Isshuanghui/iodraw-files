@@ -73,8 +73,8 @@
         <mxCell id="EKgs5uYwEhJx191EnMcg-22" value="三维可视化模块开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="-890" width="20" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="EKgs5uYwEhJx191EnMcg-24" value="功能测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="-890" width="20" height="110" as="geometry" />
+        <mxCell id="EKgs5uYwEhJx191EnMcg-24" value="单元测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-890" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-25" value="集成测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="-916" width="20" height="110" as="geometry" />
@@ -171,6 +171,9 @@
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-57" value="数据迁移脚本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="-890" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EKgs5uYwEhJx191EnMcg-58" value="单元测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="-880" width="20" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
