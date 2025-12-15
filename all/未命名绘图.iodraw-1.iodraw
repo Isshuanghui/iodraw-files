@@ -92,10 +92,10 @@
           <mxGeometry x="480" y="-920" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-26" value="系统部署" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-920" width="20" height="110" as="geometry" />
+          <mxGeometry x="720" y="-910" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-27" value="正式上线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="-920" width="20" height="110" as="geometry" />
+          <mxGeometry x="760" y="-910" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-28" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="30" y="-950" width="60" height="30" as="geometry" />
