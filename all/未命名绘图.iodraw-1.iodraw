@@ -7,9 +7,6 @@
         <mxCell id="EKgs5uYwEhJx191EnMcg-2" value="校园数字孪生系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="-1150" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EKgs5uYwEhJx191EnMcg-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="180" y="-1110" width="350" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-4" value="项目管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="45" y="-1060" width="30" height="110" as="geometry" />
         </mxCell>
@@ -23,19 +20,10 @@
           <mxGeometry x="385" y="-1060" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-8" value="系统测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="-1060" width="30" height="110" as="geometry" />
+          <mxGeometry x="640" y="-1038" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-9" value="部署上线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="-1050" width="30" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="EKgs5uYwEhJx191EnMcg-10" value="" style="endArrow=none;html=1;rounded=0;exitX=1.124;exitY=0.577;exitDx=0;exitDy=0;entryX=0.516;entryY=0.586;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitPerimeter=0;" edge="1" parent="1" source="EKgs5uYwEhJx191EnMcg-3" target="EKgs5uYwEhJx191EnMcg-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="-980" as="sourcePoint" />
-            <mxPoint x="390" y="-1030" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="335" y="-1080" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.516;entryY=0.586;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -57,10 +45,10 @@
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.516;entryY=0.586;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="464.8" y="-1060" as="sourcePoint" />
-            <mxPoint x="464.8" y="-1084" as="targetPoint" />
+            <mxPoint x="654.8" y="-1038" as="sourcePoint" />
+            <mxPoint x="654.8" y="-1062" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="464.8" y="-1080" />
+              <mxPoint x="654.8" y="-1058" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -86,10 +74,10 @@
           <mxGeometry x="340" y="-890" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-24" value="功能测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-920" width="20" height="110" as="geometry" />
+          <mxGeometry x="630" y="-898" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-25" value="集成测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-920" width="20" height="110" as="geometry" />
+          <mxGeometry x="670" y="-898" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-26" value="系统部署" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="-910" width="20" height="110" as="geometry" />
@@ -110,7 +98,7 @@
           <mxGeometry x="380" y="-950" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-32" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="445" y="-950" width="40" height="30" as="geometry" />
+          <mxGeometry x="635" y="-928" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="730" y="-940" width="40" height="30" as="geometry" />
