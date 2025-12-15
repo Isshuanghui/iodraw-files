@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EKgs5uYwEhJx191EnMcg-2" value="校园数字孪生系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="-1160" width="120" height="50" as="geometry" />
+          <mxGeometry x="305" y="-1160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="190" y="-1110" width="350" height="50" as="geometry" />
@@ -27,6 +27,12 @@
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-9" value="部署上线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="-1060" width="30" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EKgs5uYwEhJx191EnMcg-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="-980" as="sourcePoint" />
+            <mxPoint x="390" y="-1030" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
