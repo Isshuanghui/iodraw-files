@@ -7,6 +7,9 @@
         <mxCell id="EKgs5uYwEhJx191EnMcg-2" value="校园数字孪生系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="-1160" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="EKgs5uYwEhJx191EnMcg-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-1090" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
