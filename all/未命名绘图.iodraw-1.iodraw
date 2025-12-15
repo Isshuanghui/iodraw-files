@@ -67,9 +67,6 @@
         <mxCell id="EKgs5uYwEhJx191EnMcg-30" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="220" y="-950" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EKgs5uYwEhJx191EnMcg-31" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-950" width="40" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-32" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="870" y="-950" width="90" height="60" as="geometry" />
         </mxCell>
@@ -254,7 +251,10 @@
           <mxGeometry x="570" y="-950" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-83" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="800" y="-920" width="60" height="60" as="geometry" />
+          <mxGeometry x="470" y="-950" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EKgs5uYwEhJx191EnMcg-84" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-950" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
