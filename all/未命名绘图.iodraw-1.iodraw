@@ -86,7 +86,13 @@
           <mxGeometry x="370" y="-930" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-23" value="需求编写" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-890" width="20" height="110" as="geometry" />
+          <mxGeometry x="405" y="-930" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EKgs5uYwEhJx191EnMcg-24" value="需求编写" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-930" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EKgs5uYwEhJx191EnMcg-25" value="需求编写" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-930" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
