@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EKgs5uYwEhJx191EnMcg-1" value="tree TD&#xa;    A[1. 校园数字孪生系统] --&gt; A1[项目管理]&#xa;    A1 --&gt; A11[计划制定]&#xa;    A1 --&gt; A12[进度管控]&#xa;    &#xa;    A --&gt; A2[需求分析]&#xa;    A2 --&gt; A21[用户调研]&#xa;    A2 --&gt; A22[需求编写]&#xa;    &#xa;    A --&gt; A3[系统设计]&#xa;    A3 --&gt; A31[架构设计]&#xa;    A3 --&gt; A32[接口设计]&#xa;    &#xa;    A --&gt; A4[系统开发]&#xa;    A4 --&gt; A41[模块开发]&#xa;    A4 --&gt; A42[代码实现]&#xa;    &#xa;    A --&gt; A5[系统测试]&#xa;    A5 --&gt; A51[功能测试]&#xa;    A5 --&gt; A52[集成测试]&#xa;    &#xa;    A --&gt; A6[部署上线]&#xa;    A6 --&gt; A61[系统部署]&#xa;    A6 --&gt; A62[正式上线]" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="180" width="250" height="370" as="geometry" />
+        <mxCell id="EKgs5uYwEhJx191EnMcg-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
