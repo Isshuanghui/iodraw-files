@@ -163,14 +163,14 @@
         <mxCell id="EKgs5uYwEhJx191EnMcg-54" value="响应式适配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="-890" width="20" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="EKgs5uYwEhJx191EnMcg-55" value="移动端开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EKgs5uYwEhJx191EnMcg-55" value="数据表设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="-890" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-56" value="移动端开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="-890" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-57" value="移动端开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-860" width="20" height="140" as="geometry" />
+          <mxGeometry x="820" y="-890" width="20" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
