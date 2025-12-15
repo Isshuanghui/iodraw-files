@@ -131,10 +131,10 @@
           <mxGeometry x="585" y="-1060" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-44" value="用户移动界面开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="-1060" width="30" height="110" as="geometry" />
+          <mxGeometry x="685" y="-1056" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-45" value="数据库开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="-1060" width="30" height="110" as="geometry" />
+          <mxGeometry x="785" y="-1060" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-46" value="传感器协议适配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="-890" width="20" height="140" as="geometry" />
