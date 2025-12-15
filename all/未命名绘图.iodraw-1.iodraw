@@ -26,7 +26,7 @@
           <mxGeometry x="450" y="-1060" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-9" value="部署上线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-1060" width="30" height="110" as="geometry" />
+          <mxGeometry x="730" y="-1050" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-10" value="" style="endArrow=none;html=1;rounded=0;exitX=1.124;exitY=0.577;exitDx=0;exitDy=0;entryX=0.516;entryY=0.586;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitPerimeter=0;" edge="1" parent="1" source="EKgs5uYwEhJx191EnMcg-3" target="EKgs5uYwEhJx191EnMcg-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -113,7 +113,7 @@
           <mxGeometry x="445" y="-950" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-950" width="40" height="30" as="geometry" />
+          <mxGeometry x="730" y="-940" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EKgs5uYwEhJx191EnMcg-35" value="项目复盘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="-890" width="20" height="140" as="geometry" />
