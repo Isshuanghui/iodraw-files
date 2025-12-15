@@ -13,6 +13,9 @@
         <mxCell id="EKgs5uYwEhJx191EnMcg-4" value="项目管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="-1050" width="20" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="EKgs5uYwEhJx191EnMcg-5" value="项目管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-1040" width="20" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
