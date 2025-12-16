@@ -62,7 +62,7 @@
           <mxGeometry x="670" y="1280" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-34" value="外部服务连接失败" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="859" y="1230" width="144" height="35" as="geometry" />
+          <mxGeometry x="860" y="1220" width="144" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-35" value="降级模式" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="880" y="1370" width="80" height="35" as="geometry" />
@@ -352,7 +352,7 @@
             <mxPoint x="840" y="1420" as="sourcePoint" />
             <mxPoint x="940" y="1420" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="920" y="1210" />
+              <mxPoint x="931" y="1180" />
             </Array>
           </mxGeometry>
         </mxCell>
