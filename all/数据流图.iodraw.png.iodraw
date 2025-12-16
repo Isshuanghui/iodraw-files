@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" scale="1" border="0" version="24.7.17">
   <diagram name="第 1 页" id="YmuSXKctijOW5NlS8A8g">
-    <mxGraphModel dx="313" dy="205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="534" dy="350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,8 +37,8 @@
             <mxPoint x="310" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8B5Uh_X8qHri7zB4U1bn-10" value="可视化数据/通知消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="234" y="98" width="130" height="30" as="geometry" />
+        <mxCell id="8B5Uh_X8qHri7zB4U1bn-10" value="服务结果/通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="249" y="98" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
