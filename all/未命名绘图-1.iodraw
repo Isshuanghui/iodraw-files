@@ -17,7 +17,7 @@
           <mxGeometry x="250" y="370" width="111" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-25" value="执行身份验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="200" y="560" width="156" height="49" as="geometry" />
+          <mxGeometry x="225" y="510" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-26" value="等待用户操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="381" y="638" width="156" height="49" as="geometry" />
@@ -277,7 +277,7 @@
             <mxPoint x="410" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D4QNlPHirY0QiyzjXy8T-80" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="D4QNlPHirY0QiyzjXy8T-79">
+        <mxCell id="D4QNlPHirY0QiyzjXy8T-80" value="是" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="D4QNlPHirY0QiyzjXy8T-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
