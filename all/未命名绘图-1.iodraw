@@ -437,11 +437,11 @@
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-277" value="清理管理员会话" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="585.62" y="3440" />
-              <mxPoint x="585.62" y="3470" />
+              <mxPoint x="585.62" y="3450" />
+              <mxPoint x="585.62" y="3480" />
             </Array>
-            <mxPoint x="535.0023529411765" y="3440" as="sourcePoint" />
-            <mxPoint x="535.0023529411765" y="3470" as="targetPoint" />
+            <mxPoint x="535.0023529411765" y="3450" as="sourcePoint" />
+            <mxPoint x="535.0023529411765" y="3480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-278" value="返回登录界面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-214" target="TCMhC8p8xp98ZjuJ33vS-215">
@@ -458,7 +458,7 @@
           <mxGeometry x="525" y="3250" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-286" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="515" y="3440" width="10" height="80" as="geometry" />
+          <mxGeometry x="525" y="3440" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-287" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="883" y="3440" width="10" height="80" as="geometry" />
