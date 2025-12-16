@@ -68,7 +68,7 @@
           <mxGeometry x="338" y="1209" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-45" value="退出管理界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="336" y="1300" width="156" height="49" as="geometry" />
+          <mxGeometry x="338" y="1300" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="D4QNlPHirY0QiyzjXy8T-21" target="D4QNlPHirY0QiyzjXy8T-22">
           <mxGeometry relative="1" as="geometry">
@@ -261,7 +261,7 @@
           <mxGeometry x="365.75" y="1090" width="100.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-102" value="是否切换功能?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1100" width="131" height="60" as="geometry" />
+          <mxGeometry x="568" y="1095" width="131" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-103" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="D4QNlPHirY0QiyzjXy8T-101" target="D4QNlPHirY0QiyzjXy8T-102">
           <mxGeometry relative="1" as="geometry">
