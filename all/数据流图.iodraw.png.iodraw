@@ -498,8 +498,8 @@
             <mxPoint x="547" y="14" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BxHjopsezH7MGqw7-X-O-393" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;故障描述&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="320" y="425" width="90" height="30" as="geometry" />
+        <mxCell id="BxHjopsezH7MGqw7-X-O-393" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;分配维修人员&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="414" y="445" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
