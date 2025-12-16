@@ -80,7 +80,7 @@
           <mxGeometry x="300" y="1790" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-40" value="加载用户界面" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="354" y="2338" width="112" height="35" as="geometry" />
+          <mxGeometry x="611" y="1990" width="112" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-41" value="主界面就绪" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="366" y="2420" width="96" height="35" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry x="300" y="2810" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-45" value="处理完成" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="410" y="2933" width="80" height="35" as="geometry" />
+          <mxGeometry x="430" y="2940" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-46" value="处理失败" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="676" y="2923" width="80" height="35" as="geometry" />
