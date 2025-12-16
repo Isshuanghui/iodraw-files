@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-54" value="管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1633" y="982" width="1462" height="519" as="geometry" />
+          <mxGeometry x="1846" y="790" width="1462" height="519" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-55" value="学生/教师" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="10" y="151" width="1224" height="1350" as="geometry" />
@@ -89,34 +89,34 @@
           <mxGeometry x="45" y="1428" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-82" value="登录管理后台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2446" y="1007" width="156" height="49" as="geometry" />
+          <mxGeometry x="2659" y="815" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-83" value="进入管理面板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2446" y="1106" width="156" height="49" as="geometry" />
+          <mxGeometry x="2659" y="914" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-84" value="选择管理功能?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2448" y="1204" width="151" height="151" as="geometry" />
+          <mxGeometry x="2661" y="1012" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-85" value="监控设备状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1874" y="1428" width="156" height="49" as="geometry" />
+          <mxGeometry x="2087" y="1236" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-86" value="处理报修工单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="1428" width="156" height="49" as="geometry" />
+          <mxGeometry x="2293" y="1236" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-87" value="发布系统通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2286" y="1428" width="156" height="49" as="geometry" />
+          <mxGeometry x="2499" y="1236" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-88" value="统计分析数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2492" y="1428" width="156" height="49" as="geometry" />
+          <mxGeometry x="2705" y="1236" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-89" value="管理用户权限" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2698" y="1428" width="156" height="49" as="geometry" />
+          <mxGeometry x="2911" y="1236" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-90" value="配置系统参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2904" y="1428" width="156" height="49" as="geometry" />
+          <mxGeometry x="3117" y="1236" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-91" value="退出管理后台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1668" y="1428" width="156" height="49" as="geometry" />
+          <mxGeometry x="1881" y="1236" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-92" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-57" target="TCMhC8p8xp98ZjuJ33vS-58">
           <mxGeometry relative="1" as="geometry">
@@ -314,42 +314,42 @@
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-121" value="设备监控" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-84" target="TCMhC8p8xp98ZjuJ33vS-85">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1952" y="1391" />
+              <mxPoint x="2165" y="1199" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-122" value="报修处理" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-84" target="TCMhC8p8xp98ZjuJ33vS-86">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2158" y="1391" />
+              <mxPoint x="2371" y="1199" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-123" value="通知发布" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.85;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-84" target="TCMhC8p8xp98ZjuJ33vS-87">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2364" y="1391" />
+              <mxPoint x="2577" y="1199" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-124" value="数据统计" style="curved=1;startArrow=none;endArrow=block;exitX=0.71;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-84" target="TCMhC8p8xp98ZjuJ33vS-88">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2570" y="1391" />
+              <mxPoint x="2783" y="1199" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-125" value="权限管理" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-84" target="TCMhC8p8xp98ZjuJ33vS-89">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2776" y="1391" />
+              <mxPoint x="2989" y="1199" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-126" value="系统配置" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.62;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-84" target="TCMhC8p8xp98ZjuJ33vS-90">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2982" y="1391" />
+              <mxPoint x="3195" y="1199" />
             </Array>
           </mxGeometry>
         </mxCell>
