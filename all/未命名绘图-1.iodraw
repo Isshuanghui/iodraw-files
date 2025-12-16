@@ -113,10 +113,10 @@
           <mxGeometry x="1578" y="1000" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-55" value="服务停止中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1578" y="1162" width="96" height="35" as="geometry" />
+          <mxGeometry x="1578" y="1100" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-56" value="系统已关闭" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1578" y="1270" width="96" height="35" as="geometry" />
+          <mxGeometry x="1578" y="1180" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-57" value="" style="ellipse;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="1619" y="1387" width="14" height="14" as="geometry" />
