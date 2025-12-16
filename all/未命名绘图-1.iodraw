@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="vhME-Zme64abVR5DcwKl">
-    <mxGraphModel dx="2348" dy="1540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1677" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,7 +98,7 @@
           <mxGeometry x="587" y="2210" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-47" value="异常处理中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="588" y="2400" width="96" height="35" as="geometry" />
+          <mxGeometry x="588" y="2303" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-48" value="系统降级" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="779" y="2683" width="80" height="35" as="geometry" />
@@ -483,7 +483,7 @@
             <mxPoint x="740" y="2770" as="sourcePoint" />
             <mxPoint x="840" y="2770" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="710" y="2660" />
+              <mxPoint x="800" y="2410" />
             </Array>
           </mxGeometry>
         </mxCell>
