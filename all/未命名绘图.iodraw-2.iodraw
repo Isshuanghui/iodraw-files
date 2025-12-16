@@ -88,6 +88,15 @@
         <mxCell id="c2cdv69sZDKVaYltbdGC-87" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="235" y="230" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="c2cdv69sZDKVaYltbdGC-88" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;exitX=0.504;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="84.82" y="270" as="sourcePoint" />
+            <mxPoint x="85" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
