@@ -148,11 +148,6 @@
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-260" value="教务系统对接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="663" y="2726" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-277" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="TGYrK-Zp5xRjEAU3l1eS-205" target="TGYrK-Zp5xRjEAU3l1eS-220">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-278" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="TGYrK-Zp5xRjEAU3l1eS-205" target="TGYrK-Zp5xRjEAU3l1eS-221">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
