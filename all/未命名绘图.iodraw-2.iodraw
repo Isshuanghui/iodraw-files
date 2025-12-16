@@ -37,8 +37,8 @@
             <mxPoint x="310" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8B5Uh_X8qHri7zB4U1bn-9" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="110" width="140" height="160" as="geometry" />
+        <mxCell id="8B5Uh_X8qHri7zB4U1bn-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="98" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
