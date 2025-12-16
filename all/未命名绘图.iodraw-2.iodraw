@@ -34,7 +34,7 @@
         <mxCell id="c2cdv69sZDKVaYltbdGC-72" value="实时数据标注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="290" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="c2cdv69sZDKVaYltbdGC-73" value="传感器数据接入与处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c2cdv69sZDKVaYltbdGC-73" value="数据接入处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="290" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c2cdv69sZDKVaYltbdGC-74" value="教室状态监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -120,6 +120,9 @@
         </mxCell>
         <mxCell id="c2cdv69sZDKVaYltbdGC-98" value="视图切换管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="290" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c2cdv69sZDKVaYltbdGC-99" value="数据分析报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="300" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
