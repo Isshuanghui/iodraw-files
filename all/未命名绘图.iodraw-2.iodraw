@@ -32,10 +32,10 @@
           <mxGeometry x="430" y="494.5" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-213" value="三维模型库管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="750" y="50.5" width="172" height="49" as="geometry" />
+          <mxGeometry x="700" y="51.5" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-214" value="场景配置管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="758" y="149.5" width="156" height="49" as="geometry" />
+          <mxGeometry x="700" y="149.5" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-215" value="视角导航控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="758" y="247.5" width="156" height="49" as="geometry" />
