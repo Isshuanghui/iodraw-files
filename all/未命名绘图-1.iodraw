@@ -179,14 +179,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-94" value="重新登录" style="curved=1;startArrow=none;;exitX=0.73;exitY=0;entryX=0.67;entryY=0.99;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-39" target="MBvEYXBps9NyWn50fdKf-36">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="485" y="2134" />
-              <mxPoint x="485" y="1990" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-95" value="加载个性化界面" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-38" target="MBvEYXBps9NyWn50fdKf-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -538,7 +530,7 @@
             <mxPoint x="510" y="2080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-178" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-177">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-178" value="验证失败" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-177">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
