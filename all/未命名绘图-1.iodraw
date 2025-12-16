@@ -535,7 +535,7 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-152" value="开始连接" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-151">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-153" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-153" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.688;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-28" target="MBvEYXBps9NyWn50fdKf-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="930" y="810" as="sourcePoint" />
             <mxPoint x="1030" y="810" as="targetPoint" />
