@@ -110,7 +110,7 @@
           <mxGeometry x="471.5" y="921" width="167" height="29" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-239" value="数据存储层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="471.5" y="1024.5" width="167" height="25.5" as="geometry" />
+          <mxGeometry x="470" y="1000" width="167" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-240" value="传感器数据采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="698" y="820" width="162" height="30" as="geometry" />
@@ -131,7 +131,7 @@
           <mxGeometry x="700" y="1020" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-255" value=" 内部接口层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="471.5" y="1090" width="168.5" height="29" as="geometry" />
+          <mxGeometry x="471.5" y="1080" width="168.5" height="29" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-256" value=" 外部接口层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="470" y="1161" width="170" height="29" as="geometry" />
