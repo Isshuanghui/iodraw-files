@@ -531,6 +531,15 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-197" value="开始修复" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-196">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MBvEYXBps9NyWn50fdKf-198" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-42" target="MBvEYXBps9NyWn50fdKf-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="2710" as="sourcePoint" />
+            <mxPoint x="950" y="2710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBvEYXBps9NyWn50fdKf-199" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
