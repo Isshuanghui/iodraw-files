@@ -35,10 +35,10 @@
           <mxGeometry x="699" y="80" width="161" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-214" value="场景配置管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="700" y="120" width="156" height="30" as="geometry" />
+          <mxGeometry x="700" y="120" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-215" value="视角导航控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="699" y="170" width="156" height="30" as="geometry" />
+          <mxGeometry x="700" y="160" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-216" value="路径规划导航" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="699" y="210" width="156" height="33" as="geometry" />
