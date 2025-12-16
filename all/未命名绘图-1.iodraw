@@ -273,7 +273,7 @@
         <mxCell id="D4QNlPHirY0QiyzjXy8T-87" value="否" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="D4QNlPHirY0QiyzjXy8T-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D4QNlPHirY0QiyzjXy8T-88" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="D4QNlPHirY0QiyzjXy8T-88" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="D4QNlPHirY0QiyzjXy8T-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="780" as="sourcePoint" />
             <mxPoint x="350" y="780" as="targetPoint" />
