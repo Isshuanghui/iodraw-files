@@ -392,10 +392,10 @@
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-260" value="处理报修申请" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="721" y="1805" />
+              <mxPoint x="730.5" y="1169" />
             </Array>
-            <mxPoint x="887.5000000000009" y="1805.000000000001" as="sourcePoint" />
-            <mxPoint x="525.4999999999991" y="1805.000000000001" as="targetPoint" />
+            <mxPoint x="897.0000000000009" y="1169.000000000001" as="sourcePoint" />
+            <mxPoint x="534.9999999999991" y="1169.000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-261" value="查询报修工单详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
@@ -647,7 +647,7 @@
           <mxGeometry x="90" y="1080" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-314" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1090" width="10" height="70" as="geometry" />
+          <mxGeometry x="525" y="1169" width="10" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
