@@ -185,7 +185,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-79" value="重新加载" style="curved=1;startArrow=none;;exitX=0.64;exitY=-0.01;entryX=0.75;entryY=1;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-26" target="MBvEYXBps9NyWn50fdKf-24">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-79" value="重新加载" style="curved=1;startArrow=none;;exitX=0.64;exitY=-0.01;entryX=0.75;entryY=1;rounded=0;strokeColor=none;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-26" target="MBvEYXBps9NyWn50fdKf-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1079" y="886" />
