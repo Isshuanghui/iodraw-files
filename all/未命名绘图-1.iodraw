@@ -534,9 +534,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="840" y="1420" as="sourcePoint" />
             <mxPoint x="940" y="1420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="1210" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-159" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-158">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-159" value="部分服务连接失败" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-158">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
