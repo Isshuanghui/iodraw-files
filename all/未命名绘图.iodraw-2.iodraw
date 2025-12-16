@@ -113,7 +113,7 @@
           <mxGeometry x="392" y="2270" width="167" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-240" value="传感器数据采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="680" y="860" width="172" height="49" as="geometry" />
+          <mxGeometry x="698" y="820" width="172" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-241" value="业务系统对接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="680" y="940" width="156" height="49" as="geometry" />
