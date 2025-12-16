@@ -14,7 +14,7 @@
           <mxGeometry x="500" y="30" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-264" value="校园管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="360" width="30" height="60" as="geometry" />
+          <mxGeometry x="500" y="460" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-265" value="登录系统" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="190" y="162.5" width="90" height="30" as="geometry" />
