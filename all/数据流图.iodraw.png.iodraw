@@ -75,6 +75,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="BxHjopsezH7MGqw7-X-O-96" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="129" y="320" width="131" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
