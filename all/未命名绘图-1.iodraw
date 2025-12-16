@@ -622,6 +622,9 @@
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-305" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1085" y="730" width="10" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-306" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="883" y="775" width="10" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
