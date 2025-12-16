@@ -128,7 +128,7 @@
           <mxGeometry x="687" y="1200" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-245" value="关系数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="854" y="1926" width="140" height="49" as="geometry" />
+          <mxGeometry x="687" y="1260" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-255" value="6.1 内部接口层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="406" y="2479" width="167" height="49" as="geometry" />
