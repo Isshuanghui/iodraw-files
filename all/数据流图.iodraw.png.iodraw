@@ -221,10 +221,10 @@
           <mxGeometry x="135" y="-137.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-322" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;&lt;code class=&quot;language-mermaid&quot;&gt;查询打印机状态&lt;/code&gt;&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-120" width="90" height="30" as="geometry" />
+          <mxGeometry x="390" y="-150" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-323" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;&lt;code class=&quot;language-mermaid&quot;&gt;查询能耗数据&lt;/code&gt;&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="324" y="-50" width="90" height="30" as="geometry" />
+          <mxGeometry x="330" y="-67.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-325" value="" style="endArrow=open;html=1;rounded=0;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BxHjopsezH7MGqw7-X-O-268" target="BxHjopsezH7MGqw7-X-O-321">
           <mxGeometry relative="1" as="geometry">
