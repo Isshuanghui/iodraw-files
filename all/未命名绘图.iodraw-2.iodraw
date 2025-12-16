@@ -104,7 +104,7 @@
           <mxGeometry x="698" y="780" width="162" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-237" value=" 数据采集层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="471.5" y="834" width="167" height="26" as="geometry" />
+          <mxGeometry x="471.5" y="840" width="167" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-238" value="数据处理层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="470" y="921" width="167" height="29" as="geometry" />
