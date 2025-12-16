@@ -128,7 +128,7 @@
           <mxGeometry x="700" y="980" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-245" value="关系数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1020" width="160" height="40" as="geometry" />
+          <mxGeometry x="700" y="1020" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-255" value="6.1 内部接口层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="406" y="2479" width="167" height="49" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry x="406" y="2677" width="167" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-257" value="服务间通信接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="699" y="1074" width="172" height="26" as="geometry" />
+          <mxGeometry x="699" y="1060" width="161" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-258" value="API网关管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="684.5" y="1590" width="147" height="49" as="geometry" />
