@@ -298,6 +298,12 @@
         <mxCell id="BxHjopsezH7MGqw7-X-O-333" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;&lt;code class=&quot;language-mermaid&quot;&gt;查询能耗数据&lt;/code&gt;&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="324" y="162.5" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BxHjopsezH7MGqw7-X-O-334" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;&lt;br&gt;&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="334" y="172.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BxHjopsezH7MGqw7-X-O-335" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;&lt;br&gt;&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="344" y="182.5" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
