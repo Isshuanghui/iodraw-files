@@ -501,6 +501,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1020" y="890" as="sourcePoint" />
             <mxPoint x="1410" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1080" y="1278" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-213" value="系统准备就绪" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-212">
