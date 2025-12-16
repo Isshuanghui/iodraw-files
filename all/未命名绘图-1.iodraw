@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="vhME-Zme64abVR5DcwKl">
-    <mxGraphModel dx="1957" dy="1283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="939" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,14 +178,6 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-86" value="连接传感器/API" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-31" target="MBvEYXBps9NyWn50fdKf-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-87" value="所有服务连接成功" style="curved=1;startArrow=none;;exitX=0;exitY=0.83;entryX=0.39;entryY=0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-32" target="MBvEYXBps9NyWn50fdKf-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="375" y="1530" />
-              <mxPoint x="375" y="1745" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-89" value="启用备用方案" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-34" target="MBvEYXBps9NyWn50fdKf-35">
