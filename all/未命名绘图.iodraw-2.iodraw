@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="s2C9U4HfO9r2MyoC6OIX">
-    <mxGraphModel dx="3354" dy="2200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4181" dy="2200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-203" value="数字孪生校园系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="940" width="188" height="49" as="geometry" />
+          <mxGeometry x="-90" y="640" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-204" value=" 三维可视化平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="289.25" y="175.5" width="110" height="39" as="geometry" />
@@ -237,6 +237,9 @@
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-353" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="401.5" y="1090" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-354" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="270" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
