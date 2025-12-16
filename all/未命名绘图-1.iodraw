@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="vhME-Zme64abVR5DcwKl">
-    <mxGraphModel dx="839" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1236" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,13 +181,6 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-96" value="界面加载完成" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-40" target="MBvEYXBps9NyWn50fdKf-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-97" value="用户开始操作" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.98;entryX=0.18;entryY=0;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-41" target="MBvEYXBps9NyWn50fdKf-42">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="577" y="2540" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-99" value="执行业务逻辑" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-43" target="MBvEYXBps9NyWn50fdKf-44">
@@ -541,6 +534,13 @@
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-203" value="恢复成功" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-202">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBvEYXBps9NyWn50fdKf-204" value="界面加载完成" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="677" y="2035" as="sourcePoint" />
+            <mxPoint x="677" y="2080" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
