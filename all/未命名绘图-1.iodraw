@@ -539,15 +539,6 @@
             <mxPoint x="670" y="2150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-205" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="MBvEYXBps9NyWn50fdKf-44">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="2820" as="sourcePoint" />
-            <mxPoint x="500" y="2768" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-206" value="业务处理成功" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-205">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-44" value="业务处理中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="566" y="2370" width="96" height="35" as="geometry" />
         </mxCell>
