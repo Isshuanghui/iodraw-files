@@ -512,20 +512,14 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-130" value="修复完成" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-129">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-131" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-135" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="700" as="sourcePoint" />
-            <mxPoint x="950" y="700" as="targetPoint" />
+            <mxPoint x="581" y="630" as="sourcePoint" />
+            <mxPoint x="681" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-132" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-131">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-136" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-135">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-133" value="Source" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-131">
-          <mxGeometry x="-1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-134" value="Target" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-131">
-          <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
