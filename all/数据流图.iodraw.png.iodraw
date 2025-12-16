@@ -248,7 +248,16 @@
           <mxGeometry x="295" y="-240" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-320" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;&lt;code class=&quot;language-mermaid&quot;&gt;查询资源状态&lt;/code&gt;&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-20" width="90" height="30" as="geometry" />
+          <mxGeometry x="260" y="-80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BxHjopsezH7MGqw7-X-O-321" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;&lt;code class=&quot;language-mermaid&quot;&gt;查询资源状态&lt;/code&gt;&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-70" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BxHjopsezH7MGqw7-X-O-322" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;&lt;code class=&quot;language-mermaid&quot;&gt;查询资源状态&lt;/code&gt;&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-50" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BxHjopsezH7MGqw7-X-O-323" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;&lt;code class=&quot;language-mermaid&quot;&gt;查询资源状态&lt;/code&gt;&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-7.5" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
