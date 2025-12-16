@@ -166,7 +166,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-96" value="界面加载完成" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-40" target="MBvEYXBps9NyWn50fdKf-41">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-96" value="界面加载完成" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-40" target="MBvEYXBps9NyWn50fdKf-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -484,7 +484,7 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-199" value="管理员关闭系统" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-198">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-204" value="用户开始操作" style="curved=1;startArrow=none;;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-41" target="MBvEYXBps9NyWn50fdKf-42">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-204" value="用户开始操作" style="curved=1;startArrow=none;;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-41" target="MBvEYXBps9NyWn50fdKf-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="1349" y="1235" as="sourcePoint" />
