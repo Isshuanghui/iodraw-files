@@ -29,7 +29,7 @@
           <mxGeometry x="110" y="290" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c2cdv69sZDKVaYltbdGC-71" value="校园三维场景展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="290" width="30" height="120" as="geometry" />
+          <mxGeometry x="220" y="290" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c2cdv69sZDKVaYltbdGC-72" value="实时数据标注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="290" width="30" height="120" as="geometry" />
@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c2cdv69sZDKVaYltbdGC-87" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="30" y="240" width="110" height="60" as="geometry" />
+          <mxGeometry x="235" y="230" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
