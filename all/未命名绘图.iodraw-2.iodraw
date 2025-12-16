@@ -68,7 +68,7 @@
           <mxGeometry x="699" y="409" width="161" height="31" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-225" value="设备维护管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="699" y="450" width="156" height="40" as="geometry" />
+          <mxGeometry x="699" y="450" width="161" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-226" value="人流密度监测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="702" y="720" width="156" height="49" as="geometry" />
