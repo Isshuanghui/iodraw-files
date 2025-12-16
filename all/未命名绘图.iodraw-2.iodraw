@@ -23,7 +23,7 @@
           <mxGeometry x="272" y="2587" width="88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-210" value=" 场景管理子系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="430" y="100.5" width="199" height="49" as="geometry" />
+          <mxGeometry x="430" y="100.5" width="170" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-211" value="交互控制子系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="430" y="225" width="199" height="49" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="429" y="360" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-213" value="三维模型库管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="700" y="70" width="150" height="40" as="geometry" />
+          <mxGeometry x="700" y="70" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-214" value="场景配置管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="700" y="130" width="156" height="30" as="geometry" />
