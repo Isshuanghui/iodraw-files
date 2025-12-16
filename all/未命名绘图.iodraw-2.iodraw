@@ -53,7 +53,7 @@
           <mxGeometry x="430" y="487" width="183" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-220" value=" 设备资产管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="384" y="889" width="183" height="49" as="geometry" />
+          <mxGeometry x="429" y="620" width="183" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-221" value="2.3 环境感知监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="384" y="1086" width="183" height="49" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="701" y="590" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-225" value="设备维护管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="649" y="938" width="156" height="49" as="geometry" />
+          <mxGeometry x="701" y="650" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-226" value="人流密度监测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="649" y="1037" width="156" height="49" as="geometry" />
