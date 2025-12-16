@@ -89,7 +89,7 @@
           <mxGeometry x="699" y="580" width="161" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-232" value="消息通知中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="846" y="940" width="156" height="49" as="geometry" />
+          <mxGeometry x="700" y="630" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-233" value="在线预约系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="846" y="1038" width="156" height="49" as="geometry" />
