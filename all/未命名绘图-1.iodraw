@@ -92,7 +92,7 @@
           <mxGeometry x="1597" y="900" width="112" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-45" value="处理完成" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1660" y="1025" width="80" height="35" as="geometry" />
+          <mxGeometry x="1646" y="1025" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-46" value="处理失败" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1588" y="1080" width="80" height="35" as="geometry" />
