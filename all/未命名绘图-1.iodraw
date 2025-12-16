@@ -179,13 +179,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-93" value="验证失败" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.98;entryX=0.26;entryY=0;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-37" target="MBvEYXBps9NyWn50fdKf-39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="368" y="2134" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-94" value="重新登录" style="curved=1;startArrow=none;;exitX=0.73;exitY=0;entryX=0.67;entryY=0.99;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-39" target="MBvEYXBps9NyWn50fdKf-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -530,13 +523,13 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-173" value="用户登录请求" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-172">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-175" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-175" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="MBvEYXBps9NyWn50fdKf-38">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="2100" as="sourcePoint" />
             <mxPoint x="480" y="2100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-176" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-175">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-176" value="验证通过" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-175">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
