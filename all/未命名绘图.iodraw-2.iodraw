@@ -122,10 +122,10 @@
           <mxGeometry x="703" y="1034.5" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-243" value="实时流处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1074" width="140" height="49" as="geometry" />
+          <mxGeometry x="708" y="1100" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-244" value="时序数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="854" y="1828" width="140" height="49" as="geometry" />
+          <mxGeometry x="687" y="1200" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-245" value="关系数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="854" y="1926" width="140" height="49" as="geometry" />
