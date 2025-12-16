@@ -11,7 +11,7 @@
           <mxGeometry x="250" y="235" width="110" height="39" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-205" value="2. 资源监控中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="260" y="898" width="60" height="30" as="geometry" />
+          <mxGeometry x="260" y="600" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-206" value="3. 智能服务平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="258" y="1490" width="60" height="30" as="geometry" />
@@ -287,9 +287,6 @@
             <mxPoint x="510" y="330" as="sourcePoint" />
             <mxPoint x="560" y="280" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-326" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="523" y="964" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
