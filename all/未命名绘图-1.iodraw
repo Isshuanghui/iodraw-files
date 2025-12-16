@@ -366,7 +366,7 @@
             <mxPoint x="709.58" y="1283.4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-161" value="服务恢复" style="curved=1;startArrow=none;;entryX=1;entryY=0.25;rounded=0;endArrow=open;endFill=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="MBvEYXBps9NyWn50fdKf-33">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-161" value="服务恢复" style="curved=1;startArrow=none;;entryX=1;entryY=0.5;rounded=0;endArrow=open;endFill=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="MBvEYXBps9NyWn50fdKf-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="890" y="1300" as="sourcePoint" />
