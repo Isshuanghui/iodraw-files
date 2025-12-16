@@ -95,7 +95,7 @@
           <mxGeometry x="610" y="2530" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-46" value="处理失败" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="547" y="2800" width="80" height="35" as="geometry" />
+          <mxGeometry x="547" y="2565" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-47" value="异常处理中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="662" y="3020" width="96" height="35" as="geometry" />
@@ -460,7 +460,7 @@
             <mxPoint x="428" y="2870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-186" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.663;exitY=0.974;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-44" target="MBvEYXBps9NyWn50fdKf-46">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-186" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-44" target="MBvEYXBps9NyWn50fdKf-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="2770" as="sourcePoint" />
             <mxPoint x="570" y="2770" as="targetPoint" />
