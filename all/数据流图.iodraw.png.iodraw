@@ -388,6 +388,9 @@
         <mxCell id="BxHjopsezH7MGqw7-X-O-359" value="身份验证" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="210" y="230" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BxHjopsezH7MGqw7-X-O-360" value="登录失败" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
