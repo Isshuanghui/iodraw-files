@@ -188,13 +188,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-88" value="部分服务连接失败" style="curved=1;startArrow=none;;exitX=1;exitY=0.9;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-32" target="MBvEYXBps9NyWn50fdKf-34">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="924" y="1530" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-89" value="启用备用方案" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-34" target="MBvEYXBps9NyWn50fdKf-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
