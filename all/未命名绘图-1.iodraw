@@ -77,7 +77,7 @@
           <mxGeometry x="627" y="1900" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-39" value="认证失败" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="300" y="1790" width="80" height="35" as="geometry" />
+          <mxGeometry x="310" y="1490" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-40" value="加载用户界面" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="611" y="1990" width="112" height="35" as="geometry" />
