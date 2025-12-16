@@ -53,10 +53,10 @@
           <mxGeometry x="530" y="290" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c2cdv69sZDKVaYltbdGC-79" value="数据分析与报表生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="290" width="30" height="120" as="geometry" />
+          <mxGeometry x="750" y="290" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c2cdv69sZDKVaYltbdGC-80" value="数据存储与历史查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="290" width="30" height="120" as="geometry" />
+          <mxGeometry x="695" y="290" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c2cdv69sZDKVaYltbdGC-81" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="80" y="99" width="630" height="91" as="geometry" />
@@ -99,6 +99,12 @@
         </mxCell>
         <mxCell id="c2cdv69sZDKVaYltbdGC-91" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="655" y="230" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c2cdv69sZDKVaYltbdGC-92" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;exitX=0.504;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="260" as="sourcePoint" />
+            <mxPoint x="710.18" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
