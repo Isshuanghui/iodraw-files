@@ -272,6 +272,13 @@
         <mxCell id="D4QNlPHirY0QiyzjXy8T-104" value="否" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="D4QNlPHirY0QiyzjXy8T-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="D4QNlPHirY0QiyzjXy8T-105" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="415.6" y="1165" as="sourcePoint" />
+            <mxPoint x="415.6" y="1214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
