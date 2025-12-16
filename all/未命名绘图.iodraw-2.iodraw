@@ -29,7 +29,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8B5Uh_X8qHri7zB4U1bn-7" value="查询请求/身份信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="58" width="120" height="30" as="geometry" />
+          <mxGeometry x="234" y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8B5Uh_X8qHri7zB4U1bn-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.01;exitY=0.663;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8B5Uh_X8qHri7zB4U1bn-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="140" as="sourcePoint" />
+            <mxPoint x="310" y="90" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
