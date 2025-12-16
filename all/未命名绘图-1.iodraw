@@ -44,10 +44,10 @@
           <mxGeometry x="103" y="1000" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-35" value="是否退出?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="179" y="1432" width="119" height="119" as="geometry" />
+          <mxGeometry x="121.5" y="1110" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-36" value="保存操作数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1623" width="156" height="49" as="geometry" />
+          <mxGeometry x="103" y="1290" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-37" value="退出用户界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="1722" width="156" height="49" as="geometry" />
