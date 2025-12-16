@@ -528,7 +528,7 @@
             <mxPoint x="570" y="2770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-187" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-186">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-187" value="业务处理失败" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-186">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
