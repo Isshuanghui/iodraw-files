@@ -520,7 +520,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-399" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="300" y="300" width="80" height="80" as="geometry" />
+          <mxGeometry x="45" y="630" width="880" height="880" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
