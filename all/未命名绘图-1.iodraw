@@ -98,10 +98,10 @@
           <mxGeometry x="298" y="2898" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-46" value="处理失败" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="768" y="2898" width="80" height="35" as="geometry" />
+          <mxGeometry x="676" y="2923" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-47" value="异常处理中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="768" y="3005" width="96" height="35" as="geometry" />
+          <mxGeometry x="662" y="3020" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-48" value="系统降级" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="856" y="3113" width="80" height="35" as="geometry" />
