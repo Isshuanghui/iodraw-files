@@ -22,6 +22,9 @@
         <mxCell id="BxHjopsezH7MGqw7-X-O-266" value="退出系统" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="170" y="170" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="BxHjopsezH7MGqw7-X-O-267" value="退出系统" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="170" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
