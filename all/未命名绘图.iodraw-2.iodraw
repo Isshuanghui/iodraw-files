@@ -5,13 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8B5Uh_X8qHri7zB4U1bn-1" value="用户&lt;div&gt;（学生/教师/管理员）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8B5Uh_X8qHri7zB4U1bn-2" value="校园数字孪生系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8B5Uh_X8qHri7zB4U1bn-3" value="外部系统&lt;div&gt;（教务系统/一卡通/传感器）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="160" width="150" height="60" as="geometry" />
+          <mxGeometry x="550" y="60" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8B5Uh_X8qHri7zB4U1bn-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="180" as="sourcePoint" />
+            <mxPoint x="490" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
