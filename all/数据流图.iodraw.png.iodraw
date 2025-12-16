@@ -19,9 +19,6 @@
         <mxCell id="BxHjopsezH7MGqw7-X-O-265" value="登录系统" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="190" y="162.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BxHjopsezH7MGqw7-X-O-266" value="退出系统" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="190" y="220" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-267" value="查看个人信息" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="190" y="270" width="90" height="30" as="geometry" />
         </mxCell>
@@ -205,10 +202,10 @@
             <mxPoint x="480" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BxHjopsezH7MGqw7-X-O-308" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="BxHjopsezH7MGqw7-X-O-266">
+        <mxCell id="BxHjopsezH7MGqw7-X-O-308" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="40" as="sourcePoint" />
-            <mxPoint x="530" y="130" as="targetPoint" />
+            <mxPoint x="190" y="235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-309" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="BxHjopsezH7MGqw7-X-O-267">
