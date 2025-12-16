@@ -202,14 +202,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-102" value="返回结果" style="curved=1;startArrow=none;;exitX=1;exitY=0.28;entryX=0.32;entryY=0.99;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-45" target="MBvEYXBps9NyWn50fdKf-42">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="620" y="2862" />
-              <mxPoint x="620" y="2647" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-103" value="开始处理异常" style="curved=1;startArrow=none;;exitX=0.49;exitY=0.99;entryX=0.37;entryY=0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-46" target="MBvEYXBps9NyWn50fdKf-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -522,13 +514,13 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-180" value="重新登录" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-179">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-181" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-181" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="MBvEYXBps9NyWn50fdKf-45">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="2826" as="sourcePoint" />
             <mxPoint x="180" y="2826" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-182" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-181">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-182" value="业务处理成功" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-181">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
