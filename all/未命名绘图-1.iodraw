@@ -444,11 +444,13 @@
             <mxPoint x="535.0023529411765" y="3480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCMhC8p8xp98ZjuJ33vS-278" value="返回登录界面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-214" target="TCMhC8p8xp98ZjuJ33vS-215">
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-278" value="返回登录界面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="718" y="3573" />
+              <mxPoint x="713.5" y="3490" />
             </Array>
+            <mxPoint x="525.5121951219512" y="3490" as="sourcePoint" />
+            <mxPoint x="883" y="3490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-283" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
