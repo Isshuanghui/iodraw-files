@@ -55,7 +55,7 @@
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-220" value=" 设备资产管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="429" y="620" width="183" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-221" value="环境感知监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-221" value="2.3 环境感知监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="429" y="741" width="183" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-222" value="教室使用监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
