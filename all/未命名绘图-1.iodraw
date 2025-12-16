@@ -71,7 +71,7 @@
             <mxPoint x="100.00034482758616" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCMhC8p8xp98ZjuJ33vS-225" value="输入管理员账号密码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-225" value="输入管理员账号密码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="726.21" y="230" />
