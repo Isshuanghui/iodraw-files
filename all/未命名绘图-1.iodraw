@@ -71,13 +71,13 @@
           <mxGeometry x="627" y="1390" width="112" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-37" value="用户认证中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="588" y="2040" width="96" height="35" as="geometry" />
+          <mxGeometry x="610" y="1780" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-38" value="认证成功" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="610" y="2120" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-39" value="认证失败" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="150" y="2063" width="80" height="35" as="geometry" />
+          <mxGeometry x="300" y="1790" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-40" value="加载用户界面" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="354" y="2338" width="112" height="35" as="geometry" />
