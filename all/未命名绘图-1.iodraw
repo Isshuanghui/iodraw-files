@@ -104,22 +104,22 @@
           <mxGeometry x="1833" y="705" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-52" value="系统关闭指令" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1190" y="775" width="112" height="35" as="geometry" />
+          <mxGeometry x="1833" y="870" width="112" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-53" value="关闭确认中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1198" y="883" width="96" height="35" as="geometry" />
+          <mxGeometry x="1841" y="978" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-54" value="资源释放中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1198" y="990" width="96" height="35" as="geometry" />
+          <mxGeometry x="1841" y="1085" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-55" value="服务停止中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1198" y="1097" width="96" height="35" as="geometry" />
+          <mxGeometry x="1841" y="1192" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-56" value="系统已关闭" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1198" y="1205" width="96" height="35" as="geometry" />
+          <mxGeometry x="1841" y="1300" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-57" value="" style="ellipse;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="1239" y="1322" width="14" height="14" as="geometry" />
+          <mxGeometry x="1882" y="1417" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-67" value="开始安装" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-16" target="MBvEYXBps9NyWn50fdKf-17">
           <mxGeometry relative="1" as="geometry">
