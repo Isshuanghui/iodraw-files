@@ -49,8 +49,8 @@
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-218" value="热力图生成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="700" y="390" width="160" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-219" value="2.1 空间资源监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="472" y="500" width="183" height="49" as="geometry" />
+        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-219" value=" 空间资源监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="430" y="487" width="183" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-220" value="2.2 设备资产管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="384" y="889" width="183" height="49" as="geometry" />
