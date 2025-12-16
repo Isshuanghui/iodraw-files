@@ -518,8 +518,8 @@
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-143" value="" style="endArrow=open;html=1;rounded=0;entryX=0.821;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1040" y="730" as="sourcePoint" />
-            <mxPoint x="1038.55" y="635" as="targetPoint" />
+            <mxPoint x="1020" y="720" as="sourcePoint" />
+            <mxPoint x="1018" y="635" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-144" value="重新加载" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-143">
