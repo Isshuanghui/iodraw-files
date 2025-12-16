@@ -104,31 +104,31 @@
           <mxGeometry x="779" y="2683" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-49" value="维护模式" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="856" y="3220" width="80" height="35" as="geometry" />
+          <mxGeometry x="779" y="2770" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-50" value="系统恢复中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1087" y="3370" width="96" height="35" as="geometry" />
+          <mxGeometry x="847" y="2880" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-51" value="用户注销" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="410" y="2170" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-52" value="系统关闭指令" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1010" y="2683" width="112" height="35" as="geometry" />
+          <mxGeometry x="250" y="2250" width="112" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-53" value="关闭确认中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1018" y="2791" width="96" height="35" as="geometry" />
+          <mxGeometry x="258" y="2358" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-54" value="资源释放中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1018" y="2898" width="96" height="35" as="geometry" />
+          <mxGeometry x="258" y="2465" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-55" value="服务停止中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1018" y="3005" width="96" height="35" as="geometry" />
+          <mxGeometry x="258" y="2572" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-56" value="系统已关闭" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1018" y="3113" width="96" height="35" as="geometry" />
+          <mxGeometry x="258" y="2680" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-57" value="" style="ellipse;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="1059" y="3230" width="14" height="14" as="geometry" />
+          <mxGeometry x="299" y="2797" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-67" value="开始安装" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-16" target="MBvEYXBps9NyWn50fdKf-17">
           <mxGeometry relative="1" as="geometry">
