@@ -35,7 +35,7 @@
           <mxGeometry x="935" y="600" width="112" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-25" value="初始化完成" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="737" y="923" width="96" height="35" as="geometry" />
+          <mxGeometry x="810" y="740" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-26" value="初始化失败" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="943" y="720" width="96" height="35" as="geometry" />
@@ -530,7 +530,7 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-147" value="" style="endArrow=open;html=1;rounded=0;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="849" y="620" as="sourcePoint" />
-            <mxPoint x="850" y="780" as="targetPoint" />
+            <mxPoint x="850" y="740" as="targetPoint" />
             <Array as="points">
               <mxPoint x="850" y="618" />
             </Array>
