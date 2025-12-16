@@ -52,7 +52,7 @@
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-219" value=" 空间资源监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="430" y="487" width="183" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-220" value="2.2 设备资产管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-220" value=" 设备资产管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="384" y="889" width="183" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-221" value="2.3 环境感知监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -62,7 +62,7 @@
           <mxGeometry x="700" y="460" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-223" value="实验室状态监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="702" y="520" width="158" height="49" as="geometry" />
+          <mxGeometry x="700" y="520" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-224" value="设备状态监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="649" y="839" width="156" height="49" as="geometry" />
@@ -157,20 +157,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="343" y="1110" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-281" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="TGYrK-Zp5xRjEAU3l1eS-220" target="TGYrK-Zp5xRjEAU3l1eS-224">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="608" y="864" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-282" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=0.99;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="TGYrK-Zp5xRjEAU3l1eS-220" target="TGYrK-Zp5xRjEAU3l1eS-225">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="608" y="962" />
             </Array>
           </mxGeometry>
         </mxCell>
