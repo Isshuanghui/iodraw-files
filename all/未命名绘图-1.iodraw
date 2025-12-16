@@ -53,7 +53,7 @@
           <mxGeometry x="860" y="910" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-31" value="等待外部服务连接" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="607" y="1352" width="144" height="35" as="geometry" />
+          <mxGeometry x="676" y="1100" width="144" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-32" value="外部服务连接中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="615" y="1459" width="128" height="35" as="geometry" />
@@ -547,7 +547,7 @@
             <mxPoint x="743" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-157" value="开始连接" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-156">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-157" value="连接成功" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-156">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
