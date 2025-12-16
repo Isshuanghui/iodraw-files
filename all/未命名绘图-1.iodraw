@@ -53,7 +53,7 @@
           <mxGeometry x="1311" y="1969" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-70" value="打开浏览器/APP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="534" y="176" width="176" height="49" as="geometry" />
+          <mxGeometry x="496" y="-70" width="176" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-71" value="输入账号密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="545" y="373" width="156" height="49" as="geometry" />
