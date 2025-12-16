@@ -38,7 +38,7 @@
           <mxGeometry x="737" y="923" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-26" value="初始化失败" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="987" y="923" width="96" height="35" as="geometry" />
+          <mxGeometry x="991" y="840" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-27" value="等待数据库连接" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="721" y="1030" width="128" height="35" as="geometry" />
@@ -189,6 +189,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1079" y="886" />
+              <mxPoint x="1050" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
