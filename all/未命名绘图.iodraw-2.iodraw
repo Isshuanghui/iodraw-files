@@ -76,8 +76,8 @@
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-227" value="温湿度环境监测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="699" y="536" width="161" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-228" value="3.1 个人服务中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="457" y="620" width="183" height="49" as="geometry" />
+        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-228" value=" 个人服务中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="457" y="620" width="183" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-229" value="3.2 资源预约服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="384" y="1481" width="183" height="49" as="geometry" />
