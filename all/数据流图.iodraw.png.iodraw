@@ -451,7 +451,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-382" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;定时发布通知&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="440" y="475" width="90" height="30" as="geometry" />
+          <mxGeometry x="440" y="520" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-383" value="" style="endArrow=open;html=1;rounded=0;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BxHjopsezH7MGqw7-X-O-280" target="BxHjopsezH7MGqw7-X-O-382">
           <mxGeometry relative="1" as="geometry">
@@ -497,6 +497,9 @@
             <mxPoint x="617" y="28" as="sourcePoint" />
             <mxPoint x="547" y="14" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BxHjopsezH7MGqw7-X-O-393" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;故障描述&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="425" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
