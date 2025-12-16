@@ -524,8 +524,8 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-164" value="系统准备就绪" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="693" y="1325" as="sourcePoint" />
-            <mxPoint x="693" y="1400" as="targetPoint" />
+            <mxPoint x="624" y="1730" as="sourcePoint" />
+            <mxPoint x="624" y="1805" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
