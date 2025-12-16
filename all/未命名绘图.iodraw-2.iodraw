@@ -83,7 +83,7 @@
           <mxGeometry x="470" y="710" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-230" value="智能导航服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="468.5" y="770" width="183" height="49" as="geometry" />
+          <mxGeometry x="468.5" y="770" width="171.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-231" value="统一身份认证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="699" y="580" width="161" height="30" as="geometry" />
@@ -103,8 +103,8 @@
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-236" value="实时路径规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="698" y="780" width="162" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-237" value="4.1 数据采集层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="468.5" y="1104" width="167" height="49" as="geometry" />
+        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-237" value=" 数据采集层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="468.5" y="1104" width="167" height="26" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-238" value="4.2 数据处理层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="468.5" y="1302" width="167" height="49" as="geometry" />
