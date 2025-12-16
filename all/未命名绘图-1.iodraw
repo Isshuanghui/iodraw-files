@@ -65,7 +65,7 @@
           <mxGeometry x="500" y="1195" width="144" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-35" value="降级模式" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="892" y="1270" width="80" height="35" as="geometry" />
+          <mxGeometry x="532" y="1260" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-36" value="等待用户登录" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1638" y="440" width="112" height="35" as="geometry" />
@@ -352,11 +352,11 @@
             <mxPoint x="710" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-161" value="服务恢复" style="curved=1;startArrow=none;;entryX=1.005;entryY=0.551;rounded=0;endArrow=open;endFill=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="MBvEYXBps9NyWn50fdKf-33">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-161" value="服务恢复" style="curved=1;startArrow=none;;rounded=0;endArrow=open;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="890" y="1280" as="sourcePoint" />
-            <mxPoint x="826" y="1425" as="targetPoint" />
+            <mxPoint x="690" y="1278" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-163" value="系统准备就绪" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;endArrow=open;endFill=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-33" target="MBvEYXBps9NyWn50fdKf-36">
