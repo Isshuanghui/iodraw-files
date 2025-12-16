@@ -251,7 +251,7 @@
           <mxGeometry x="300" y="-80" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-321" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;&lt;code class=&quot;language-mermaid&quot;&gt;查询自习室空位&lt;/code&gt;&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-120" width="90" height="30" as="geometry" />
+          <mxGeometry x="280" y="-120" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-322" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;&lt;code class=&quot;language-mermaid&quot;&gt;查询打印机状态&lt;/code&gt;&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="290" y="-37.5" width="90" height="30" as="geometry" />
@@ -262,7 +262,7 @@
         <mxCell id="BxHjopsezH7MGqw7-X-O-324" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="460" y="-200.00462686567147" as="geometry" />
         </mxCell>
-        <mxCell id="BxHjopsezH7MGqw7-X-O-325" value="" style="endArrow=open;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+        <mxCell id="BxHjopsezH7MGqw7-X-O-325" value="" style="endArrow=open;html=1;rounded=0;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BxHjopsezH7MGqw7-X-O-268">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="269.7" y="-60" as="sourcePoint" />
             <mxPoint x="269.7" y="-110" as="targetPoint" />
