@@ -26,7 +26,7 @@
           <mxGeometry x="430" y="100.5" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-211" value="交互控制子系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="430" y="297.5" width="199" height="49" as="geometry" />
+          <mxGeometry x="430.5" y="220" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-212" value="数据可视化子系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="430" y="494.5" width="200" height="49" as="geometry" />
