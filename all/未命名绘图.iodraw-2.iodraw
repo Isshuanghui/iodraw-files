@@ -38,7 +38,7 @@
           <mxGeometry x="699" y="130" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-215" value="视角导航控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="700" y="200" width="156" height="30" as="geometry" />
+          <mxGeometry x="699" y="180" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-216" value="路径规划导航" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="700" y="257" width="156" height="33" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="431" y="741" width="183" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-222" value="教室使用监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="700" y="460" width="156" height="30" as="geometry" />
+          <mxGeometry x="701" y="430" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-223" value="实验室状态监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="700" y="520" width="158" height="40" as="geometry" />
