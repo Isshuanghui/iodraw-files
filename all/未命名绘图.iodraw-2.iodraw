@@ -50,7 +50,7 @@
           <mxGeometry x="580" y="290" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c2cdv69sZDKVaYltbdGC-78" value="人流密度监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="290" width="30" height="120" as="geometry" />
+          <mxGeometry x="520" y="290" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c2cdv69sZDKVaYltbdGC-79" value="数据分析与报表生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="290" width="30" height="120" as="geometry" />
