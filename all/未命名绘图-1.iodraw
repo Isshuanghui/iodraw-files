@@ -20,7 +20,7 @@
           <mxGeometry x="684" y="420" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-20" value="服务启动中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="640" y="601" width="96" height="35" as="geometry" />
+          <mxGeometry x="695" y="570" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-21" value="服务启动失败" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="507" y="708" width="112" height="35" as="geometry" />
