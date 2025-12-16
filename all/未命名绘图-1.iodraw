@@ -98,7 +98,7 @@
           <mxGeometry x="547" y="2565" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-47" value="异常处理中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="662" y="3020" width="96" height="35" as="geometry" />
+          <mxGeometry x="547" y="2660" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-48" value="系统降级" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="856" y="3113" width="80" height="35" as="geometry" />
@@ -482,6 +482,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="740" y="2770" as="sourcePoint" />
             <mxPoint x="840" y="2770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="2660" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-193" value="异常恢复" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-192">
