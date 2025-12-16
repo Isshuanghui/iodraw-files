@@ -524,6 +524,15 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-187" value="业务处理失败" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-186">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MBvEYXBps9NyWn50fdKf-189" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="MBvEYXBps9NyWn50fdKf-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="2770" as="sourcePoint" />
+            <mxPoint x="840" y="2770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBvEYXBps9NyWn50fdKf-190" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
