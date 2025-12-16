@@ -498,7 +498,7 @@
             <mxPoint x="536" y="1470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCMhC8p8xp98ZjuJ33vS-272" value="返回资源管理操作成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-272" value="返回资源管理操作成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;entryX=-0.041;entryY=0.885;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" target="TCMhC8p8xp98ZjuJ33vS-319">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="717.5" y="1490" />
