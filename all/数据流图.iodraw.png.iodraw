@@ -296,13 +296,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-333" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;选择时间段&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="324" y="162.5" width="90" height="30" as="geometry" />
+          <mxGeometry x="350" y="80" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-334" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;确认预约信息&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="324" y="200" width="90" height="30" as="geometry" />
+          <mxGeometry x="350" y="132.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-335" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;选择类型&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="324" y="250" width="90" height="30" as="geometry" />
+          <mxGeometry x="350" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-336" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;扫码使用&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="324" y="300" width="90" height="30" as="geometry" />
