@@ -261,6 +261,9 @@
         <mxCell id="D4QNlPHirY0QiyzjXy8T-93" value="管理员" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="D4QNlPHirY0QiyzjXy8T-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="D4QNlPHirY0QiyzjXy8T-94" value="用户角色判断?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="760" width="131" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
