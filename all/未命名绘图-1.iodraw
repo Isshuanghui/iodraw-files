@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="vhME-Zme64abVR5DcwKl">
-    <mxGraphModel dx="1067" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="839" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
           <mxGeometry x="860" y="1200" width="144" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-35" value="降级模式" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="892" y="1280" width="80" height="35" as="geometry" />
+          <mxGeometry x="892" y="1270" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-36" value="等待用户登录" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="668" y="1330" width="112" height="35" as="geometry" />
@@ -355,7 +355,7 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-161" value="服务恢复" style="curved=1;startArrow=none;;entryX=1;entryY=0.5;rounded=0;endArrow=open;endFill=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="MBvEYXBps9NyWn50fdKf-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="890" y="1300" as="sourcePoint" />
+            <mxPoint x="890" y="1280" as="sourcePoint" />
             <mxPoint x="826" y="1425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
