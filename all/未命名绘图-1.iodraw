@@ -302,10 +302,10 @@
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-250" value="显示可视化监控信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="718" y="1285" />
+              <mxPoint x="713.5" y="890" />
             </Array>
-            <mxPoint x="525.4999999999991" y="1284.999999999999" as="sourcePoint" />
-            <mxPoint x="887.5000000000009" y="1284.999999999999" as="targetPoint" />
+            <mxPoint x="520.9999999999991" y="889.9999999999991" as="sourcePoint" />
+            <mxPoint x="883.0000000000009" y="889.9999999999991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-251" value="审核预约申请" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
