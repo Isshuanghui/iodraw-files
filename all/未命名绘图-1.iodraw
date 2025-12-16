@@ -669,7 +669,10 @@
           <mxGeometry x="1083" y="1410" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-321" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry y="20" width="200" height="70" as="geometry" />
+          <mxGeometry y="10" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-322" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="90" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
