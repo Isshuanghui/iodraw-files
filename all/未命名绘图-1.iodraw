@@ -389,7 +389,7 @@
             <mxPoint x="880" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCMhC8p8xp98ZjuJ33vS-260" value="处理报修申请" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-260" value="处理报修申请" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-315">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="730.5" y="1169" />
@@ -650,7 +650,7 @@
           <mxGeometry x="525" y="1169" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-315" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="1179" width="10" height="70" as="geometry" />
+          <mxGeometry x="883" y="1169" width="10" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
