@@ -14,7 +14,7 @@
           <mxGeometry x="289.25" y="675" width="110.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-207" value=" 数据管理中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="304.25" y="890" width="80" height="30" as="geometry" />
+          <mxGeometry x="290" y="890" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-209" value=" 系统集成接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="276" y="1120.5" width="88" height="30" as="geometry" />
@@ -225,6 +225,9 @@
             <mxPoint x="433.5" y="694.74" as="sourcePoint" />
             <mxPoint x="468.5" y="694.74" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-351" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="409.25" y="620" width="70" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
