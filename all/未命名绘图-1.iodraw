@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="vhME-Zme64abVR5DcwKl">
-    <mxGraphModel dx="1381" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2348" dy="1540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,15 +100,6 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-47" value="异常处理中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="588" y="2303" width="96" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-48" value="系统降级" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="779" y="2683" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-49" value="维护模式" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="779" y="2770" width="80" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-50" value="系统恢复中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="847" y="2880" width="96" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-51" value="用户注销" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="467" y="1790" width="80" height="35" as="geometry" />
         </mxCell>
@@ -181,11 +172,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-99" value="执行业务逻辑" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-43" target="MBvEYXBps9NyWn50fdKf-44">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-106" value="进入维护状态" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-48" target="MBvEYXBps9NyWn50fdKf-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -490,24 +476,6 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-193" value="异常恢复" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-192">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-194" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-47" target="MBvEYXBps9NyWn50fdKf-48">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="3000" as="sourcePoint" />
-            <mxPoint x="840" y="3000" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-195" value="异常严重" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-194">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-196" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.581;exitY=1.048;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-49" target="MBvEYXBps9NyWn50fdKf-50">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850" y="3170" as="sourcePoint" />
-            <mxPoint x="950" y="3170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-197" value="开始修复" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-196">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-198" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="MBvEYXBps9NyWn50fdKf-52">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="1830" as="sourcePoint" />
@@ -517,18 +485,9 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-199" value="管理员关闭系统" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-198">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-200" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-35" target="MBvEYXBps9NyWn50fdKf-48">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-202" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1330" y="2230" as="sourcePoint" />
-            <mxPoint x="1430" y="2230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-201" value="服务进一步降级" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-200">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-202" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-50">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1020" y="2360" as="sourcePoint" />
+            <mxPoint x="919" y="2880" as="sourcePoint" />
             <mxPoint x="750" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
