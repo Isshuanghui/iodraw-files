@@ -208,13 +208,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-111" value="管理员关闭系统" style="curved=1;startArrow=none;;exitX=1;exitY=0.68;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-42" target="MBvEYXBps9NyWn50fdKf-52">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1066" y="2647" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-112" value="确认关闭操作" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-52" target="MBvEYXBps9NyWn50fdKf-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -535,7 +528,7 @@
             <mxPoint x="950" y="3170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-197" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-196">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-197" value="开始修复" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-196">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
