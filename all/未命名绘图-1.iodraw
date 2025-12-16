@@ -200,14 +200,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-108" value="恢复成功" style="curved=1;startArrow=none;;exitX=0.63;exitY=-0.01;entryX=1;entryY=0.58;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-50" target="MBvEYXBps9NyWn50fdKf-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1178" y="3327" />
-              <mxPoint x="1178" y="1852" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-112" value="确认关闭操作" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-52" target="MBvEYXBps9NyWn50fdKf-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -538,7 +530,7 @@
             <mxPoint x="1430" y="2230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-201" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-200">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-201" value="服务进一步降级" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-200">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
