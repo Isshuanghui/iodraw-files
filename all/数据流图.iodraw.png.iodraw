@@ -29,10 +29,10 @@
           <mxGeometry x="135" y="110" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-272" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;&lt;code class=&quot;language-mermaid&quot;&gt;查询教室/实验室状态&lt;/code&gt;&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="110" y="350" width="120" height="30" as="geometry" />
+          <mxGeometry x="110" y="380" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-273" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;&lt;code class=&quot;language-mermaid&quot;&gt;预约教学场地/设备&lt;/code&gt;&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="110" y="320" width="110" height="30" as="geometry" />
+          <mxGeometry x="130" y="340" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-274" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;&lt;code class=&quot;language-mermaid&quot;&gt;提交设备报修申请&lt;/code&gt;&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="110" y="430" width="110" height="30" as="geometry" />
