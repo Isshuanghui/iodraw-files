@@ -143,10 +143,10 @@
           <mxGeometry x="699" y="1100" width="161" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-259" value="校园一卡通对接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="699" y="1140" width="172" height="49" as="geometry" />
+          <mxGeometry x="699" y="1140" width="161" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-260" value="教务系统对接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="664" y="1754" width="156" height="49" as="geometry" />
+          <mxGeometry x="700" y="1180" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-294" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="TGYrK-Zp5xRjEAU3l1eS-207" target="TGYrK-Zp5xRjEAU3l1eS-237">
           <mxGeometry relative="1" as="geometry">
