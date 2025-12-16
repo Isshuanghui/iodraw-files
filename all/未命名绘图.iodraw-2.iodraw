@@ -56,7 +56,7 @@
           <mxGeometry x="429" y="620" width="183" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-221" value="2.3 环境感知监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="384" y="1086" width="183" height="49" as="geometry" />
+          <mxGeometry x="429" y="741" width="183" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-222" value="教室使用监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="700" y="460" width="156" height="49" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="702" y="720" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-227" value="温湿度环境监测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="702" y="790" width="172" height="49" as="geometry" />
+          <mxGeometry x="702" y="790" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-228" value="3.1 个人服务中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="384" y="1283" width="183" height="49" as="geometry" />
@@ -147,13 +147,6 @@
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-260" value="教务系统对接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="663" y="2726" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-278" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="TGYrK-Zp5xRjEAU3l1eS-205" target="TGYrK-Zp5xRjEAU3l1eS-221">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="343" y="1110" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-285" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="TGYrK-Zp5xRjEAU3l1eS-206" target="TGYrK-Zp5xRjEAU3l1eS-228">
           <mxGeometry relative="1" as="geometry">
