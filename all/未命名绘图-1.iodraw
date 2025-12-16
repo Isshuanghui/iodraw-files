@@ -463,12 +463,12 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-190" value="开始处理异常" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-189">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-192" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.896;entryY=1.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-47" target="MBvEYXBps9NyWn50fdKf-42">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-192" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.896;entryY=1.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="MBvEYXBps9NyWn50fdKf-42">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1419" y="1895" as="sourcePoint" />
+            <mxPoint x="1370" y="1200" as="sourcePoint" />
             <mxPoint x="1519" y="1895" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1459" y="1198" />
+              <mxPoint x="1459" y="1200" />
             </Array>
           </mxGeometry>
         </mxCell>
