@@ -521,6 +521,13 @@
             <mxPoint x="826" y="1425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MBvEYXBps9NyWn50fdKf-163" value="启用备用方案" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="930" y="1305" as="sourcePoint" />
+            <mxPoint x="930" y="1380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
