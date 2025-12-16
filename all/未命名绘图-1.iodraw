@@ -14,7 +14,7 @@
           <mxGeometry x="684" y="270" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-18" value="系统已部署" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="681" y="386" width="96" height="35" as="geometry" />
+          <mxGeometry x="684" y="360" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-19" value="服务未启动" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="681" y="493" width="96" height="35" as="geometry" />
