@@ -503,7 +503,7 @@
             <mxPoint x="1120" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-213" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-212">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-213" value="系统准备就绪" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-212">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
