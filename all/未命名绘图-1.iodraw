@@ -200,12 +200,13 @@
             <mxPoint x="540" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCMhC8p8xp98ZjuJ33vS-239" value="推送预约申请通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-214" target="TCMhC8p8xp98ZjuJ33vS-215">
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-239" value="推送预约申请通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="600" y="930" />
-              <mxPoint x="718" y="1325" />
+              <mxPoint x="713.33" y="640" />
             </Array>
+            <mxPoint x="524.9966666666666" y="640.0000000000002" as="sourcePoint" />
+            <mxPoint x="882.83" y="640.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-240" value="20.返回提交成功（等待审核）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" edge="1" parent="1">
