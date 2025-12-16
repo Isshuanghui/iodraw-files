@@ -448,6 +448,9 @@
         <mxCell id="BxHjopsezH7MGqw7-X-O-381" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BxHjopsezH7MGqw7-X-O-380">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BxHjopsezH7MGqw7-X-O-382" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;上传故障照片&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="440" y="475" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
