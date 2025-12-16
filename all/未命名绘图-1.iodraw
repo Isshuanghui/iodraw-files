@@ -41,7 +41,7 @@
           <mxGeometry x="103" y="920" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-33" value="进行功能操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1087" width="156" height="49" as="geometry" />
+          <mxGeometry x="103" y="1000" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-34" value="是否切换功能?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="103" y="1209" width="151" height="151" as="geometry" />
@@ -62,10 +62,10 @@
           <mxGeometry x="338" y="840" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-40" value="加载系统数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="341" y="989" width="156" height="49" as="geometry" />
+          <mxGeometry x="338" y="920" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-41" value="进行功能操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="341" y="1087" width="156" height="49" as="geometry" />
+          <mxGeometry x="338" y="1000" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-42" value="是否切换功能?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="343" y="1209" width="151" height="151" as="geometry" />
