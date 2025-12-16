@@ -83,7 +83,8 @@
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-226" value="查询管理员信息（验证权限）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-214" target="TCMhC8p8xp98ZjuJ33vS-216">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="900" y="250" />
+              <mxPoint x="820" y="280" />
+              <mxPoint x="910" y="280" />
               <mxPoint x="818" y="518" />
             </Array>
           </mxGeometry>
@@ -491,7 +492,7 @@
           <mxGeometry x="525" y="230" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-292" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="883" y="230" width="10" height="100" as="geometry" />
+          <mxGeometry x="883" y="230" width="10" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
