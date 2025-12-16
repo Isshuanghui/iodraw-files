@@ -405,14 +405,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCMhC8p8xp98ZjuJ33vS-274" value="清理用户会话" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.0759" relative="1" as="geometry">
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-274" value="清理用户会话" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-214" target="TCMhC8p8xp98ZjuJ33vS-214">
+          <mxGeometry y="-11" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="581" y="3260" />
-              <mxPoint x="581" y="3290" />
+              <mxPoint x="581" y="3305" />
+              <mxPoint x="581" y="3335" />
             </Array>
-            <mxPoint x="530.0833333333333" y="3260" as="sourcePoint" />
-            <mxPoint x="530.0833333333333" y="3290" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
