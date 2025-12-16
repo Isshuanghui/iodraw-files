@@ -301,15 +301,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-109" value="用户主动退出" style="curved=1;startArrow=none;;exitX=0;exitY=0.66;entryX=0.36;entryY=0.01;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="241.5" y="2667.9" />
-            </Array>
-            <mxPoint x="650.5" y="2620" as="sourcePoint" />
-            <mxPoint x="265.07142857142867" y="2703.9" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-110" value="返回登录界面" style="curved=1;startArrow=none;;exitX=0.64;exitY=0.01;entryX=0.06;entryY=0.99;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-51" target="MBvEYXBps9NyWn50fdKf-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -528,6 +519,13 @@
             <Array as="points" />
             <mxPoint x="683" y="1315" as="sourcePoint" />
             <mxPoint x="683" y="1390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBvEYXBps9NyWn50fdKf-164" value="系统准备就绪" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="693" y="1325" as="sourcePoint" />
+            <mxPoint x="693" y="1400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
