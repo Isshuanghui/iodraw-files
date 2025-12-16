@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MBvEYXBps9NyWn50fdKf-15" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="707" y="60" width="14" height="14" as="geometry" />
+          <mxGeometry x="724" y="70" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-16" value="系统未部署" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="666" y="150" width="130" height="56" as="geometry" />
@@ -150,13 +150,6 @@
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-65" value="系统处于维护状态&#xa;    部分功能不可用&#xa;    管理员进行修复" style="align=left;spacingLeft=4;" vertex="1" parent="1">
           <mxGeometry x="1264" y="3352" width="143" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-66" value="" style="curved=1;startArrow=none;;exitX=0.48;exitY=0.97;entryX=0.2;entryY=0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-15" target="MBvEYXBps9NyWn50fdKf-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="659" y="146" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-67" value="开始安装" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-16" target="MBvEYXBps9NyWn50fdKf-17">
           <mxGeometry relative="1" as="geometry">
@@ -516,6 +509,12 @@
             <Array as="points">
               <mxPoint x="1336" y="3291" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBvEYXBps9NyWn50fdKf-123" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="150" as="sourcePoint" />
+            <mxPoint x="810" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
