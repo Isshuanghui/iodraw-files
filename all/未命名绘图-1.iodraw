@@ -83,10 +83,10 @@
           <mxGeometry x="682" y="1550" width="112" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-41" value="主界面就绪" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="659" y="1719" width="96" height="35" as="geometry" />
+          <mxGeometry x="690" y="1630" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-42" value="用户交互中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="659" y="1810" width="96" height="35" as="geometry" />
+          <mxGeometry x="690" y="1710" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-43" value="处理用户请求" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="594" y="1930" width="112" height="35" as="geometry" />
