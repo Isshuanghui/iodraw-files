@@ -272,13 +272,13 @@
             <mxPoint x="95.99999999999909" y="784.7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCMhC8p8xp98ZjuJ33vS-247" value="查看数字孪生监控面板（资源实时状态）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-247" value="查看数字孪生监控面板（资源实时状态）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="721" y="1129" />
+              <mxPoint x="730.5" y="820" />
             </Array>
-            <mxPoint x="887.5000000000009" y="1129" as="sourcePoint" />
-            <mxPoint x="525.4999999999991" y="1129" as="targetPoint" />
+            <mxPoint x="897.0000000000009" y="820" as="sourcePoint" />
+            <mxPoint x="534.9999999999991" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-248" value="查询实时监控数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
