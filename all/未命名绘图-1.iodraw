@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="vhME-Zme64abVR5DcwKl">
-    <mxGraphModel dx="1174" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1806" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,12 +144,6 @@
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-63" value="用户正常使用系统&#xa;    包括：三维浏览&#xa;    资源查询、预约等" style="align=left;spacingLeft=4;" vertex="1" parent="1">
           <mxGeometry x="695" y="2410" width="143" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-64" value="系统处于维护状态&#xa;    部分功能不可用&#xa;    管理员进行修复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1229" y="3327" width="213" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-65" value="系统处于维护状态&#xa;    部分功能不可用&#xa;    管理员进行修复" style="align=left;spacingLeft=4;" vertex="1" parent="1">
-          <mxGeometry x="1264" y="3352" width="143" height="69" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-67" value="开始安装" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-16" target="MBvEYXBps9NyWn50fdKf-17">
           <mxGeometry relative="1" as="geometry">
@@ -411,11 +405,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-122" value="" style="curved=1;dashed=1;startArrow=none;;exitX=1;exitY=0.64;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-49" target="MBvEYXBps9NyWn50fdKf-65">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-122" value="" style="curved=1;dashed=1;startArrow=none;;exitX=1;exitY=0.64;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1336" y="3291" />
             </Array>
+            <mxPoint x="1335.4999999999995" y="3352" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-123" value="" style="endArrow=open;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-15" target="MBvEYXBps9NyWn50fdKf-16">
