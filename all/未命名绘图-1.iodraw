@@ -166,7 +166,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-76" value="加载系统配置" style="curved=1;startArrow=none;;exitX=0.49;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-22" target="MBvEYXBps9NyWn50fdKf-24">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-76" value="加载系统配置" style="curved=1;startArrow=none;;exitX=0.49;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-22" target="MBvEYXBps9NyWn50fdKf-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
