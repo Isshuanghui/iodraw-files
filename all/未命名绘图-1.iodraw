@@ -455,19 +455,19 @@
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-267" value="推送维修分配通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="324" y="2169" />
+              <mxPoint x="313.5" y="1420" />
             </Array>
-            <mxPoint x="529.5" y="2169" as="sourcePoint" />
-            <mxPoint x="90.49999999999909" y="2169" as="targetPoint" />
+            <mxPoint x="519" y="1420" as="sourcePoint" />
+            <mxPoint x="79.99999999999909" y="1420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-268" value="返回处理操作成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="718" y="2221" />
+              <mxPoint x="727.5" y="1470" />
             </Array>
-            <mxPoint x="525.4999999999991" y="2221" as="sourcePoint" />
-            <mxPoint x="887.5000000000009" y="2221" as="targetPoint" />
+            <mxPoint x="534.9999999999991" y="1470" as="sourcePoint" />
+            <mxPoint x="897.0000000000009" y="1470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-269" value="管理资源信息（增删改）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
