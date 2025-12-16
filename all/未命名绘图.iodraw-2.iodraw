@@ -82,8 +82,8 @@
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-229" value="资源预约服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="470" y="710" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-230" value="3.3 智能导航服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="460.5" y="907" width="183" height="49" as="geometry" />
+        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-230" value="智能导航服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="468.5" y="770" width="183" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-231" value="统一身份认证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="699" y="580" width="161" height="30" as="geometry" />
