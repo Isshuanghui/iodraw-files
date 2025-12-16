@@ -208,7 +208,7 @@
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-345" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="399.25" y="356.5" width="70" height="183.5" as="geometry" />
         </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-346" value=" 三维可视化平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-346" value="资源监控中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="289.25" y="431.5" width="110" height="39" as="geometry" />
         </mxCell>
       </root>
