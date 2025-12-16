@@ -82,7 +82,7 @@
         <mxCell id="BxHjopsezH7MGqw7-X-O-286" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;&lt;code class=&quot;language-mermaid&quot;&gt;用户账号管理&lt;/code&gt;&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="290" y="-40" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BxHjopsezH7MGqw7-X-O-287" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="BxHjopsezH7MGqw7-X-O-287" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BxHjopsezH7MGqw7-X-O-261" target="BxHjopsezH7MGqw7-X-O-268">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="110" as="sourcePoint" />
             <mxPoint x="270" y="60" as="targetPoint" />
