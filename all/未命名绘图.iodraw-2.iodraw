@@ -26,7 +26,7 @@
           <mxGeometry x="430" y="100.5" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-211" value="交互控制子系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="430.5" y="220" width="199" height="49" as="geometry" />
+          <mxGeometry x="430" y="225" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-212" value="数据可视化子系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="429" y="360" width="200" height="49" as="geometry" />
@@ -339,6 +339,9 @@
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-323" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="220" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-324" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="649" y="350" width="50" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
