@@ -182,7 +182,7 @@
             <mxPoint x="534.9473684210525" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCMhC8p8xp98ZjuJ33vS-237" value="新增预约记录并更新资源状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="TCMhC8p8xp98ZjuJ33vS-299">
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-237" value="新增预约记录并更新资源状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1" target="TCMhC8p8xp98ZjuJ33vS-216">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="823.68" y="570" />
