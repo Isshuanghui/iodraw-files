@@ -185,10 +185,10 @@
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-237" value="新增预约记录并更新资源状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="823.68" y="580" />
+              <mxPoint x="823.68" y="570" />
             </Array>
-            <mxPoint x="535.0035294117646" y="580" as="sourcePoint" />
-            <mxPoint x="1093.1799999999996" y="580" as="targetPoint" />
+            <mxPoint x="535.0035294117646" y="570" as="sourcePoint" />
+            <mxPoint x="1093.1799999999996" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-238" value="操作成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-216" target="TCMhC8p8xp98ZjuJ33vS-214">
@@ -537,7 +537,7 @@
           <mxGeometry x="525" y="490" width="10" height="230" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-299" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1083" y="490" width="10" height="70" as="geometry" />
+          <mxGeometry x="1083" y="490" width="10" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
