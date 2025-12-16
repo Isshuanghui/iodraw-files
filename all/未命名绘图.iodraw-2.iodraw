@@ -29,7 +29,7 @@
           <mxGeometry x="470" y="180" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-212" value="数据可视化子系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="429" y="360" width="200" height="49" as="geometry" />
+          <mxGeometry x="455" y="261" width="200" height="29" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-213" value="三维模型库管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="699" y="80" width="161" height="30" as="geometry" />
