@@ -104,22 +104,22 @@
           <mxGeometry x="1140" y="710" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-52" value="系统关闭指令" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1542" y="880" width="112" height="35" as="geometry" />
+          <mxGeometry x="1570" y="835" width="112" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-53" value="关闭确认中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1550" y="993" width="96" height="35" as="geometry" />
+          <mxGeometry x="1578" y="948" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-54" value="资源释放中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1550" y="1100" width="96" height="35" as="geometry" />
+          <mxGeometry x="1578" y="1055" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-55" value="服务停止中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1550" y="1207" width="96" height="35" as="geometry" />
+          <mxGeometry x="1578" y="1162" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-56" value="系统已关闭" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1550" y="1315" width="96" height="35" as="geometry" />
+          <mxGeometry x="1578" y="1270" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-57" value="" style="ellipse;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="1591" y="1432" width="14" height="14" as="geometry" />
+          <mxGeometry x="1619" y="1387" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-67" value="开始安装" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-16" target="MBvEYXBps9NyWn50fdKf-17">
           <mxGeometry relative="1" as="geometry">
@@ -475,7 +475,7 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-193" value="异常恢复" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-192">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-198" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="MBvEYXBps9NyWn50fdKf-52">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-198" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-42" target="MBvEYXBps9NyWn50fdKf-52">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1469" y="865" as="sourcePoint" />
             <mxPoint x="1629" y="1835" as="targetPoint" />
