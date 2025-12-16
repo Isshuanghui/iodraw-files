@@ -434,7 +434,7 @@
             <mxPoint x="534.9952173913044" y="3440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCMhC8p8xp98ZjuJ33vS-277" value="清理管理员会话" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-277" value="清理管理员会话" style="curved=1;endArrow=open;rounded=0;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="585.62" y="3450" />
