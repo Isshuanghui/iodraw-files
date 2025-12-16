@@ -220,8 +220,8 @@
             <mxPoint x="360" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BxHjopsezH7MGqw7-X-O-313" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;&lt;code class=&quot;language-mermaid&quot;&gt;查询教室/实验室状态&lt;/code&gt;&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="120" y="360" width="120" height="30" as="geometry" />
+        <mxCell id="BxHjopsezH7MGqw7-X-O-313" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;浏览三维校园&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="95" y="240" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
