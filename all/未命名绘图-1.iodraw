@@ -233,14 +233,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-118" value="服务进一步恶化" style="curved=1;startArrow=none;;exitX=0.61;exitY=0.99;entryX=0.72;entryY=-0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-35" target="MBvEYXBps9NyWn50fdKf-48">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="951" y="1745" />
-              <mxPoint x="951" y="3076" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-123" value="" style="endArrow=open;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-15" target="MBvEYXBps9NyWn50fdKf-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="150" as="sourcePoint" />
@@ -537,7 +529,16 @@
             <mxPoint x="950" y="2710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-199" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-198">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-199" value="管理员关闭系统" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBvEYXBps9NyWn50fdKf-200" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1330" y="2230" as="sourcePoint" />
+            <mxPoint x="1430" y="2230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBvEYXBps9NyWn50fdKf-201" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-200">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
