@@ -214,19 +214,16 @@
             <mxPoint x="360" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BxHjopsezH7MGqw7-X-O-313" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;浏览三维校园&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="70" y="250" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BxHjopsezH7MGqw7-X-O-314" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="BxHjopsezH7MGqw7-X-O-313">
+        <mxCell id="BxHjopsezH7MGqw7-X-O-314" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="40" as="sourcePoint" />
-            <mxPoint x="160" y="230" as="targetPoint" />
+            <mxPoint x="70" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BxHjopsezH7MGqw7-X-O-315" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="BxHjopsezH7MGqw7-X-O-313">
+        <mxCell id="BxHjopsezH7MGqw7-X-O-315" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="440" as="sourcePoint" />
-            <mxPoint x="160" y="230" as="targetPoint" />
+            <mxPoint x="70" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-316" value="" style="endArrow=open;html=1;rounded=0;endFill=0;" edge="1" parent="1" source="BxHjopsezH7MGqw7-X-O-265" target="BxHjopsezH7MGqw7-X-O-319">
@@ -383,7 +380,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BxHjopsezH7MGqw7-X-O-356" value="登录系统" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="160" y="280" width="90" height="30" as="geometry" />
+          <mxGeometry x="70" y="250" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BxHjopsezH7MGqw7-X-O-358" value="&lt;pre class=&quot;container-S2LAkl language-mermaid&quot;&gt;浏览三维校园&lt;/pre&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-180" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
