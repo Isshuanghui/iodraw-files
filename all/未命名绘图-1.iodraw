@@ -41,7 +41,7 @@
           <mxGeometry x="943" y="720" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-27" value="等待数据库连接" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="721" y="1030" width="128" height="35" as="geometry" />
+          <mxGeometry x="794" y="820" width="128" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-28" value="数据库连接中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="667" y="1137" width="112" height="35" as="geometry" />
