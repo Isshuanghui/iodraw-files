@@ -71,10 +71,10 @@
           <mxGeometry x="699" y="450" width="161" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-226" value="人流密度监测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="700" y="500" width="160" height="30" as="geometry" />
+          <mxGeometry x="699" y="496.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-227" value="温湿度环境监测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="702" y="790" width="158" height="49" as="geometry" />
+          <mxGeometry x="702" y="790" width="158" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-228" value="3.1 个人服务中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="384" y="1283" width="183" height="49" as="geometry" />
