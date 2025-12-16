@@ -525,6 +525,15 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-144" value="重新加载" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-143">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MBvEYXBps9NyWn50fdKf-145" value="" style="endArrow=open;html=1;rounded=0;endFill=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="964" y="635" as="sourcePoint" />
+            <mxPoint x="966" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBvEYXBps9NyWn50fdKf-146" value="启动异常" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
