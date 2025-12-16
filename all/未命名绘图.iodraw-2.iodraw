@@ -16,11 +16,11 @@
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-206" value="智能服务平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="272" y="555" width="82" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-207" value="4. 数据管理中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="870" width="60" height="30" as="geometry" />
+        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-207" value=" 数据管理中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="265" y="800" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-209" value=" 系统集成接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="272" y="1648.5" width="88" height="30" as="geometry" />
+          <mxGeometry x="272" y="1044" width="88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-210" value=" 场景管理子系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="470" y="100" width="170" height="30" as="geometry" />
