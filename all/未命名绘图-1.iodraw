@@ -71,11 +71,13 @@
             <mxPoint x="100.00034482758616" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCMhC8p8xp98ZjuJ33vS-225" value="输入管理员账号密码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-215" target="TCMhC8p8xp98ZjuJ33vS-214">
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-225" value="输入管理员账号密码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="721" y="466" />
+              <mxPoint x="726.21" y="230" />
             </Array>
+            <mxPoint x="892.71" y="230" as="sourcePoint" />
+            <mxPoint x="534.9957142857145" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-226" value="查询管理员信息（验证权限）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-214" target="TCMhC8p8xp98ZjuJ33vS-216">
@@ -485,7 +487,7 @@
           <mxGeometry x="1083" y="130" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-291" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="120" width="10" height="100" as="geometry" />
+          <mxGeometry x="525" y="230" width="10" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
