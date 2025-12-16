@@ -382,7 +382,7 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-169" value="接受用户指令" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-168">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-170" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-51" target="MBvEYXBps9NyWn50fdKf-36">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-170" value="" style="endArrow=open;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-51" target="MBvEYXBps9NyWn50fdKf-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1199" y="1485" as="sourcePoint" />
             <mxPoint x="1299" y="1485" as="targetPoint" />
@@ -421,7 +421,7 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-178" value="验证失败" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-177">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-179" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-39" target="MBvEYXBps9NyWn50fdKf-36">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-179" value="" style="endArrow=open;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-39" target="MBvEYXBps9NyWn50fdKf-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1079" y="1155" as="sourcePoint" />
             <mxPoint x="1179" y="1155" as="targetPoint" />
