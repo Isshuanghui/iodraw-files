@@ -434,7 +434,7 @@
             <mxPoint x="540" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCMhC8p8xp98ZjuJ33vS-265" value="46.更新维修工单状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-265" value="46.更新维修工单状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;entryX=-0.072;entryY=0.901;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" target="TCMhC8p8xp98ZjuJ33vS-316">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="817.5" y="1280" />
