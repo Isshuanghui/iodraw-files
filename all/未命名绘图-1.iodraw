@@ -301,11 +301,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-109" value="用户主动退出" style="curved=1;startArrow=none;;exitX=0;exitY=0.66;entryX=0.36;entryY=0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-42" target="MBvEYXBps9NyWn50fdKf-51">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-109" value="用户主动退出" style="curved=1;startArrow=none;;exitX=0;exitY=0.66;entryX=0.36;entryY=0.01;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="215" y="2647" />
+              <mxPoint x="241.5" y="2667.9" />
             </Array>
+            <mxPoint x="650.5" y="2620" as="sourcePoint" />
+            <mxPoint x="265.07142857142867" y="2703.9" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-110" value="返回登录界面" style="curved=1;startArrow=none;;exitX=0.64;exitY=0.01;entryX=0.06;entryY=0.99;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-51" target="MBvEYXBps9NyWn50fdKf-36">
