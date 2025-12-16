@@ -13,7 +13,7 @@
         <mxCell id="c2cdv69sZDKVaYltbdGC-65" value="资源监控模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="190" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c2cdv69sZDKVaYltbdGC-66" value="三维可视化模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c2cdv69sZDKVaYltbdGC-66" value="数据管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c2cdv69sZDKVaYltbdGC-67" value="三维可视化模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
