@@ -59,7 +59,7 @@
           <mxGeometry x="236" y="1821" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-39" value="进入管理界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="341" y="890" width="156" height="49" as="geometry" />
+          <mxGeometry x="338" y="840" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-40" value="加载系统数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="341" y="989" width="156" height="49" as="geometry" />
@@ -285,6 +285,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="810" as="sourcePoint" />
             <mxPoint x="240" y="1090" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="416" y="780" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-93" value="管理员" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="D4QNlPHirY0QiyzjXy8T-92">
