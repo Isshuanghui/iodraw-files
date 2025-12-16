@@ -62,10 +62,10 @@
           <mxGeometry x="700" y="320" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-223" value="实验室状态监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="699" y="364.5" width="158" height="40" as="geometry" />
+          <mxGeometry x="699" y="364.5" width="161" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-224" value="设备状态监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="701" y="590" width="156" height="49" as="geometry" />
+          <mxGeometry x="699" y="409" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-225" value="设备维护管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="701" y="650" width="156" height="49" as="geometry" />
