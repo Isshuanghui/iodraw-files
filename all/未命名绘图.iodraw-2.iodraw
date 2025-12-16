@@ -11,7 +11,7 @@
           <mxGeometry x="289.25" y="175.5" width="110" height="39" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-206" value="智能服务平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="268" y="640" width="82" height="30" as="geometry" />
+          <mxGeometry x="289.25" y="650" width="110.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-207" value=" 数据管理中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="890" width="80" height="30" as="geometry" />
