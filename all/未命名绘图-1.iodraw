@@ -25,7 +25,7 @@
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-219" value="[有冲突]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="TCMhC8p8xp98ZjuJ33vS-217">
           <mxGeometry y="261" width="1015" height="4" as="geometry" />
         </mxCell>
-        <mxCell id="TCMhC8p8xp98ZjuJ33vS-220" value="输入账号密码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;entryX=0;entryY=0;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" target="TCMhC8p8xp98ZjuJ33vS-289">
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-220" value="1.输入账号密码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;entryX=0;entryY=0;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" target="TCMhC8p8xp98ZjuJ33vS-289">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="326.06" y="110" />
