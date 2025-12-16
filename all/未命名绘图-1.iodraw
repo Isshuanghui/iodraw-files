@@ -68,7 +68,7 @@
           <mxGeometry x="880" y="1370" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-36" value="等待用户登录" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="390" y="1790" width="112" height="35" as="geometry" />
+          <mxGeometry x="627" y="1390" width="112" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-37" value="用户认证中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="320" y="2063" width="96" height="35" as="geometry" />
