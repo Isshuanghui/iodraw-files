@@ -25,11 +25,13 @@
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-219" value="[有冲突]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="TCMhC8p8xp98ZjuJ33vS-217">
           <mxGeometry y="261" width="1015" height="4" as="geometry" />
         </mxCell>
-        <mxCell id="TCMhC8p8xp98ZjuJ33vS-220" value="输入账号密码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-213" target="TCMhC8p8xp98ZjuJ33vS-214">
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-220" value="输入账号密码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="321" y="176" />
+              <mxPoint x="326.06" y="120" />
             </Array>
+            <mxPoint x="100.00444444444457" y="120" as="sourcePoint" />
+            <mxPoint x="534.5600000000002" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-221" value="查询用户信息（验证身份）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-214" target="TCMhC8p8xp98ZjuJ33vS-216">
@@ -466,7 +468,7 @@
           <mxGeometry x="883" y="3360" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-288" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="90" width="10" height="100" as="geometry" />
+          <mxGeometry x="90" y="110" width="10" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
