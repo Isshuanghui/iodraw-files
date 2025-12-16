@@ -338,10 +338,10 @@
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-254" value="显示申请信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="718" y="1493" />
+              <mxPoint x="723.5" y="1010" />
             </Array>
-            <mxPoint x="525.4999999999991" y="1493" as="sourcePoint" />
-            <mxPoint x="887.5000000000009" y="1493" as="targetPoint" />
+            <mxPoint x="530.9999999999991" y="1010" as="sourcePoint" />
+            <mxPoint x="893.0000000000009" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-255" value="确认审核结果（通过/驳回）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
@@ -638,7 +638,7 @@
           <mxGeometry x="525" y="920" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-311" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="883" y="920" width="10" height="70" as="geometry" />
+          <mxGeometry x="883" y="920" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-312" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1085" y="930" width="10" height="70" as="geometry" />
