@@ -394,7 +394,7 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-171" value="返回登录界面" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-170">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-172" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-36" target="MBvEYXBps9NyWn50fdKf-37">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-172" value="" style="endArrow=open;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-36" target="MBvEYXBps9NyWn50fdKf-37">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1360" y="550" as="sourcePoint" />
             <mxPoint x="1355" y="605" as="targetPoint" />
@@ -403,7 +403,7 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-173" value="用户登录请求" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-172">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-175" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.656;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-37" target="MBvEYXBps9NyWn50fdKf-38">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-175" value="" style="endArrow=open;html=1;rounded=0;exitX=0.656;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-37" target="MBvEYXBps9NyWn50fdKf-38">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1059" y="1225" as="sourcePoint" />
             <mxPoint x="1159" y="1225" as="targetPoint" />
