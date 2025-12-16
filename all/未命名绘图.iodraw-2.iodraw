@@ -35,7 +35,7 @@
           <mxGeometry x="700" y="70" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-214" value="场景配置管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="700" y="130" width="156" height="49" as="geometry" />
+          <mxGeometry x="700" y="130" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-215" value="视角导航控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="700" y="200" width="156" height="49" as="geometry" />
