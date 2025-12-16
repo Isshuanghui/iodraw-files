@@ -43,7 +43,7 @@
         <mxCell id="c2cdv69sZDKVaYltbdGC-75" value="公共设备监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="290" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="c2cdv69sZDKVaYltbdGC-76" value="场景交互" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c2cdv69sZDKVaYltbdGC-76" value="场景交互支持" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="290" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c2cdv69sZDKVaYltbdGC-78" value="人流密度监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
