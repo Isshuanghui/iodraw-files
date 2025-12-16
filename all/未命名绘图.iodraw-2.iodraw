@@ -22,7 +22,7 @@
         <mxCell id="c2cdv69sZDKVaYltbdGC-68" value="用户认证管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="290" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="c2cdv69sZDKVaYltbdGC-69" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c2cdv69sZDKVaYltbdGC-69" value="个人中心管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="290" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c2cdv69sZDKVaYltbdGC-70" value="消息通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
