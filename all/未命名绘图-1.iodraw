@@ -181,7 +181,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-86" value="连接传感器/API" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-31" target="MBvEYXBps9NyWn50fdKf-32">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-86" value="连接传感器/API" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-31" target="MBvEYXBps9NyWn50fdKf-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
