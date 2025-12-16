@@ -230,10 +230,10 @@
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-242" value="提交设备报修申请（填写故障描述）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="321" y="820" />
+              <mxPoint x="316.5" y="730" />
             </Array>
-            <mxPoint x="90.49999999999909" y="819.9999999999991" as="sourcePoint" />
-            <mxPoint x="529.5" y="819.9999999999991" as="targetPoint" />
+            <mxPoint x="85.99999999999909" y="729.9999999999991" as="sourcePoint" />
+            <mxPoint x="525" y="729.9999999999991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-243" value="记录故障信息并生成维修工单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
@@ -612,6 +612,9 @@
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-301" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="883" y="620" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-302" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="720" width="10" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
