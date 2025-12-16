@@ -130,7 +130,7 @@
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-245" value="关系数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="700" y="1020" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-255" value="6.1 内部接口层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-255" value=" 内部接口层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="490" y="1161" width="167" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-256" value="6.2 外部接口层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
