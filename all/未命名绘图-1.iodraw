@@ -59,7 +59,7 @@
           <mxGeometry x="684" y="1190" width="128" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-33" value="系统就绪" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="362" y="1781" width="80" height="35" as="geometry" />
+          <mxGeometry x="371" y="1736" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-34" value="外部服务连接失败" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="848" y="1260" width="144" height="35" as="geometry" />
