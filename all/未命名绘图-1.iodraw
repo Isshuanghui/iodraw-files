@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="cE-PRSvsr2_8mctyPkBC">
-    <mxGraphModel dx="2935" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
           <mxGeometry x="141" y="960" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-29" value="显示用户名/密码错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="451" y="960" width="212" height="49" as="geometry" />
+          <mxGeometry x="500" y="810" width="212" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-30" value="用户角色判断?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="144" y="1059" width="151" height="151" as="geometry" />
@@ -105,14 +105,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="383" y="924" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D4QNlPHirY0QiyzjXy8T-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=0;entryX=0.71;entryY=0.99;rounded=0;" edge="1" parent="1" source="D4QNlPHirY0QiyzjXy8T-29" target="D4QNlPHirY0QiyzjXy8T-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="572" y="924" />
-              <mxPoint x="572" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
