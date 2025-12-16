@@ -529,6 +529,15 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-195" value="异常严重" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-194">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MBvEYXBps9NyWn50fdKf-196" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.581;exitY=1.048;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-49" target="MBvEYXBps9NyWn50fdKf-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="3170" as="sourcePoint" />
+            <mxPoint x="950" y="3170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBvEYXBps9NyWn50fdKf-197" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
