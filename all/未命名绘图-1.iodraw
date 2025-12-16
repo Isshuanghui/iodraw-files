@@ -101,7 +101,7 @@
           <mxGeometry x="1289" y="1175" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-51" value="用户注销" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1542" y="720" width="80" height="35" as="geometry" />
+          <mxGeometry x="1234" y="705" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-52" value="系统关闭指令" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1542" y="885" width="112" height="35" as="geometry" />
