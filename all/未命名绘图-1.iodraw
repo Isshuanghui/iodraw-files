@@ -294,14 +294,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-110" value="返回登录界面" style="curved=1;startArrow=none;;exitX=0.64;exitY=0.01;entryX=0.06;entryY=0.99;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-51" target="MBvEYXBps9NyWn50fdKf-36">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="285" y="2647" />
-              <mxPoint x="285" y="1990" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-111" value="管理员关闭系统" style="curved=1;startArrow=none;;exitX=1;exitY=0.68;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-42" target="MBvEYXBps9NyWn50fdKf-52">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -532,6 +524,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-169" value="接受用户指令" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MBvEYXBps9NyWn50fdKf-170" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="2360" as="sourcePoint" />
+            <mxPoint x="620" y="2360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MBvEYXBps9NyWn50fdKf-171" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-170">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
