@@ -10,6 +10,9 @@
         <mxCell id="8B5Uh_X8qHri7zB4U1bn-2" value="校园数字孪生系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="60" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8B5Uh_X8qHri7zB4U1bn-3" value="外部系统&lt;div&gt;（教务系统/一卡通/传感器）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="150" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
