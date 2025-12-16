@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="fyCs2ppbeS_4vv_paqp3">
-    <mxGraphModel dx="573" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -428,29 +428,29 @@
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-276" value="请求注销登录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="725.93" y="3440" />
+              <mxPoint x="725.93" y="3360" />
             </Array>
-            <mxPoint x="892.43" y="3440" as="sourcePoint" />
-            <mxPoint x="534.9952173913044" y="3440" as="targetPoint" />
+            <mxPoint x="892.43" y="3360" as="sourcePoint" />
+            <mxPoint x="534.9952173913044" y="3360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-277" value="清理管理员会话" style="curved=1;endArrow=open;rounded=0;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="585.62" y="3450" />
-              <mxPoint x="585.62" y="3480" />
+              <mxPoint x="585.62" y="3370" />
+              <mxPoint x="585.62" y="3400" />
             </Array>
-            <mxPoint x="535.0023529411765" y="3450" as="sourcePoint" />
-            <mxPoint x="535.0023529411765" y="3480" as="targetPoint" />
+            <mxPoint x="535.0023529411765" y="3370" as="sourcePoint" />
+            <mxPoint x="535.0023529411765" y="3400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-278" value="返回登录界面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="713.5" y="3490" />
+              <mxPoint x="713.5" y="3410" />
             </Array>
-            <mxPoint x="525.5121951219512" y="3490" as="sourcePoint" />
-            <mxPoint x="883" y="3490" as="targetPoint" />
+            <mxPoint x="525.5121951219512" y="3410" as="sourcePoint" />
+            <mxPoint x="883" y="3410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-283" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -460,10 +460,10 @@
           <mxGeometry x="525" y="3250" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-286" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="3440" width="10" height="50" as="geometry" />
+          <mxGeometry x="525" y="3360" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-287" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="883" y="3440" width="10" height="80" as="geometry" />
+          <mxGeometry x="883" y="3360" width="10" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
