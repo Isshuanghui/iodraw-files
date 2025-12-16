@@ -38,7 +38,7 @@
           <mxGeometry x="737" y="923" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-26" value="初始化失败" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="991" y="840" width="96" height="35" as="geometry" />
+          <mxGeometry x="951" y="730" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-27" value="等待数据库连接" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="721" y="1030" width="128" height="35" as="geometry" />
@@ -516,9 +516,9 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-142" value="启动成功" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-141">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-143" value="" style="endArrow=open;html=1;rounded=0;exitX=0.832;exitY=-0.036;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.821;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-143" value="" style="endArrow=open;html=1;rounded=0;entryX=0.821;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1038.55" y="828" as="sourcePoint" />
+            <mxPoint x="1040" y="730" as="sourcePoint" />
             <mxPoint x="1038.55" y="635" as="targetPoint" />
           </mxGeometry>
         </mxCell>
