@@ -155,20 +155,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-283" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=0;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="TGYrK-Zp5xRjEAU3l1eS-221" target="TGYrK-Zp5xRjEAU3l1eS-226">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="608" y="1061" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-284" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=0.99;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="TGYrK-Zp5xRjEAU3l1eS-221" target="TGYrK-Zp5xRjEAU3l1eS-227">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="608" y="1160" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-285" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="TGYrK-Zp5xRjEAU3l1eS-206" target="TGYrK-Zp5xRjEAU3l1eS-228">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
