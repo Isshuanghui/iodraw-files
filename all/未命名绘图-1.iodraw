@@ -471,7 +471,7 @@
             <mxPoint x="883.0000000000009" y="1333.97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCMhC8p8xp98ZjuJ33vS-269" value="管理资源信息（增删改）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-269" value="管理资源信息（增删改）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-319">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="730.5" y="1420" />
