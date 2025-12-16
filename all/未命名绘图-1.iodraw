@@ -133,20 +133,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D4QNlPHirY0QiyzjXy8T-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.37;exitY=1;entryX=0.28;entryY=0;rounded=0;" edge="1" parent="1" source="D4QNlPHirY0QiyzjXy8T-41" target="D4QNlPHirY0QiyzjXy8T-42">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="369" y="1172" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D4QNlPHirY0QiyzjXy8T-72" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0;entryX=0.61;entryY=1;rounded=0;" edge="1" parent="1" source="D4QNlPHirY0QiyzjXy8T-42" target="D4QNlPHirY0QiyzjXy8T-41">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="464" y="1172" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-73" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.18;entryY=0;rounded=0;" edge="1" parent="1" source="D4QNlPHirY0QiyzjXy8T-42" target="D4QNlPHirY0QiyzjXy8T-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
