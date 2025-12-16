@@ -236,7 +236,7 @@
             <mxPoint x="525" y="719.9999999999991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCMhC8p8xp98ZjuJ33vS-243" value="记录故障信息并生成维修工单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="TCMhC8p8xp98ZjuJ33vS-305">
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-243" value="24.记录故障信息并生成维修工单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;entryX=0;entryY=0;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" target="TCMhC8p8xp98ZjuJ33vS-305">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="817.5" y="730" />
