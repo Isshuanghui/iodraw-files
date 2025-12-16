@@ -62,7 +62,7 @@
           <mxGeometry x="684" y="1260" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-34" value="外部服务连接失败" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="860" y="1200" width="144" height="35" as="geometry" />
+          <mxGeometry x="500" y="1195" width="144" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-35" value="降级模式" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="892" y="1270" width="80" height="35" as="geometry" />
