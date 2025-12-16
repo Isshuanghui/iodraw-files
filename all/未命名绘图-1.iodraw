@@ -11,7 +11,7 @@
           <mxGeometry x="667" y="150" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-17" value="系统部署中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="681" y="279" width="96" height="35" as="geometry" />
+          <mxGeometry x="684" y="270" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-18" value="系统已部署" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="681" y="386" width="96" height="35" as="geometry" />
@@ -151,7 +151,7 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-65" value="系统处于维护状态&#xa;    部分功能不可用&#xa;    管理员进行修复" style="align=left;spacingLeft=4;" vertex="1" parent="1">
           <mxGeometry x="1264" y="3352" width="143" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-67" value="开始安装" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-16" target="MBvEYXBps9NyWn50fdKf-17">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-67" value="开始安装" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-16" target="MBvEYXBps9NyWn50fdKf-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
