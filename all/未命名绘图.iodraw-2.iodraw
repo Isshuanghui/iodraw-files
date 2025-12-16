@@ -10,9 +10,6 @@
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-204" value=" 三维可视化平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="289.25" y="175.5" width="110" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-205" value="资源监控中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="289.25" y="432" width="110" height="32.5" as="geometry" />
-        </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-206" value="智能服务平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="268" y="640" width="82" height="30" as="geometry" />
         </mxCell>
@@ -160,8 +157,11 @@
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-327" value="" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1298" y="1044" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-330" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TGYrK-Zp5xRjEAU3l1eS-205" target="TGYrK-Zp5xRjEAU3l1eS-205">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-330" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="344.25" y="464.5" as="sourcePoint" />
+            <mxPoint x="344.25" y="464.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-331" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="90" width="60" height="50" as="geometry" />
@@ -209,7 +209,7 @@
           <mxGeometry x="399.25" y="356.5" width="70" height="183.5" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-346" value=" 三维可视化平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="230" y="351" width="110" height="39" as="geometry" />
+          <mxGeometry x="289.25" y="431.5" width="110" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
