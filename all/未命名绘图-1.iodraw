@@ -442,11 +442,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCMhC8p8xp98ZjuJ33vS-282" value="系统退出阶段" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
-          <mxGeometry x="70" y="3172" width="843" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-283" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="3210" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="3260" width="10" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
