@@ -200,13 +200,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-107" value="开始修复" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.99;entryX=0;entryY=0.14;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-49" target="MBvEYXBps9NyWn50fdKf-50">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="896" y="3327" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-108" value="恢复成功" style="curved=1;startArrow=none;;exitX=0.63;exitY=-0.01;entryX=1;entryY=0.58;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-50" target="MBvEYXBps9NyWn50fdKf-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -533,7 +526,7 @@
             <mxPoint x="840" y="3000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-195" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-194">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-195" value="异常严重" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-194">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
