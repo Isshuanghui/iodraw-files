@@ -137,7 +137,7 @@
           <mxGeometry x="406" y="2677" width="167" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-257" value="服务间通信接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="676" y="1510" width="172" height="49" as="geometry" />
+          <mxGeometry x="699" y="1074" width="172" height="26" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-258" value="API网关管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="684.5" y="1590" width="147" height="49" as="geometry" />
