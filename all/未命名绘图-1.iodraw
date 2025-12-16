@@ -89,7 +89,7 @@
           <mxGeometry x="690" y="1710" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-43" value="处理用户请求" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="627" y="1780" width="112" height="35" as="geometry" />
+          <mxGeometry x="555" y="1745" width="112" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-45" value="处理完成" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="706" y="1915" width="80" height="35" as="geometry" />
