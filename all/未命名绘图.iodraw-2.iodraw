@@ -167,34 +167,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-299" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="TGYrK-Zp5xRjEAU3l1eS-238" target="TGYrK-Zp5xRjEAU3l1eS-242">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="608" y="2048" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-300" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=0.99;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="TGYrK-Zp5xRjEAU3l1eS-238" target="TGYrK-Zp5xRjEAU3l1eS-243">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="608" y="2146" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-301" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=0;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="TGYrK-Zp5xRjEAU3l1eS-239" target="TGYrK-Zp5xRjEAU3l1eS-244">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="608" y="2245" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TGYrK-Zp5xRjEAU3l1eS-302" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=0.99;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="TGYrK-Zp5xRjEAU3l1eS-239" target="TGYrK-Zp5xRjEAU3l1eS-245">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="608" y="2344" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-321" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="119" width="70" height="271" as="geometry" />
         </mxCell>
