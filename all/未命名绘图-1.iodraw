@@ -203,6 +203,7 @@
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-239" value="推送预约申请通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-214" target="TCMhC8p8xp98ZjuJ33vS-215">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="600" y="930" />
               <mxPoint x="718" y="1325" />
             </Array>
           </mxGeometry>
