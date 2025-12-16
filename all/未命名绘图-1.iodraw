@@ -521,7 +521,7 @@
             <mxPoint x="640" y="537" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-140" value="修复完成" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-139">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-140" value="需要人工干预" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
