@@ -99,7 +99,7 @@
             <mxPoint x="535.3548387096776" y="304.68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCMhC8p8xp98ZjuJ33vS-228" value="验证管理员权限" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-228" value="验证管理员权限" style="curved=1;endArrow=open;rounded=0;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="586.15" y="320" />
