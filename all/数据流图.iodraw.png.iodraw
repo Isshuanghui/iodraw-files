@@ -382,6 +382,9 @@
         <mxCell id="BxHjopsezH7MGqw7-X-O-355" value="&amp;lt;&amp;lt;entend&amp;gt;&amp;gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="BxHjopsezH7MGqw7-X-O-354">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BxHjopsezH7MGqw7-X-O-356" value="登录系统" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
