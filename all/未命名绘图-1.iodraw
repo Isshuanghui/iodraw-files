@@ -51,12 +51,14 @@
             <mxPoint x="535.3103448275863" y="159.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCMhC8p8xp98ZjuJ33vS-223" value="验证账号密码有效性" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-214" target="TCMhC8p8xp98ZjuJ33vS-214">
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-223" value="验证账号密码有效性" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="581" y="332" />
-              <mxPoint x="581" y="362" />
+              <mxPoint x="585.89" y="170" />
+              <mxPoint x="585.89" y="200" />
             </Array>
+            <mxPoint x="534.997843137255" y="170" as="sourcePoint" />
+            <mxPoint x="534.997843137255" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-224" value="返回登录结果（成功/失败）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-214" target="TCMhC8p8xp98ZjuJ33vS-213">
