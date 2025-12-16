@@ -74,10 +74,10 @@
           <mxGeometry x="320" y="2063" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-38" value="认证成功" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="537" y="2170" width="80" height="35" as="geometry" />
+          <mxGeometry x="370" y="2260" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-39" value="认证失败" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="387" y="2170" width="80" height="35" as="geometry" />
+          <mxGeometry x="537" y="2080" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-40" value="加载用户界面" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="521" y="2277" width="112" height="35" as="geometry" />
@@ -177,13 +177,6 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-89" value="启用备用方案" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-34" target="MBvEYXBps9NyWn50fdKf-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-92" value="验证通过" style="curved=1;startArrow=none;;exitX=1;exitY=0.83;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-37" target="MBvEYXBps9NyWn50fdKf-38">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="577" y="2134" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-93" value="验证失败" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.98;entryX=0.26;entryY=0;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-37" target="MBvEYXBps9NyWn50fdKf-39">
