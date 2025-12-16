@@ -405,12 +405,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCMhC8p8xp98ZjuJ33vS-274" value="清理用户会话" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-214" target="TCMhC8p8xp98ZjuJ33vS-214">
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-274" value="清理用户会话" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry y="-11" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="581" y="3305" />
-              <mxPoint x="581" y="3335" />
+              <mxPoint x="590.92" y="3270" />
+              <mxPoint x="590.92" y="3300" />
             </Array>
+            <mxPoint x="540.0033333333332" y="3270" as="sourcePoint" />
+            <mxPoint x="540.0033333333332" y="3300" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -446,6 +448,9 @@
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-283" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="3250" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-285" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="TCMhC8p8xp98ZjuJ33vS-284" target="TCMhC8p8xp98ZjuJ33vS-214">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-284" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="3240" width="10" height="150" as="geometry" />
