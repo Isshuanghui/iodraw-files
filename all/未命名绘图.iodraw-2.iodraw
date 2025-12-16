@@ -31,8 +31,8 @@
         <mxCell id="c2cdv69sZDKVaYltbdGC-71" value="校园三维场景展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="290" width="30" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="c2cdv69sZDKVaYltbdGC-72" value="用户登录注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="260" width="30" height="120" as="geometry" />
+        <mxCell id="c2cdv69sZDKVaYltbdGC-72" value="实时数据标注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="290" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="c2cdv69sZDKVaYltbdGC-73" value="用户登录注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="390" width="30" height="120" as="geometry" />
