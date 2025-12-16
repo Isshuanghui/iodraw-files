@@ -23,13 +23,13 @@
           <mxGeometry x="684" y="500" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-21" value="服务启动失败" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="656" y="673" width="112" height="35" as="geometry" />
+          <mxGeometry x="656" y="673" width="94" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-22" value="服务已启动" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="943" y="708" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-23" value="服务诊断中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="681" y="815" width="96" height="35" as="geometry" />
+          <mxGeometry x="683" y="743" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-24" value="初始化配置中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="935" y="815" width="112" height="35" as="geometry" />
