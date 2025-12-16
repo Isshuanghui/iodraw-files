@@ -29,7 +29,7 @@
           <mxGeometry x="470" y="180" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-212" value="数据可视化子系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="455" y="261" width="200" height="29" as="geometry" />
+          <mxGeometry x="470" y="261" width="170" height="29" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-213" value="三维模型库管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="699" y="80" width="161" height="30" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="700" y="280" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-219" value=" 空间资源监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="430" y="487" width="183" height="49" as="geometry" />
+          <mxGeometry x="480" y="341" width="183" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TGYrK-Zp5xRjEAU3l1eS-220" value=" 设备资产管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="429" y="620" width="183" height="49" as="geometry" />
