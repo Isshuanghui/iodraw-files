@@ -178,13 +178,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-78" value="配置错误" style="curved=1;startArrow=none;;exitX=0.26;exitY=1;entryX=0.08;entryY=-0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-24" target="MBvEYXBps9NyWn50fdKf-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="910" y="886" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-80" value="准备连接数据库" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-25" target="MBvEYXBps9NyWn50fdKf-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -525,11 +518,11 @@
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-143" value="" style="endArrow=open;html=1;rounded=0;exitX=0.832;exitY=-0.036;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.821;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="773" y="739" as="sourcePoint" />
-            <mxPoint x="773" y="546" as="targetPoint" />
+            <mxPoint x="1038.55" y="828" as="sourcePoint" />
+            <mxPoint x="1038.55" y="635" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-144" value="修复完成" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-143">
+        <mxCell id="MBvEYXBps9NyWn50fdKf-144" value="重新加载" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MBvEYXBps9NyWn50fdKf-143">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
