@@ -53,16 +53,16 @@
           <mxGeometry x="860" y="910" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-31" value="等待外部服务连接" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="676" y="1100" width="144" height="35" as="geometry" />
+          <mxGeometry x="676" y="1080" width="144" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-32" value="外部服务连接中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="684" y="1190" width="128" height="35" as="geometry" />
+          <mxGeometry x="684" y="1160" width="128" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-33" value="系统就绪" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="670" y="1280" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-34" value="外部服务连接失败" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="848" y="1260" width="144" height="35" as="geometry" />
+          <mxGeometry x="859" y="1230" width="144" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-35" value="降级模式" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="880" y="1370" width="80" height="35" as="geometry" />
