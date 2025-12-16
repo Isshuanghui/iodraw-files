@@ -32,7 +32,7 @@
           <mxGeometry x="683" y="730" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-24" value="初始化配置中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="935" y="815" width="112" height="35" as="geometry" />
+          <mxGeometry x="935" y="600" width="112" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-25" value="初始化完成" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="737" y="923" width="96" height="35" as="geometry" />
