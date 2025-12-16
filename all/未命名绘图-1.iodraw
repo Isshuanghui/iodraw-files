@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="vhME-Zme64abVR5DcwKl">
-    <mxGraphModel dx="2609" dy="1711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1957" dy="1283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
           <mxGeometry x="880" y="1370" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-36" value="等待用户登录" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="371" y="1922" width="112" height="35" as="geometry" />
+          <mxGeometry x="390" y="1790" width="112" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-37" value="用户认证中" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="320" y="2063" width="96" height="35" as="geometry" />
@@ -177,13 +177,6 @@
         <mxCell id="MBvEYXBps9NyWn50fdKf-89" value="启用备用方案" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;endArrow=open;endFill=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-34" target="MBvEYXBps9NyWn50fdKf-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MBvEYXBps9NyWn50fdKf-90" value="系统准备就绪" style="curved=1;startArrow=none;;exitX=0.6;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-33" target="MBvEYXBps9NyWn50fdKf-36">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="427" y="1852" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MBvEYXBps9NyWn50fdKf-91" value="用户登录请求" style="curved=1;startArrow=none;;exitX=0.32;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="MBvEYXBps9NyWn50fdKf-36" target="MBvEYXBps9NyWn50fdKf-37">
