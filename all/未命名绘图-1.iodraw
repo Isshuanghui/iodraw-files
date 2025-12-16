@@ -23,7 +23,7 @@
           <mxGeometry x="30" width="985" height="13.48314606741573" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-219" value="[有冲突]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="TCMhC8p8xp98ZjuJ33vS-217">
-          <mxGeometry x="12" y="60.67" width="1015" height="29.33" as="geometry" />
+          <mxGeometry x="12" y="120" width="1015" height="29.33" as="geometry" />
         </mxCell>
         <mxCell id="TCMhC8p8xp98ZjuJ33vS-220" value="1.输入账号密码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;entryX=0;entryY=0;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" target="TCMhC8p8xp98ZjuJ33vS-289">
           <mxGeometry relative="1" as="geometry">
@@ -207,7 +207,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TCMhC8p8xp98ZjuJ33vS-240" value="20.返回提交成功（等待审核）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
+        <mxCell id="TCMhC8p8xp98ZjuJ33vS-240" value="20.返回提交成功（等待审核）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=open;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="330.04" y="620" />
