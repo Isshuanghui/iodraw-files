@@ -542,14 +542,8 @@
             <mxPoint x="1170" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-227" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.058;exitY=0.503;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-228">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1124" y="970" as="sourcePoint" />
-            <mxPoint x="1000" y="920" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-228" value="查看监控" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="1">
-          <mxGeometry x="1044" y="910.5" width="70" height="30" as="geometry" />
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-228" value="查看监控" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=20;" vertex="1" parent="1">
+          <mxGeometry x="1064" y="900.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-229" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
