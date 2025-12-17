@@ -548,7 +548,7 @@
             <mxPoint x="1054" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-228" value="查看监控" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-228" value="查看监控" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=40;" vertex="1" parent="1">
           <mxGeometry x="1070" y="918" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-229" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
