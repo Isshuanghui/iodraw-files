@@ -578,13 +578,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-234" value="" style="endArrow=none;html=1;rounded=0;exitX=0.44;exitY=1.019;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.436;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-208" target="Q0nRU3FwoiyDGXDeAU-V-198">
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-234" value="" style="endArrow=none;html=1;rounded=0;exitX=0.398;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.436;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-208" target="Q0nRU3FwoiyDGXDeAU-V-198">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="1090" as="sourcePoint" />
             <mxPoint x="890" y="1040" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="870" y="950" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-235" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.125;exitY=-0.055;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-236">
