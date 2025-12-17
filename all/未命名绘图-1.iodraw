@@ -37,7 +37,7 @@
         <mxCell id="D4QNlPHirY0QiyzjXy8T-31" value="进入用户界面" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="103" y="840" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="D4QNlPHirY0QiyzjXy8T-32" value="加载个人数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="D4QNlPHirY0QiyzjXy8T-32" value="加载个人数据" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="103" y="920" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-33" value="进行功能操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
