@@ -433,9 +433,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-192" value="认证模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-99" y="1046" width="124" height="49" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
