@@ -440,7 +440,7 @@
           <mxGeometry x="1183" y="600" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-195" value="设备数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1165" width="140" height="49" as="geometry" />
+          <mxGeometry x="980" y="1148" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-196" value="设备模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="788" y="1250" width="124" height="49" as="geometry" />
