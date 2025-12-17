@@ -215,6 +215,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-155" value="用户（学生/教师）" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="960" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
