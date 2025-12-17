@@ -216,12 +216,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-36" value="数据存储" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1732" y="850" width="254" height="760" as="geometry" />
-        </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-37" value="系统核心模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="431" y="850" width="1111" height="740" as="geometry" />
-        </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-39" value="学生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="69" y="972" width="92" height="49" as="geometry" />
         </mxCell>
