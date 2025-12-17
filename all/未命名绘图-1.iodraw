@@ -457,13 +457,6 @@
             <mxPoint x="670" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-202" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="643" y="966" as="sourcePoint" />
-            <mxPoint x="743" y="966" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-203" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="670" y="950" as="sourcePoint" />
@@ -472,7 +465,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-204" value="查看请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="695" y="918" width="70" height="30" as="geometry" />
+          <mxGeometry x="673" y="925.5" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
