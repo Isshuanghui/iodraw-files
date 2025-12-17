@@ -691,6 +691,12 @@
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-266" value="访问数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=315;" vertex="1" parent="1">
           <mxGeometry x="900" y="1200" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-267" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="1210" as="sourcePoint" />
+            <mxPoint x="920" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
