@@ -434,7 +434,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-193" value="校园数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1010" width="140" height="49" as="geometry" />
+          <mxGeometry x="958" y="991" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-194" value="三维模型库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1183" y="600" width="140" height="49" as="geometry" />
@@ -550,20 +550,6 @@
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-232" value="审核预约" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=20;" vertex="1" parent="1">
           <mxGeometry x="1001" y="955" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-233" value="" style="endArrow=none;html=1;rounded=0;exitX=0.993;exitY=0.644;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="935.0019999999996" y="1155.276" as="sourcePoint" />
-            <mxPoint x="1170" y="980" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1169.87" y="1154.72" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-260" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0nRU3FwoiyDGXDeAU-V-233">
-          <mxGeometry x="-0.0869" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-234" value="" style="endArrow=none;html=1;rounded=0;exitX=0.398;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.388;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-208" target="Q0nRU3FwoiyDGXDeAU-V-198">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="1090" as="sourcePoint" />
@@ -598,7 +584,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-242" value="查看监控" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="1180" width="70" height="30" as="geometry" />
+          <mxGeometry x="1001" y="1100" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-243" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
