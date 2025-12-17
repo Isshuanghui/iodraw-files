@@ -492,8 +492,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-211" value="资源请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="695" y="1018" width="70" height="30" as="geometry" />
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-211" value="请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="1018" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
