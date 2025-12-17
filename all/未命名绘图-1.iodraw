@@ -434,7 +434,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-193" value="校园数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1050" width="140" height="49" as="geometry" />
+          <mxGeometry x="1000" y="1040.5" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-194" value="三维模型库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1183" y="600" width="140" height="49" as="geometry" />
