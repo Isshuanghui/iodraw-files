@@ -215,15 +215,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-116" value="图例说明" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="230" y="585" width="321" height="253" as="geometry" />
-        </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-117" value="单向交互&#xa;用户→模块 或 模块→模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Q0nRU3FwoiyDGXDeAU-V-116">
-          <mxGeometry x="46" y="43" width="246" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-118" value="双向交互&#xa;模块←→数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Q0nRU3FwoiyDGXDeAU-V-116">
-          <mxGeometry x="82" y="159" width="172" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-119" value="学生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="951" y="722" width="92" height="49" as="geometry" />
         </mxCell>
