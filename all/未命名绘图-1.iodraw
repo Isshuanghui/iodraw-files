@@ -676,6 +676,9 @@
             <mxPoint x="880" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-259" value="同&lt;div&gt;步&lt;/div&gt;&lt;div&gt;设&lt;/div&gt;&lt;div&gt;备&lt;/div&gt;&lt;div&gt;状&lt;/div&gt;&lt;div&gt;态&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1113" width="40" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
