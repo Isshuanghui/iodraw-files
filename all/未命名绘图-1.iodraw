@@ -530,7 +530,7 @@
             <mxPoint x="812" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-225" value="系统通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=250;" vertex="1" parent="1">
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-225" value="系统通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=340;" vertex="1" parent="1">
           <mxGeometry x="865" y="898" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
