@@ -599,10 +599,10 @@
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-238" value="审核预约" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1011" y="1124.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-239" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-240" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-196">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="1140" as="sourcePoint" />
-            <mxPoint x="920" y="1280" as="targetPoint" />
+            <mxPoint x="990" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
