@@ -491,8 +491,8 @@
             <mxPoint x="760" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-215" value="发起预约请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="1">
-          <mxGeometry x="709" y="1025.5" width="100" height="30" as="geometry" />
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-215" value="发起预约请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=32;" vertex="1" parent="1">
+          <mxGeometry x="688" y="1025.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-216" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Q0nRU3FwoiyDGXDeAU-V-196">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
