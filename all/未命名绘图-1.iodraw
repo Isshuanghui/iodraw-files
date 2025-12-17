@@ -464,7 +464,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-206" value="结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=340;" vertex="1" parent="1">
-          <mxGeometry x="727" y="950" width="50" height="30" as="geometry" />
+          <mxGeometry x="709" y="1050" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-208" value="资源模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="820" y="891" width="124" height="49" as="geometry" />
@@ -541,7 +541,7 @@
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-230" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="1070" as="sourcePoint" />
-            <mxPoint x="728" y="1075" as="targetPoint" />
+            <mxPoint x="690" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-231" value="资源详细情况" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
