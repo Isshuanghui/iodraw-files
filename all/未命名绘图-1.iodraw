@@ -635,6 +635,12 @@
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-246" value="处理报修" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1005" y="1298" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-247" value="" style="endArrow=none;html=1;rounded=0;entryX=0.996;entryY=0.428;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Q0nRU3FwoiyDGXDeAU-V-219">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="980" as="sourcePoint" />
+            <mxPoint x="1100" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
