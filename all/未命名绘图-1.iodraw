@@ -457,6 +457,20 @@
             <mxPoint x="670" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-202" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="643" y="966" as="sourcePoint" />
+            <mxPoint x="743" y="966" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-203" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="670" y="950" as="sourcePoint" />
+            <mxPoint x="750" y="950" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
