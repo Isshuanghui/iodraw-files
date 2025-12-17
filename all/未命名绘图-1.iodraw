@@ -724,7 +724,7 @@
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-273" value="详细结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=60;" vertex="1" parent="1">
           <mxGeometry x="920" y="1124.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-274" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-274" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.646;exitY=-0.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-198">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="905" y="1055.5" as="sourcePoint" />
             <mxPoint x="955" y="1005.5" as="targetPoint" />
