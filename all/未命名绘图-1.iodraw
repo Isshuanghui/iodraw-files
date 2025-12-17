@@ -700,9 +700,9 @@
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-268" value="详细结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=315;" vertex="1" parent="1">
           <mxGeometry x="920" y="1223.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-269" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-269" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="960.26" y="1104.5" as="sourcePoint" />
+            <mxPoint x="960" y="1100" as="sourcePoint" />
             <mxPoint x="980" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
