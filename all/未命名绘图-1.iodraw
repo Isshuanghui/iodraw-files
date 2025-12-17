@@ -16,7 +16,7 @@
         <mxCell id="D4QNlPHirY0QiyzjXy8T-24" value="是否提交登录?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="250" y="370" width="111" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D4QNlPHirY0QiyzjXy8T-25" value="执行身份验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="D4QNlPHirY0QiyzjXy8T-25" value="执行身份验证" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="480" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-26" value="等待用户操作" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
@@ -25,7 +25,7 @@
         <mxCell id="D4QNlPHirY0QiyzjXy8T-27" value="验证是否通过?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="246" y="560" width="119" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="D4QNlPHirY0QiyzjXy8T-28" value="获取用户角色" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="D4QNlPHirY0QiyzjXy8T-28" value="获取用户角色" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="670" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-29" value="显示用户名/密码错误" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
