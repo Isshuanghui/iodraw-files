@@ -565,15 +565,6 @@
             <mxPoint x="890" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-235" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="882" y="950" as="sourcePoint" />
-            <mxPoint x="881.88" y="1045.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="881.88" y="1035.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-236" value="同&lt;div&gt;步&lt;/div&gt;&lt;div&gt;资&lt;/div&gt;&lt;div&gt;源&lt;/div&gt;&lt;div&gt;状&lt;/div&gt;&lt;div&gt;态&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;flipV=0;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="885" y="940.5" width="40" height="100" as="geometry" />
         </mxCell>
@@ -667,7 +658,7 @@
             <mxPoint x="790" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-256" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-256" value="" style="endArrow=none;html=1;rounded=0;entryX=0.369;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.624;exitY=-0.045;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-196" target="Q0nRU3FwoiyDGXDeAU-V-198">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="880" y="1140" as="sourcePoint" />
             <mxPoint x="930" y="1090" as="targetPoint" />
