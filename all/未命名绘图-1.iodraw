@@ -476,6 +476,9 @@
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-206" value="结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="672" y="986" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-208" value="资源模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-223" y="1125" width="124" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
