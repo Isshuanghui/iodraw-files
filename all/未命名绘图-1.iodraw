@@ -474,7 +474,7 @@
           <mxGeometry x="713" y="986" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-208" value="资源模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="818" y="901" width="124" height="49" as="geometry" />
+          <mxGeometry x="820" y="891" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-212" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" target="Q0nRU3FwoiyDGXDeAU-V-208">
           <mxGeometry relative="1" as="geometry">
@@ -594,7 +594,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-236" value="同&lt;div&gt;步&lt;/div&gt;&lt;div&gt;资&lt;/div&gt;&lt;div&gt;源&lt;/div&gt;&lt;div&gt;状&lt;/div&gt;&lt;div&gt;态&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;flipV=0;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="874" y="940.5" width="40" height="100" as="geometry" />
+          <mxGeometry x="885" y="940.5" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-237" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
