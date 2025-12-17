@@ -215,6 +215,227 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-116" value="图例说明" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="580" y="620" width="321" height="253" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-117" value="单向交互&#xa;用户→模块 或 模块→模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Q0nRU3FwoiyDGXDeAU-V-116">
+          <mxGeometry x="46" y="43" width="246" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-118" value="双向交互&#xa;模块←→数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Q0nRU3FwoiyDGXDeAU-V-116">
+          <mxGeometry x="82" y="159" width="172" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-119" value="学生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="951" y="722" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-120" value="教师" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1172" y="722" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-121" value="管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1985" y="722" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-122" value="认证模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1261" y="985" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-123" value="可视化模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2767" y="1307" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-124" value="资源模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2022" y="1146" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-125" value="设备模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3137" y="1146" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-126" value="通知模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1627" y="1307" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-127" value="校园数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="1468" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-128" value="三维模型库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2669" y="1468" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-129" value="设备数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3166" y="1468" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-130" value="1.登录&#xa;&lt;b&gt;单向：学生→认证&lt;/b&gt;" style="curved=1;startArrow=none;endArrow=block;exitX=0.62;exitY=0.99;entryX=0;entryY=0.07;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-119" target="Q0nRU3FwoiyDGXDeAU-V-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="926" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-131" value="2.浏览&#xa;&lt;b&gt;单向：学生→可视化&lt;/b&gt;" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0;entryY=0.21;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-119" target="Q0nRU3FwoiyDGXDeAU-V-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2432" y="926" />
+              <mxPoint x="2432" y="1249" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-132" value="3.预约&#xa;&lt;b&gt;单向：学生→资源&lt;/b&gt;" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0;entryY=0.14;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-119" target="Q0nRU3FwoiyDGXDeAU-V-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1809" y="926" />
+              <mxPoint x="1809" y="1092" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-133" value="4.通知&#xa;&lt;b&gt;单向：学生→通知&lt;/b&gt;" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=0.99;entryX=0;entryY=0.39;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-119" target="Q0nRU3FwoiyDGXDeAU-V-126">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="738" y="926" />
+              <mxPoint x="738" y="1249" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-134" value="5.登录&#xa;&lt;b&gt;单向：教师→认证&lt;/b&gt;" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=0.99;entryX=0.45;entryY=0;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-120" target="Q0nRU3FwoiyDGXDeAU-V-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1302" y="926" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-135" value="6.查看&#xa;&lt;b&gt;单向：教师→可视化&lt;/b&gt;" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.62;entryX=0.07;entryY=0.01;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-120" target="Q0nRU3FwoiyDGXDeAU-V-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2630" y="926" />
+              <mxPoint x="2630" y="1249" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-136" value="7.报修&#xa;&lt;b&gt;单向：教师→设备&lt;/b&gt;" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.13;entryY=0;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-120" target="Q0nRU3FwoiyDGXDeAU-V-125">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3051" y="926" />
+              <mxPoint x="3051" y="1092" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-137" value="8.通知&#xa;&lt;b&gt;单向：教师→通知&lt;/b&gt;" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=0.99;entryX=0;entryY=0.36;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-120" target="Q0nRU3FwoiyDGXDeAU-V-126">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="959" y="926" />
+              <mxPoint x="959" y="1249" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-138" value="9.登录&#xa;&lt;b&gt;单向：管理员→认证&lt;/b&gt;" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.87;entryX=0.95;entryY=0;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-121" target="Q0nRU3FwoiyDGXDeAU-V-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1512" y="926" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-139" value="10.监控&#xa;&lt;b&gt;单向：管理员→可视化&lt;/b&gt;" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.74;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-121" target="Q0nRU3FwoiyDGXDeAU-V-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2837" y="926" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-140" value="11.审核&#xa;&lt;b&gt;单向：管理员→资源&lt;/b&gt;" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-121" target="Q0nRU3FwoiyDGXDeAU-V-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2085" y="926" />
+              <mxPoint x="2085" y="1092" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-141" value="12.处理&#xa;&lt;b&gt;单向：管理员→设备&lt;/b&gt;" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.76;entryY=0;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-121" target="Q0nRU3FwoiyDGXDeAU-V-125">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3304" y="926" />
+              <mxPoint x="3304" y="1092" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-142" value="13.发布&#xa;&lt;b&gt;单向：管理员→通知&lt;/b&gt;" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.34;entryY=0.01;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-121" target="Q0nRU3FwoiyDGXDeAU-V-126">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1621" y="926" />
+              <mxPoint x="1621" y="1249" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-143" value="14.验证&#xa;&lt;b&gt;双向：查询←→结果&lt;/b&gt;" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0;entryY=0.35;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-122" target="Q0nRU3FwoiyDGXDeAU-V-127">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="617" y="1092" />
+              <mxPoint x="617" y="1414" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-144" value="15.加载&#xa;&lt;b&gt;双向：请求←→数据&lt;/b&gt;" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.49;entryY=0.01;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-123" target="Q0nRU3FwoiyDGXDeAU-V-127">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1350" y="1414" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-145" value="16.渲染&#xa;&lt;b&gt;双向：请求←→模型&lt;/b&gt;" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-123" target="Q0nRU3FwoiyDGXDeAU-V-128">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2739" y="1414" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-146" value="17.同步&#xa;&lt;b&gt;双向：更新←→状态&lt;/b&gt;" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.89;entryX=0.3;entryY=0.01;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-123" target="Q0nRU3FwoiyDGXDeAU-V-129">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3145" y="1414" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-147" value="18.管理&#xa;&lt;b&gt;双向：操作←→存储&lt;/b&gt;" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.35;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-124" target="Q0nRU3FwoiyDGXDeAU-V-127">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2084" y="1414" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-148" value="19.更新&#xa;&lt;b&gt;双向：更改←→记录&lt;/b&gt;" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=1;entryX=0.54;entryY=0.01;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-125" target="Q0nRU3FwoiyDGXDeAU-V-129">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3254" y="1249" />
+              <mxPoint x="3254" y="1414" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-149" value="20.授权&#xa;&lt;b&gt;单向：认证→资源&lt;/b&gt;" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.84;entryY=0;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-122" target="Q0nRU3FwoiyDGXDeAU-V-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2222" y="1092" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-150" value="21.同步&#xa;&lt;b&gt;单向：资源→可视化&lt;/b&gt;" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.73;entryY=0.01;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-124" target="Q0nRU3FwoiyDGXDeAU-V-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2946" y="1249" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-151" value="22.同步&#xa;&lt;b&gt;单向：设备→可视化&lt;/b&gt;" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.36;exitY=1;entryX=1;entryY=0.12;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-125" target="Q0nRU3FwoiyDGXDeAU-V-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3145" y="1249" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-152" value="23.通知&#xa;&lt;b&gt;单向：资源→通知&lt;/b&gt;" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.62;entryY=0.01;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-124" target="Q0nRU3FwoiyDGXDeAU-V-126">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1741" y="1249" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-153" value="24.通知&#xa;&lt;b&gt;单向：设备→通知&lt;/b&gt;" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=1;entryY=0.12;rounded=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-125" target="Q0nRU3FwoiyDGXDeAU-V-126">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1963" y="1249" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
