@@ -439,6 +439,12 @@
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-194" value="三维模型库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1040" y="1036" width="140" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-195" value="设备数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1120" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-196" value="设备模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="507" y="1441" width="124" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
