@@ -434,7 +434,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-193" value="校园数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="958" y="991" width="82" height="39" as="geometry" />
+          <mxGeometry x="947" y="985" width="82" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-194" value="三维模型库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1183" y="600" width="140" height="49" as="geometry" />
@@ -565,9 +565,6 @@
             <mxPoint x="1011" y="1177.33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-238" value="审核预约" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1011" y="1150" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-240" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-196">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="1140" as="sourcePoint" />
@@ -669,6 +666,12 @@
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-259" value="同&lt;div&gt;步&lt;/div&gt;&lt;div&gt;设&lt;/div&gt;&lt;div&gt;备&lt;/div&gt;&lt;div&gt;状&lt;/div&gt;&lt;div&gt;态&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="872" y="1130" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-261" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q0nRU3FwoiyDGXDeAU-V-198">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="1100" as="sourcePoint" />
+            <mxPoint x="1170" y="980" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
