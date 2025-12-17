@@ -476,7 +476,7 @@
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-208" value="资源模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="812" y="1129" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-212" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Q0nRU3FwoiyDGXDeAU-V-208">
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-212" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" target="Q0nRU3FwoiyDGXDeAU-V-208">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="980" as="sourcePoint" />
             <mxPoint x="830" y="1050" as="targetPoint" />
@@ -550,7 +550,7 @@
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-229" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="930" y="1020" as="sourcePoint" />
+            <mxPoint x="980" y="990" as="sourcePoint" />
             <mxPoint x="1060" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
