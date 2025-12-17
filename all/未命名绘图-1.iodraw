@@ -560,7 +560,7 @@
             <mxPoint x="728" y="1075" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-231" value="资源详细情况" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-231" value="资源详细情况" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=70;" vertex="1" parent="1">
           <mxGeometry x="680" y="1098" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
