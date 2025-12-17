@@ -446,7 +446,10 @@
           <mxGeometry x="1048" y="1240" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-197" value="资源模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="18" y="1145" width="124" height="49" as="geometry" />
+          <mxGeometry x="1048" y="840" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-198" value="可视化模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="113" y="1540" width="140" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
