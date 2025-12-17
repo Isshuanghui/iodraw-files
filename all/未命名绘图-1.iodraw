@@ -509,6 +509,12 @@
         <mxCell id="Q0nRU3FwoiyDGXDeAU-V-219" value="通知模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1000" y="820" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-220" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Q0nRU3FwoiyDGXDeAU-V-219">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="1010" as="sourcePoint" />
+            <mxPoint x="940" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
