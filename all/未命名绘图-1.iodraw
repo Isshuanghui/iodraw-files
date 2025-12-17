@@ -40,7 +40,7 @@
         <mxCell id="D4QNlPHirY0QiyzjXy8T-32" value="加载个人数据" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="103" y="920" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="D4QNlPHirY0QiyzjXy8T-33" value="进行功能操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="D4QNlPHirY0QiyzjXy8T-33" value="进行功能操作" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="103" y="1000" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-35" value="是否退出?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
@@ -58,10 +58,10 @@
         <mxCell id="D4QNlPHirY0QiyzjXy8T-39" value="进入管理界面" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="338" y="840" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="D4QNlPHirY0QiyzjXy8T-40" value="加载系统数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="D4QNlPHirY0QiyzjXy8T-40" value="加载系统数据" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="338" y="920" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="D4QNlPHirY0QiyzjXy8T-41" value="进行功能操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="D4QNlPHirY0QiyzjXy8T-41" value="进行功能操作" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="338" y="1000" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="D4QNlPHirY0QiyzjXy8T-44" value="保存系统数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
