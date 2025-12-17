@@ -712,6 +712,9 @@
             <mxPoint x="1020" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q0nRU3FwoiyDGXDeAU-V-271" value="访问数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="945" y="1098" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
