@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yidQR7G9mEYfM8q3xosK-2" value="flowchart TD&#xa;    start([&quot;入口&quot;]) --&gt; n1&#xa;&#xa;&#xa;    n1[&quot;[1] 用户是否登录？&quot;]&#xa;    n1 -- 否 --&gt; e1[&quot;E1: 返回&#39;请重新登录&#39;&quot;]&#xa;    n1 -- 是 --&gt; n2&#xa;&#xa;&#xa;    n2[&quot;[2] 当日次数超限？&quot;]&#xa;    n2 -- 是 --&gt; e2[&quot;E2: 返回&#39;今日已达上限&#39;&quot;]&#xa;    n2 -- 否 --&gt; n3&#xa;&#xa;&#xa;    n3[&quot;[3] 验证码正确？&quot;]&#xa;    n3 -- 否 --&gt; e3[&quot;E3: 返回&#39;验证码错误&#39;&quot;]&#xa;    n3 -- 是 --&gt; n4&#xa;&#xa;&#xa;    n4[&quot;[4] 时间窗口内？&quot;]&#xa;    n4 -- 否 --&gt; e4[&quot;E4: 返回&#39;未开始/已结束&#39;&quot;]&#xa;    n4 -- 是 --&gt; n5&#xa;&#xa;&#xa;    n5[&quot;[5] 本地售罄缓存？&quot;]&#xa;    n5 -- 是 --&gt; e5[&quot;E5: 返回&#39;已售罄&#39;&quot;]&#xa;    n5 -- 否 --&gt; n6&#xa;&#xa;&#xa;    n6[&quot;[6] Redis库存 ≤ 0？&quot;]&#xa;    n6 -- 是 --&gt; n6a[&quot;[6a] 查询数据库DB&quot;]&#xa;    n6 -- 否 --&gt; n7&#xa;&#xa;&#xa;    n6a --&gt; dbJudge{&quot;DB库存 ≤ 0？&quot;}&#xa;    dbJudge -- 是 --&gt; e6[&quot;E6: 返回&#39;已售罄&#39;&quot;]&#xa;    dbJudge -- 否 --&gt; sync[&quot;从DB同步后继续&quot;]&#xa;    sync --&gt; n7&#xa;&#xa;&#xa;    n7[&quot;[7] 用户已秒过？&quot;]&#xa;    n7 -- 是 --&gt; e7[&quot;E7: 返回&#39;请勿重复秒杀&#39;&quot;]&#xa;    n7 -- 否 --&gt; n8&#xa;&#xa;&#xa;    n8[&quot;[8] 售罄标记？&quot;]&#xa;    n8 -- 是 --&gt; e8[&quot;E8: 返回&#39;已售罄&#39;&quot;]&#xa;    n8 -- 否 --&gt; n9&#xa;&#xa;&#xa;    n9[&quot;[9] DECR后库存 &lt; 0？&quot;]&#xa;    n9 -- 是 --&gt; e9[&quot;E9: 设售罄标记 → 返回&#39;已售罄&#39;&quot;]&#xa;    n9 -- 否 --&gt; end_[&quot;[10] 秒杀成功&quot;]" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="300" height="790" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
