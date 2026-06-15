@@ -458,13 +458,19 @@
           <mxGeometry x="2095" y="572" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="30KzIKWdE7BjpdpKDY56-80" value="StockConsistencyServiceImpl" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2295" y="540" width="210" height="80" as="geometry" />
+          <mxGeometry x="2305" y="552" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="30KzIKWdE7BjpdpKDY56-82" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="30KzIKWdE7BjpdpKDY56-80">
           <mxGeometry y="26" width="210" height="18" as="geometry" />
         </mxCell>
         <mxCell id="30KzIKWdE7BjpdpKDY56-83" value="+ syncStock(productId, quantity)&lt;div&gt;+ restoreStock(productId, quantity)&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="30KzIKWdE7BjpdpKDY56-80">
           <mxGeometry y="44" width="210" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="30KzIKWdE7BjpdpKDY56-84" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2220" y="680" as="sourcePoint" />
+            <mxPoint x="2270" y="630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
