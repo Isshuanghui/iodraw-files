@@ -418,10 +418,10 @@
           <mxGeometry x="1605" y="856" width="225" height="60" as="geometry" />
         </mxCell>
         <mxCell id="30KzIKWdE7BjpdpKDY56-137" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;SeckillPaymentMapper&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2105" y="860" width="200" height="56" as="geometry" />
+          <mxGeometry x="2300" y="858" width="200" height="56" as="geometry" />
         </mxCell>
         <mxCell id="30KzIKWdE7BjpdpKDY56-138" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;SeckillRefundMapper&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="860" width="200" height="56" as="geometry" />
+          <mxGeometry x="2010" y="858" width="200" height="56" as="geometry" />
         </mxCell>
         <mxCell id="30KzIKWdE7BjpdpKDY56-140" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;SeckillUserMapper&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1380" y="860" width="200" height="56" as="geometry" />
