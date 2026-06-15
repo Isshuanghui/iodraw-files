@@ -648,8 +648,11 @@
             <mxPoint x="1580" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="30KzIKWdE7BjpdpKDY56-127" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="30KzIKWdE7BjpdpKDY56-127" value="1对多" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1300" y="1280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="30KzIKWdE7BjpdpKDY56-128" value="1对多" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1290" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
