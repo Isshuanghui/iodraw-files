@@ -177,6 +177,9 @@
         <mxCell id="RRBBBZClNeuxWJbiWg2F-45" value="&lt;b&gt;Redis 7.x&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="800" y="630" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="RRBBBZClNeuxWJbiWg2F-46" value="&lt;b&gt;Redis 7.x&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="940" y="630" width="90" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
