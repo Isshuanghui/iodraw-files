@@ -75,7 +75,7 @@
         <mxCell id="RRBBBZClNeuxWJbiWg2F-19" value="Broswer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="760" y="70" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RRBBBZClNeuxWJbiWg2F-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="RRBBBZClNeuxWJbiWg2F-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.005;entryY=0.732;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=60;exitDy=47.5;exitPerimeter=0;" edge="1" parent="1" source="RRBBBZClNeuxWJbiWg2F-18" target="RRBBBZClNeuxWJbiWg2F-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="350" as="sourcePoint" />
             <mxPoint x="710" y="300" as="targetPoint" />
