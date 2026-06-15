@@ -52,7 +52,13 @@
         <mxCell id="4BoiRPLsd9ijMpMx9nFE-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;管理秒杀商品&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="280" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4BoiRPLsd9ijMpMx9nFE-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4BoiRPLsd9ijMpMx9nFE-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4BoiRPLsd9ijMpMx9nFE-21" target="4BoiRPLsd9ijMpMx9nFE-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="350" as="sourcePoint" />
+            <mxPoint x="340" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4BoiRPLsd9ijMpMx9nFE-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="350" as="sourcePoint" />
             <mxPoint x="340" y="300" as="targetPoint" />
