@@ -8,12 +8,20 @@
           <mxGeometry x="280" y="100" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RRBBBZClNeuxWJbiWg2F-2" value="seckill-job(Spring Boot)&lt;div&gt;Port 8016&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="120" y="200" width="250" height="150" as="geometry" />
+          <mxGeometry x="120" y="200" width="370" height="150" as="geometry" />
         </mxCell>
         <mxCell id="RRBBBZClNeuxWJbiWg2F-3" value="&lt;b&gt;SeckillCustomer&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="130" y="270" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RRBBBZClNeuxWJbiWg2F-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="RRBBBZClNeuxWJbiWg2F-3">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRBBBZClNeuxWJbiWg2F-5" value="&lt;b&gt;SeckillCustomer&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="140" y="280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RRBBBZClNeuxWJbiWg2F-6" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="RRBBBZClNeuxWJbiWg2F-5">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
