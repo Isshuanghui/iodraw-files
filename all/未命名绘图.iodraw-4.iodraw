@@ -7,8 +7,8 @@
         <mxCell id="RRBBBZClNeuxWJbiWg2F-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;RocketMQ&lt;/font&gt;&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="310" y="60" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RRBBBZClNeuxWJbiWg2F-2" value="Block" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="340" y="200" width="180" height="120" as="geometry" />
+        <mxCell id="RRBBBZClNeuxWJbiWg2F-2" value="seckill-job" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
