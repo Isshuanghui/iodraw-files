@@ -90,6 +90,9 @@
             <mxPoint x="790" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RRBBBZClNeuxWJbiWg2F-23" value="消费消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="140" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
