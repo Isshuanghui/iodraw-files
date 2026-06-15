@@ -663,8 +663,8 @@
         <mxCell id="30KzIKWdE7BjpdpKDY56-131" value="userId" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1750" y="1560" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="30KzIKWdE7BjpdpKDY56-132" value="orderCode" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1705" y="1290" width="60" height="30" as="geometry" />
+        <mxCell id="30KzIKWdE7BjpdpKDY56-132" value="seckillProductedId" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1455" y="1550" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
