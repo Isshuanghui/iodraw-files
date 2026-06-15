@@ -180,6 +180,12 @@
         <mxCell id="RRBBBZClNeuxWJbiWg2F-46" value="&lt;b&gt;ElasticSearch&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="940" y="630" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="RRBBBZClNeuxWJbiWg2F-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="450" as="sourcePoint" />
+            <mxPoint x="710" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
