@@ -119,6 +119,17 @@
             <mxPoint x="610" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RRBBBZClNeuxWJbiWg2F-31" value="进程内调用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="385" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRBBBZClNeuxWJbiWg2F-32" value="&lt;b&gt;SeckillCunsumer&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RRBBBZClNeuxWJbiWg2F-33" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="RRBBBZClNeuxWJbiWg2F-32">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
