@@ -23,7 +23,7 @@
           <mxGeometry x="1155" y="480" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="avDc2AxlX7yGiB0jAZez-8" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: left;&quot;&gt;&lt;b&gt;ElasticSearch&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1325" y="570" width="140" height="60" as="geometry" />
+          <mxGeometry x="1310" y="480" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="avDc2AxlX7yGiB0jAZez-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.548;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="avDc2AxlX7yGiB0jAZez-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
