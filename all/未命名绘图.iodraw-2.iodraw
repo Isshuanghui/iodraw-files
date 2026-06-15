@@ -502,6 +502,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="30KzIKWdE7BjpdpKDY56-90" value="seckill-bussiness&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;业务服务层&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=180;height=31;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="823" width="1450" height="361" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
