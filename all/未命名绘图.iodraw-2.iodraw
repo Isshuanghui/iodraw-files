@@ -412,10 +412,10 @@
           <mxGeometry x="1120" y="780" width="1480" height="170" as="geometry" />
         </mxCell>
         <mxCell id="30KzIKWdE7BjpdpKDY56-134" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;SeckillProductMapper&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1255" y="870" width="200" height="56" as="geometry" />
+          <mxGeometry x="1270" y="852" width="200" height="56" as="geometry" />
         </mxCell>
         <mxCell id="30KzIKWdE7BjpdpKDY56-135" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;SeckillOrderTradeMapper&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="860" width="225" height="60" as="geometry" />
+          <mxGeometry x="1615" y="850" width="225" height="60" as="geometry" />
         </mxCell>
         <mxCell id="30KzIKWdE7BjpdpKDY56-137" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;SeckillPaymentMapper&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2170" y="862" width="200" height="56" as="geometry" />
