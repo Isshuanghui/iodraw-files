@@ -397,7 +397,7 @@
         <mxCell id="30KzIKWdE7BjpdpKDY56-64" value="+ handleOrderTimeout(message)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="30KzIKWdE7BjpdpKDY56-62">
           <mxGeometry y="52" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="30KzIKWdE7BjpdpKDY56-65" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="30KzIKWdE7BjpdpKDY56-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.499;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="30KzIKWdE7BjpdpKDY56-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1470" y="360" as="sourcePoint" />
             <mxPoint x="1520" y="310" as="targetPoint" />
