@@ -262,8 +262,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="30KzIKWdE7BjpdpKDY56-1" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="270" width="300" height="200" as="geometry" />
+        <mxCell id="30KzIKWdE7BjpdpKDY56-1" value="seckill-api表现层" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="87" width="820" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
