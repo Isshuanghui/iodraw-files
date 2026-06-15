@@ -171,8 +171,8 @@
         <mxCell id="RRBBBZClNeuxWJbiWg2F-43" value="asyncSend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="580" y="228" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RRBBBZClNeuxWJbiWg2F-44" value="MySQL 8.0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="660" y="630" width="90" height="60" as="geometry" />
+        <mxCell id="RRBBBZClNeuxWJbiWg2F-44" value="&lt;b&gt;MySQL 8.0&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="660" y="630" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
