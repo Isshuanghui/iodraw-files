@@ -146,7 +146,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RRBBBZClNeuxWJbiWg2F-38" value="SeckillPaymentService" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="RRBBBZClNeuxWJbiWg2F-38" value="StockConsistencyService" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="140" y="630" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RRBBBZClNeuxWJbiWg2F-39" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="RRBBBZClNeuxWJbiWg2F-38">
