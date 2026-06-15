@@ -40,13 +40,13 @@
         <mxCell id="avDc2AxlX7yGiB0jAZez-37" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: left;&quot;&gt;&lt;span&gt;RedisStockSynchronizer&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;&lt;hr style=&quot;border-style:solid;&quot; size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1154.75" y="480" width="150.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aZZ1MaawYSyVHlivVM8B-1" value="" style="endArrow=block;html=1;rounded=0;entryX=0.4;entryY=1.066;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endFill=0;" edge="1" parent="1" target="avDc2AxlX7yGiB0jAZez-31">
+        <mxCell id="aZZ1MaawYSyVHlivVM8B-1" value="" style="endArrow=block;html=1;rounded=0;entryX=0.401;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endFill=0;" edge="1" parent="1" target="avDc2AxlX7yGiB0jAZez-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1090" y="480" as="sourcePoint" />
             <mxPoint x="1140" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aZZ1MaawYSyVHlivVM8B-2" value="" style="endArrow=block;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.429;entryY=1.024;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endFill=0;" edge="1" parent="1" target="avDc2AxlX7yGiB0jAZez-31">
+        <mxCell id="aZZ1MaawYSyVHlivVM8B-2" value="" style="endArrow=block;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.425;entryY=0.961;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endFill=0;" edge="1" parent="1" target="avDc2AxlX7yGiB0jAZez-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1210" y="480" as="sourcePoint" />
             <mxPoint x="1210.852" y="423.1" as="targetPoint" />
