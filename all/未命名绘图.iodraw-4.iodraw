@@ -45,6 +45,14 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RRBBBZClNeuxWJbiWg2F-12" value="&lt;b&gt;ProductController&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="720" y="330" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RRBBBZClNeuxWJbiWg2F-13" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="RRBBBZClNeuxWJbiWg2F-12">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
