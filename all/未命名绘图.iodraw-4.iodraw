@@ -123,9 +123,17 @@
           <mxGeometry x="420" y="385" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RRBBBZClNeuxWJbiWg2F-32" value="ProductService" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="385" y="470" width="150" height="60" as="geometry" />
+          <mxGeometry x="385" y="470" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RRBBBZClNeuxWJbiWg2F-33" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="RRBBBZClNeuxWJbiWg2F-32">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RRBBBZClNeuxWJbiWg2F-34" value="ProductService" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="395" y="480" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RRBBBZClNeuxWJbiWg2F-35" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="RRBBBZClNeuxWJbiWg2F-34">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
