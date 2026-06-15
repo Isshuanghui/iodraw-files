@@ -409,7 +409,7 @@
           <mxGeometry x="1450" y="1940" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="30KzIKWdE7BjpdpKDY56-133" value="数据访问层" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=90;height=37;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="820" width="680" height="230" as="geometry" />
+          <mxGeometry x="1150" y="820" width="1450" height="230" as="geometry" />
         </mxCell>
         <mxCell id="30KzIKWdE7BjpdpKDY56-134" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;SeckillProductMapper&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2190" y="924" width="200" height="56" as="geometry" />
