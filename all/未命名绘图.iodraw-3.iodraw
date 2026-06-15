@@ -49,15 +49,6 @@
         <mxCell id="avDc2AxlX7yGiB0jAZez-19" value="直接操作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1310" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="avDc2AxlX7yGiB0jAZez-22" value="StockConsistencyOrchestrator" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="120" width="240" height="196" as="geometry" />
-        </mxCell>
-        <mxCell id="avDc2AxlX7yGiB0jAZez-23" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="avDc2AxlX7yGiB0jAZez-22">
-          <mxGeometry y="26" width="240" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="avDc2AxlX7yGiB0jAZez-24" value="+&amp;nbsp; syncStock(productId, quantity)&lt;div style=&quot;font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; line-height: 24px; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: none rgba(0, 0, 0, 0);&quot;&gt;&lt;/div&gt;+&amp;nbsp; restoreStock(productId, quantity)&lt;div&gt;-&amp;nbsp; syncToDb(productId, quantity)&lt;/div&gt;&lt;div&gt;-&amp;nbsp; syncToRedis(productId, quantity)&lt;/div&gt;&lt;div&gt;-&amp;nbsp; syncToEs(productId, quantity, esEntity)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="avDc2AxlX7yGiB0jAZez-22">
-          <mxGeometry y="110" width="240" height="86" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
