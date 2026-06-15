@@ -429,7 +429,7 @@
         <mxCell id="30KzIKWdE7BjpdpKDY56-140" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;SeckillUserMapper&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1380" y="860" width="200" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="30KzIKWdE7BjpdpKDY56-141" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="30KzIKWdE7BjpdpKDY56-141" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.403;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="30KzIKWdE7BjpdpKDY56-78" target="30KzIKWdE7BjpdpKDY56-137">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1740" y="670" as="sourcePoint" />
             <mxPoint x="1790" y="620" as="targetPoint" />
