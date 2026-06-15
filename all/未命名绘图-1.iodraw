@@ -91,6 +91,15 @@
             <mxPoint x="420" y="304.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4BoiRPLsd9ijMpMx9nFE-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="430" as="sourcePoint" />
+            <mxPoint x="360" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4BoiRPLsd9ijMpMx9nFE-35" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4BoiRPLsd9ijMpMx9nFE-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
