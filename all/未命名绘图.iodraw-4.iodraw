@@ -180,10 +180,13 @@
         <mxCell id="RRBBBZClNeuxWJbiWg2F-46" value="&lt;b&gt;ElasticSearch&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="940" y="630" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RRBBBZClNeuxWJbiWg2F-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.008;exitY=0.446;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RRBBBZClNeuxWJbiWg2F-25" target="RRBBBZClNeuxWJbiWg2F-44">
+        <mxCell id="RRBBBZClNeuxWJbiWg2F-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.008;exitY=0.446;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="RRBBBZClNeuxWJbiWg2F-25" target="RRBBBZClNeuxWJbiWg2F-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="450" as="sourcePoint" />
             <mxPoint x="710" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="705" y="564" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
