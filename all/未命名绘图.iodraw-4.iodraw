@@ -113,7 +113,7 @@
         <mxCell id="RRBBBZClNeuxWJbiWg2F-29" value="进程内调用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="660" y="415" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RRBBBZClNeuxWJbiWg2F-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="RRBBBZClNeuxWJbiWg2F-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.009;exitY=0.058;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.758;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RRBBBZClNeuxWJbiWg2F-2" target="RRBBBZClNeuxWJbiWg2F-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="410" as="sourcePoint" />
             <mxPoint x="610" y="360" as="targetPoint" />
