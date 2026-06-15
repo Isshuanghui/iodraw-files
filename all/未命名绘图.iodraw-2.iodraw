@@ -331,6 +331,9 @@
         <mxCell id="30KzIKWdE7BjpdpKDY56-34" value="+ getPaymentDetail(id)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="30KzIKWdE7BjpdpKDY56-31">
           <mxGeometry y="78" width="180" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="30KzIKWdE7BjpdpKDY56-35" value="seckill-api表现层" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="97" width="1480" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
