@@ -409,7 +409,7 @@
           <mxGeometry x="1440" y="1550" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="30KzIKWdE7BjpdpKDY56-133" value="数据访问层" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=90;height=37;" vertex="1" parent="1">
-          <mxGeometry x="2180" y="840" width="960" height="930" as="geometry" />
+          <mxGeometry x="2180" y="840" width="340" height="930" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
