@@ -66,6 +66,12 @@
         <mxCell id="avDc2AxlX7yGiB0jAZez-18" value="直接调用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1130" y="380" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="avDc2AxlX7yGiB0jAZez-19" value="直接调用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avDc2AxlX7yGiB0jAZez-20" value="直接调用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="370" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
