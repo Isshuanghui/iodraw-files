@@ -70,10 +70,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RRBBBZClNeuxWJbiWg2F-18" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="785" y="70" width="135" height="90" as="geometry" />
+          <mxGeometry x="785" y="100" width="85" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RRBBBZClNeuxWJbiWg2F-19" value="Broswer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="840" y="80" width="70" height="30" as="geometry" />
+          <mxGeometry x="1000" y="60" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
