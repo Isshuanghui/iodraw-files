@@ -208,7 +208,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RRBBBZClNeuxWJbiWg2F-50" value="JDBC(Druid连接池）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="848" width="140" height="30" as="geometry" />
+          <mxGeometry x="700" y="585" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RRBBBZClNeuxWJbiWg2F-51" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="798" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
