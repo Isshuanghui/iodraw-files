@@ -192,7 +192,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SnsH-PBfBhQ19Kggb_UH-82" value="超时未支付 / 自动取消" style="curved=1;startArrow=none;;exitX=0;exitY=0.8;entryX=0.75;entryY=0;rounded=0;" edge="1" parent="1" source="SnsH-PBfBhQ19Kggb_UH-38" target="SnsH-PBfBhQ19Kggb_UH-62">
+        <mxCell id="SnsH-PBfBhQ19Kggb_UH-82" value="超时未支付 / 自动取消" style="curved=0;startArrow=none;;exitX=0;exitY=0.8;entryX=0.75;entryY=0;rounded=0;" edge="1" parent="1" source="SnsH-PBfBhQ19Kggb_UH-38" target="SnsH-PBfBhQ19Kggb_UH-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="323" y="475" />
