@@ -162,10 +162,10 @@
           <mxGeometry x="607" y="2224" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="SnsH-PBfBhQ19Kggb_UH-75" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="446" y="1504" width="324" height="436" as="geometry" />
+          <mxGeometry x="446" y="1504" width="324" height="126" as="geometry" />
         </mxCell>
         <mxCell id="SnsH-PBfBhQ19Kggb_UH-76" value="APPLYING=1 APPROVED=2 REJECTED=3&#xa;REFUNDING=4 REFUNDED=5 FAILED=6" style="align=left;spacingLeft=4;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1793" width="270" height="69" as="geometry" />
+          <mxGeometry x="460" y="1540" width="270" height="69" as="geometry" />
         </mxCell>
         <mxCell id="SnsH-PBfBhQ19Kggb_UH-77" value="MySQL INCR(乐观锁)→Redis INCR&#xa;(漂移校正)→ES更新→异步补偿" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="917" width="283" height="515" as="geometry" />
