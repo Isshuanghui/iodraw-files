@@ -245,6 +245,15 @@
         <mxCell id="SnsH-PBfBhQ19Kggb_UH-91" value="退款失败/驳回" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SnsH-PBfBhQ19Kggb_UH-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SnsH-PBfBhQ19Kggb_UH-92" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="390" as="sourcePoint" />
+            <mxPoint x="280" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SnsH-PBfBhQ19Kggb_UH-93" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SnsH-PBfBhQ19Kggb_UH-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
