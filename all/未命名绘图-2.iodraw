@@ -252,10 +252,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SnsH-PBfBhQ19Kggb_UH-90" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="SnsH-PBfBhQ19Kggb_UH-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.173;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SnsH-PBfBhQ19Kggb_UH-50">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550" y="830" as="sourcePoint" />
-            <mxPoint x="650" y="830" as="targetPoint" />
+            <mxPoint x="700" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SnsH-PBfBhQ19Kggb_UH-91" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SnsH-PBfBhQ19Kggb_UH-90">
