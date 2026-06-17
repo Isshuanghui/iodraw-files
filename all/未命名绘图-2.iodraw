@@ -140,7 +140,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SnsH-PBfBhQ19Kggb_UH-71" value="任一源失败" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.32;entryY=-0.01;rounded=0;" edge="1" parent="SnsH-PBfBhQ19Kggb_UH-62" source="SnsH-PBfBhQ19Kggb_UH-66" target="SnsH-PBfBhQ19Kggb_UH-67">
+        <mxCell id="SnsH-PBfBhQ19Kggb_UH-71" value="任一源失败" style="curved=0;startArrow=none;;exitX=0.5;exitY=1;entryX=0.32;entryY=-0.01;rounded=0;" edge="1" parent="SnsH-PBfBhQ19Kggb_UH-62" source="SnsH-PBfBhQ19Kggb_UH-66" target="SnsH-PBfBhQ19Kggb_UH-67">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="104" y="483" />
