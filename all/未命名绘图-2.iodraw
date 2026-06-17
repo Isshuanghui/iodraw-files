@@ -170,13 +170,6 @@
         <mxCell id="SnsH-PBfBhQ19Kggb_UH-78" value="MySQL INCR(乐观锁)→Redis INCR&#xa;(漂移校正)→ES更新→异步补偿" style="align=left;spacingLeft=4;" vertex="1" parent="1">
           <mxGeometry x="25" y="532" width="213" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="SnsH-PBfBhQ19Kggb_UH-79" value="" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.99;entryY=0.4;rounded=0;" edge="1" parent="1" source="SnsH-PBfBhQ19Kggb_UH-73" target="SnsH-PBfBhQ19Kggb_UH-74">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="909" y="2187" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SnsH-PBfBhQ19Kggb_UH-80" value="秒杀成功 / 创建订单" style="curved=1;startArrow=none;;exitX=0.47;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="SnsH-PBfBhQ19Kggb_UH-37" target="SnsH-PBfBhQ19Kggb_UH-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -258,6 +251,12 @@
         </mxCell>
         <mxCell id="SnsH-PBfBhQ19Kggb_UH-95" value="三源恢复完成" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SnsH-PBfBhQ19Kggb_UH-94">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SnsH-PBfBhQ19Kggb_UH-96" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="SnsH-PBfBhQ19Kggb_UH-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="1690" as="sourcePoint" />
+            <mxPoint x="640" y="1640" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
