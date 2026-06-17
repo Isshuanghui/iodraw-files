@@ -325,11 +325,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JJnaKDvC9j3EOSQT5ZIU-66" value="11.同步库存 SET" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="JJnaKDvC9j3EOSQT5ZIU-8" target="JJnaKDvC9j3EOSQT5ZIU-10">
+        <mxCell id="JJnaKDvC9j3EOSQT5ZIU-66" value="11.同步库存 SET" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="JJnaKDvC9j3EOSQT5ZIU-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1085" y="1973" />
             </Array>
+            <mxPoint x="1200" y="1973" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JJnaKDvC9j3EOSQT5ZIU-67" value="同步完成" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="JJnaKDvC9j3EOSQT5ZIU-10" target="JJnaKDvC9j3EOSQT5ZIU-8">
@@ -509,7 +510,7 @@
           <mxGeometry x="1201" y="2080" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JJnaKDvC9j3EOSQT5ZIU-99" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1211" y="1980" width="10" height="60" as="geometry" />
+          <mxGeometry x="1201" y="1754" width="10" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
