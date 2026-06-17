@@ -26,7 +26,7 @@
           <mxGeometry x="70" y="219" width="10" height="1344" as="geometry" />
         </mxCell>
         <mxCell id="JJnaKDvC9j3EOSQT5ZIU-8" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="JJnaKDvC9j3EOSQT5ZIU-6">
-          <mxGeometry x="70" y="1681" width="10" height="926" as="geometry" />
+          <mxGeometry x="70" y="1681" width="10" height="989" as="geometry" />
         </mxCell>
         <mxCell id="JJnaKDvC9j3EOSQT5ZIU-9" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="JJnaKDvC9j3EOSQT5ZIU-6">
           <mxGeometry x="70" y="2769" width="10" height="114" as="geometry" />
