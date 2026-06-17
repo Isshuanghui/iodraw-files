@@ -309,11 +309,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JJnaKDvC9j3EOSQT5ZIU-64" value="10.UPDATE seckill_product SET qty=qty-1 WHERE id=? AND qty&gt;0" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="JJnaKDvC9j3EOSQT5ZIU-8" target="JJnaKDvC9j3EOSQT5ZIU-26">
+        <mxCell id="JJnaKDvC9j3EOSQT5ZIU-64" value="10.UPDATE seckill_product SET qty=qty-1 WHERE id=? AND qty&gt;0" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="JJnaKDvC9j3EOSQT5ZIU-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1385" y="1865" />
             </Array>
+            <mxPoint x="1800" y="1870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JJnaKDvC9j3EOSQT5ZIU-65" value="扣减成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="JJnaKDvC9j3EOSQT5ZIU-26" target="JJnaKDvC9j3EOSQT5ZIU-8">
@@ -471,7 +472,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JJnaKDvC9j3EOSQT5ZIU-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="1790" width="10" height="60" as="geometry" />
+          <mxGeometry x="1801" y="1860" width="10" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
