@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="kObNk_Zr1tfvdB2yIfyN">
-    <mxGraphModel dx="714" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,18 +241,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JJnaKDvC9j3EOSQT5ZIU-54" value="6.INCR每日计数" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="JJnaKDvC9j3EOSQT5ZIU-7" target="JJnaKDvC9j3EOSQT5ZIU-10">
+        <mxCell id="JJnaKDvC9j3EOSQT5ZIU-54" value="6.INCR每日计数" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="JJnaKDvC9j3EOSQT5ZIU-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1085" y="1307" />
             </Array>
+            <mxPoint x="1200" y="1307" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JJnaKDvC9j3EOSQT5ZIU-55" value="7.设置状态 0:10排队中" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="JJnaKDvC9j3EOSQT5ZIU-7" target="JJnaKDvC9j3EOSQT5ZIU-10">
+        <mxCell id="JJnaKDvC9j3EOSQT5ZIU-55" value="7.设置状态 0:10排队中" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="JJnaKDvC9j3EOSQT5ZIU-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1085" y="1363" />
             </Array>
+            <mxPoint x="1200" y="1363" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JJnaKDvC9j3EOSQT5ZIU-56" value="8.asyncSend(秒杀消息)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="JJnaKDvC9j3EOSQT5ZIU-7">
