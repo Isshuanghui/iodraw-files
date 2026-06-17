@@ -98,11 +98,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SnsH-PBfBhQ19Kggb_UH-61" value="" style="curved=1;startArrow=none;;exitX=0.75;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="SnsH-PBfBhQ19Kggb_UH-50" source="SnsH-PBfBhQ19Kggb_UH-53" target="SnsH-PBfBhQ19Kggb_UH-56">
+        <mxCell id="SnsH-PBfBhQ19Kggb_UH-61" value="" style="curved=0;startArrow=none;;exitX=0.75;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="SnsH-PBfBhQ19Kggb_UH-50" source="SnsH-PBfBhQ19Kggb_UH-53" target="SnsH-PBfBhQ19Kggb_UH-56">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="211" y="350" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SnsH-PBfBhQ19Kggb_UH-62" value="CANCELLED" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;startSize=25;container=0;collapsible=0;rounded=1;arcSize=14;dropTarget=0;verticalAlign=top;" vertex="1" parent="1">
