@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="G2jyB_qp-cM6bKBtsRK0">
-    <mxGraphModel dx="866" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2693" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,7 +106,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SnsH-PBfBhQ19Kggb_UH-62" value="CANCELLED" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;startSize=25;container=0;collapsible=0;rounded=1;arcSize=14;dropTarget=0;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="96" y="1529" width="293" height="597" as="geometry" />
+          <mxGeometry x="66" y="921" width="293" height="597" as="geometry" />
         </mxCell>
         <mxCell id="SnsH-PBfBhQ19Kggb_UH-63" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="SnsH-PBfBhQ19Kggb_UH-62">
           <mxGeometry x="152" y="46" width="14" height="14" as="geometry" />
@@ -168,10 +168,10 @@
           <mxGeometry x="460" y="1540" width="270" height="69" as="geometry" />
         </mxCell>
         <mxCell id="SnsH-PBfBhQ19Kggb_UH-77" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1120" width="283" height="130" as="geometry" />
+          <mxGeometry x="-10" y="512" width="283" height="130" as="geometry" />
         </mxCell>
         <mxCell id="SnsH-PBfBhQ19Kggb_UH-78" value="MySQL INCR(乐观锁)→Redis INCR&#xa;(漂移校正)→ES更新→异步补偿" style="align=left;spacingLeft=4;" vertex="1" parent="1">
-          <mxGeometry x="55" y="1140" width="213" height="69" as="geometry" />
+          <mxGeometry x="25" y="532" width="213" height="69" as="geometry" />
         </mxCell>
         <mxCell id="SnsH-PBfBhQ19Kggb_UH-79" value="" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.99;entryY=0.4;rounded=0;" edge="1" parent="1" source="SnsH-PBfBhQ19Kggb_UH-73" target="SnsH-PBfBhQ19Kggb_UH-74">
           <mxGeometry relative="1" as="geometry">
@@ -238,7 +238,7 @@
         <mxCell id="SnsH-PBfBhQ19Kggb_UH-89" value="" style="curved=0;dashed=1;startArrow=none;;exitX=0.5;exitY=0.99;entryX=0.221;entryY=-0.002;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SnsH-PBfBhQ19Kggb_UH-78" target="SnsH-PBfBhQ19Kggb_UH-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="161" y="1504" />
+              <mxPoint x="131" y="896" />
             </Array>
           </mxGeometry>
         </mxCell>
