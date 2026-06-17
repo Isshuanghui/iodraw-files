@@ -523,7 +523,10 @@
           <mxGeometry x="1201" y="880" width="10" height="63" as="geometry" />
         </mxCell>
         <mxCell id="JJnaKDvC9j3EOSQT5ZIU-102" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
-          <mxGeometry x="1201" y="1280" width="10" height="63" as="geometry" />
+          <mxGeometry x="1201" y="1290" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JJnaKDvC9j3EOSQT5ZIU-103" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="1">
+          <mxGeometry x="1211" y="1300" width="10" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
