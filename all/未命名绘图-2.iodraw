@@ -201,7 +201,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SnsH-PBfBhQ19Kggb_UH-84" value="申请退款" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.8;entryY=0;rounded=0;" edge="1" parent="1" source="SnsH-PBfBhQ19Kggb_UH-44" target="SnsH-PBfBhQ19Kggb_UH-50">
+        <mxCell id="SnsH-PBfBhQ19Kggb_UH-84" value="申请退款" style="curved=0;startArrow=none;;exitX=0.5;exitY=1;entryX=0.8;entryY=0;rounded=0;" edge="1" parent="1" source="SnsH-PBfBhQ19Kggb_UH-44" target="SnsH-PBfBhQ19Kggb_UH-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="777" y="917" />
