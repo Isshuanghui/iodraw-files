@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="G2jyB_qp-cM6bKBtsRK0">
-    <mxGraphModel dx="622" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1617" dy="1016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,7 +168,7 @@
           <mxGeometry x="460" y="1540" width="270" height="69" as="geometry" />
         </mxCell>
         <mxCell id="SnsH-PBfBhQ19Kggb_UH-77" value="MySQL INCR(乐观锁)→Redis INCR&#xa;(漂移校正)→ES更新→异步补偿" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="917" width="283" height="515" as="geometry" />
+          <mxGeometry x="20" y="917" width="283" height="333" as="geometry" />
         </mxCell>
         <mxCell id="SnsH-PBfBhQ19Kggb_UH-78" value="MySQL INCR(乐观锁)→Redis INCR&#xa;(漂移校正)→ES更新→异步补偿" style="align=left;spacingLeft=4;" vertex="1" parent="1">
           <mxGeometry x="55" y="1140" width="213" height="69" as="geometry" />
