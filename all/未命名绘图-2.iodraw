@@ -261,7 +261,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SnsH-PBfBhQ19Kggb_UH-91" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SnsH-PBfBhQ19Kggb_UH-90">
+        <mxCell id="SnsH-PBfBhQ19Kggb_UH-91" value="退款失败/驳回" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SnsH-PBfBhQ19Kggb_UH-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
