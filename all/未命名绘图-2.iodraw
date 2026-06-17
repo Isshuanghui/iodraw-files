@@ -256,6 +256,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550" y="830" as="sourcePoint" />
             <mxPoint x="700" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="554" y="720" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SnsH-PBfBhQ19Kggb_UH-91" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SnsH-PBfBhQ19Kggb_UH-90">
