@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="kObNk_Zr1tfvdB2yIfyN">
-    <mxGraphModel dx="1516" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="714" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -253,11 +253,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JJnaKDvC9j3EOSQT5ZIU-56" value="8.asyncSend(秒杀消息)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="JJnaKDvC9j3EOSQT5ZIU-7" target="JJnaKDvC9j3EOSQT5ZIU-22">
+        <mxCell id="JJnaKDvC9j3EOSQT5ZIU-56" value="8.asyncSend(秒杀消息)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="JJnaKDvC9j3EOSQT5ZIU-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1185" y="1419" />
             </Array>
+            <mxPoint x="1400" y="1420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JJnaKDvC9j3EOSQT5ZIU-57" value="发送完成" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="JJnaKDvC9j3EOSQT5ZIU-22" target="JJnaKDvC9j3EOSQT5ZIU-7">
@@ -475,7 +476,7 @@
           <mxGeometry x="1801" y="1860" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JJnaKDvC9j3EOSQT5ZIU-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1811" y="1870" width="10" height="60" as="geometry" />
+          <mxGeometry x="1401" y="1420" width="10" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
