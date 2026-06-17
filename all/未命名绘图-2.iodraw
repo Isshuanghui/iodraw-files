@@ -150,8 +150,7 @@
         <mxCell id="SnsH-PBfBhQ19Kggb_UH-72" value="重试(指数退避)" style="curved=0;startArrow=none;;exitX=0.792;exitY=-0.008;entryX=0.61;entryY=0.98;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="SnsH-PBfBhQ19Kggb_UH-62" source="SnsH-PBfBhQ19Kggb_UH-67" target="SnsH-PBfBhQ19Kggb_UH-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="214" y="483" />
-              <mxPoint x="214" y="218" />
+              <mxPoint x="194" y="218" />
             </Array>
           </mxGeometry>
         </mxCell>
