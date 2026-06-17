@@ -140,14 +140,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SnsH-PBfBhQ19Kggb_UH-71" value="任一源失败" style="curved=0;startArrow=none;;exitX=0.5;exitY=1;entryX=0.32;entryY=-0.01;rounded=0;" edge="1" parent="SnsH-PBfBhQ19Kggb_UH-62" source="SnsH-PBfBhQ19Kggb_UH-66" target="SnsH-PBfBhQ19Kggb_UH-67">
+        <mxCell id="SnsH-PBfBhQ19Kggb_UH-71" value="任一源失败" style="curved=0;startArrow=none;;exitX=0.5;exitY=1;entryX=0.173;entryY=-0.067;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="SnsH-PBfBhQ19Kggb_UH-62" source="SnsH-PBfBhQ19Kggb_UH-66" target="SnsH-PBfBhQ19Kggb_UH-67">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="104" y="483" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SnsH-PBfBhQ19Kggb_UH-72" value="重试(指数退避)" style="curved=1;startArrow=none;;exitX=0.68;exitY=-0.01;entryX=0.61;entryY=0.98;rounded=0;" edge="1" parent="SnsH-PBfBhQ19Kggb_UH-62" source="SnsH-PBfBhQ19Kggb_UH-67" target="SnsH-PBfBhQ19Kggb_UH-64">
+        <mxCell id="SnsH-PBfBhQ19Kggb_UH-72" value="重试(指数退避)" style="curved=0;startArrow=none;;exitX=0.792;exitY=-0.008;entryX=0.61;entryY=0.98;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="SnsH-PBfBhQ19Kggb_UH-62" source="SnsH-PBfBhQ19Kggb_UH-67" target="SnsH-PBfBhQ19Kggb_UH-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="214" y="483" />
