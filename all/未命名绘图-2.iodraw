@@ -185,10 +185,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SnsH-PBfBhQ19Kggb_UH-81" value="用户完成支付" style="curved=1;startArrow=none;;exitX=1;exitY=0.83;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="SnsH-PBfBhQ19Kggb_UH-38" target="SnsH-PBfBhQ19Kggb_UH-44">
+        <mxCell id="SnsH-PBfBhQ19Kggb_UH-81" value="用户完成支付" style="curved=0;startArrow=none;;exitX=1;exitY=0.83;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="SnsH-PBfBhQ19Kggb_UH-38" target="SnsH-PBfBhQ19Kggb_UH-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="777" y="475" />
+              <mxPoint x="777" y="383" />
             </Array>
           </mxGeometry>
         </mxCell>
