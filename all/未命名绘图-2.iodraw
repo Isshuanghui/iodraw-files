@@ -121,14 +121,14 @@
           <mxGeometry x="56" y="399" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="SnsH-PBfBhQ19Kggb_UH-67" value="异步补偿" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="SnsH-PBfBhQ19Kggb_UH-62">
-          <mxGeometry x="119" y="532" width="80" height="35" as="geometry" />
+          <mxGeometry x="80" y="532" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="SnsH-PBfBhQ19Kggb_UH-68" value="" style="curved=1;startArrow=none;;exitX=0.48;exitY=0.96;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="SnsH-PBfBhQ19Kggb_UH-62" source="SnsH-PBfBhQ19Kggb_UH-63" target="SnsH-PBfBhQ19Kggb_UH-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SnsH-PBfBhQ19Kggb_UH-69" value="INCR成功" style="curved=0;startArrow=none;;exitX=0.38;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="SnsH-PBfBhQ19Kggb_UH-62" source="SnsH-PBfBhQ19Kggb_UH-64" target="SnsH-PBfBhQ19Kggb_UH-65">
+        <mxCell id="SnsH-PBfBhQ19Kggb_UH-69" value="INCR成功" style="curved=0;startArrow=none;;exitX=0.061;exitY=1.049;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="SnsH-PBfBhQ19Kggb_UH-62" source="SnsH-PBfBhQ19Kggb_UH-64" target="SnsH-PBfBhQ19Kggb_UH-65">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="104" y="218" />
